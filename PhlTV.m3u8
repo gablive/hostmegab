@@ -60,7 +60,7 @@ https://ythls.armelin.one/channel/UCFRj7FPKTthzA_gfE2PsGJQ.m3u8
 #EXTINF:-1 tvg-id="NHKJPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/NHK_World.svg" group-title="News",NHK World Japan [TV-24]
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="GMA NEWS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/GTV_Philippines_Logo_Vector.svgg" group-title="General",GTV [TV-27 Manila]
+#EXTINF:-1 tvg-id="" tvg-name="GMA NEWS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/GTV_Philippines_Logo_Vector.svg" group-title="General",GTV [TV-27 Manila]
 http://115.146.176.131:80/TimRizal/TimRizal/35.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="UNTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/UNTV-Logo-2016.svg" group-title="News;General",UNTV [TV-37]
