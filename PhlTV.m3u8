@@ -108,23 +108,23 @@ https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/buko_qp.m3u8
 #EXTINF:-1 tvg-id="Dreamstar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsb_m4Xq2k0sni9RIQQ-l3wohZ-2PK8G029w&s" group title="General;Radio",Dreamstar Radio
 https://usa2.server2028.com/hls/dreamstar_teleradio_/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/NBA_TV.svg" group-title="Sports",NBA TV
+#EXTINF:-1 tvg-id=NBATV.ph"" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/NBA_TV.svg" group-title="Sports",NBA TV
 http://115.146.176.131:80/TimRizal/TimRizal/97.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SOLAR SPORTS" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/eb/Solar_Sports_Logo_2022.png/revision/latest?cb=20211226131005" group-title="Sports",Solar Sports
+#EXTINF:-1 tvg-id="SolarSports.ph" tvg-name="SOLAR SPORTS" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/eb/Solar_Sports_Logo_2022.png/revision/latest?cb=20211226131005" group-title="Sports",Solar Sports
 http://115.146.176.131:80/TimRizal/TimRizal/80.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="KARAOKE" tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/09/The-Karaoke-Channel.jpg" group-title="Music",Karaoke Channel
+#EXTINF:-1 tvg-id="TKC.ph" tvg-name="KARAOKE" tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/09/The-Karaoke-Channel.jpg" group-title="Music",Karaoke Channel
 http://115.146.176.131:80/TimRizal/TimRizal/70.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="PBA RUSH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.pngg" group-title="Sports",PBA Rush
+#EXTINF:-1 tvg-id="PBARUSH.ph" tvg-name="PBA RUSH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.pngg" group-title="Sports",PBA Rush
 http://115.146.176.131:80/TimRizal/TimRizal/69.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="JEEPNEY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Jeepney_TV_Logo_2015.svg" group-title="General",Jeepney TV
+#EXTINF:-1 tvg-id="JeepneyTV.ph" tvg-name="JEEPNEY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Jeepney_TV_Logo_2015.svg" group-title="General",Jeepney TV
 http://115.146.176.131:80/TimRizal/TimRizal/64.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SMNI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg" group-title="General;Religious;Cult",SMNI
+#EXTINF:-1 tvg-id="SMNI.ph" tvg-name="SMNI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg" group-title="General;Religious;Cult",SMNI
 http://115.146.176.131:80/TimRizal/TimRizal/19.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="KAPAMILYA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Kapamilya_Channel_Logo_2020.svg" group-title="ph live",Kapamilya Channel [Cable]
+#EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-name="KAPAMILYA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Kapamilya_Channel_Logo_2020.svg" group-title="ph live",Kapamilya Channel [Cable]
 http://115.146.176.131:80/TimRizal/TimRizal/89.ts
