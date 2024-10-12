@@ -129,7 +129,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/19.ts
 #EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-name="KAPAMILYA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Kapamilya_Channel_Logo_2020.svg" group-title="General",Kapamilya Channel [Cable]
 http://115.146.176.131:80/TimRizal/TimRizal/89.ts
 
-#EXTINF:-1 tvg-id="Undefined" tvg-name="UNDEFINED" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Hallypop-GMA-Logo-alpha.jpg" group-title="Movies",Undefined Break [Hallypop]
+#EXTINF:-1 tvg-id="Undefined" tvg-name="UNDEFINED" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Hallypop-GMA-Logo-alpha.jpg" group-title="Movies",UnknownChl001 [Hallypop]
 https://www.youtube.com/abscbnentertainment/live
 
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News",NBC News NOW
