@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-id="" tvg-name="ALLTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/ALLTV_Logo_2022.svg" group-title="General",ALLTV [TV-2 Manila]
 http://115.146.176.131:80/TimRizal/TimRizal/60.ts
 
-#EXTINF:-1 tvg-id="ABS-CBN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ABS-CBN_%282013%29.svg/800px-ABS-CBN_%282013%29.svg.png" group-title="General",ABS-CBN TFC [TV-2]
-https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-id="ABS-CBN.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ABS-CBN_%282013%29.svg/800px-ABS-CBN_%282013%29.svg.png" group-title="General",ABS-CBN TFC [TV-2]
+http://cord-cutter.net:8080/X5xRz0/944877/101823
 
 #EXTINF:-1 tvg-id="C1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Cinema_One_2013_logo.svg" group-title="Movies",CineOne [TV-2.1]
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
@@ -32,6 +32,9 @@ https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
 
 #EXTINF:-1 tvg-id="DZBBDT1.ph" tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="Radio;News",Super Radyo DZBB [TV-7.1]
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
+
+#EXTINF:-1,tvg-id="GMATV.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" group-title="General", GMA Life TV [TV-7.2]
+http://cord-cutter.net:8080/X5xRz0/944877/101825
 
 #EXTINF:-1 tvg-id="RPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/RPTV_%282024%29.svg" group=title="General",RPTV HD [TV-9]
 http://115.146.176.131:80/TimRizal/TimRizal/33.ts
@@ -69,8 +72,11 @@ http://115.146.176.131:80/TimRizal/TimRizal/38.ts
 #EXTINF:-1 tvg-id="OneSportsPH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg" group-title="Sports",One Sports [TV-41]
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/onesports_qp.m3u8
 
-#EXTINF:-1 tvg-id="OneSportsPH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg" group-title="Sports",One Sports SD [TV-41]
+#EXTINF:-1 tvg-id="OneSports.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg" group-title="Sports",One Sports SD [TV-41]
 http://iptvtree.net:8080/live/iptvromania2020/02eFiY8dip8UPQWaEuS9/299947.ts
+
+#EXTINF:-1 tvg-id="OneNews.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/One_News_%282020%29.svg/revision/latest?cb=20240621072547" group-title="News;General", One News HD [TV-42]
+http://tv14s.xyz:8080/A1Jay5/362586/101774
 
 #EXTINF:-1 tvg-id="CCTN47.ph" tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="Religious",CCTN [TV-47]
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
@@ -128,6 +134,15 @@ http://115.146.176.131:80/TimRizal/TimRizal/19.ts
 
 #EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-name="KAPAMILYA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Kapamilya_Channel_Logo_2020.svg" group-title="General",Kapamilya Channel [Cable]
 http://115.146.176.131:80/TimRizal/TimRizal/89.ts
+
+#EXTINF:-1 tvg-id="Sari Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Sari-Sari_Channel_logo.png6" group-title="General",SARI Channel
+http://fortv.cc:8080/5ybSS2/616430/101824
+
+#EXTINF:-1 tvg-id="TFCGuam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/TFC2011_logo.svg/revision/latest/scale-to-width-down/1000?cb=20180511214636" group-title="General",The Filipino Channel
+https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
+
+#EXTINF:-1tvg-id="GMAPinoyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png" group-title="General",GMA Pinoy TV
+http://tv14s.xyz:8080/A1Jay5/362586/101826
 
 #EXTINF:-1 tvg-id="Undefined" tvg-name="UNDEFINED" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Hallypop-GMA-Logo-alpha.jpg" group-title="Movies",UnknownChl001 [Hallypop]
 https://www.youtube.com/abscbnentertainment/live
