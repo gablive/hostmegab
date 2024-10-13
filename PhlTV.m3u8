@@ -135,7 +135,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/19.ts
 #EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-name="KAPAMILYA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Kapamilya_Channel_Logo_2020.svg" group-title="General",Kapamilya Channel [Cable]
 http://115.146.176.131:80/TimRizal/TimRizal/89.ts
 
-#EXTINF:-1 tvg-id="Sari Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Sari-Sari_Channel_logo.png6" group-title="General",SARI Channel
+#EXTINF:-1 tvg-id="Sari Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Sari-Sari_Channel_logo.png" group-title="General",SARI Channel
 http://fortv.cc:8080/5ybSS2/616430/101824
 
 #EXTINF:-1 tvg-id="TFCGuam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/TFC2011_logo.svg/revision/latest/scale-to-width-down/1000?cb=20180511214636" group-title="General",The Filipino Channel
