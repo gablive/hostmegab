@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="ALLTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/ALLTV_Logo_2022.svg" group-title="General",ALLTV [TV-2 Manila]
+#EXTINF:-1 tvg-id="ALLTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/ALLTV_Logo_2022.svg" group-title="General",ALLTV [TV-2 Manila]
 http://115.146.176.131:80/TimRizal/TimRizal/60.ts
 
-#EXTINF:-1 tvg-id="ABS-CBN.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ABS-CBN_%282013%29.svg/800px-ABS-CBN_%282013%29.svg.png" group-title="General",ABS-CBN TFC [TV-2]
+#EXTINF:-1 tvg-id="ABS-CBN.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ABS-CBN_%282013%29.svg/800px-ABS-CBN_%282013%29.svg.png" group-title="General",ABS-CBN [TV-2]
 https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
 
-#EXTINF:-1 tvg-id="C1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Cinema_One_2013_logo.svg" group-title="Movies",CineOne [TV-2.1]
+#EXTINF:-1 tvg-id="C1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Cinema_One_2013_logo.svg" group-title="Movies",Cinema One [TV-2.1]
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 
 #EXTINF:-1tvg-id="CINEMO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="Movies",Cine Mo! [TV-2.2]
@@ -36,7 +36,10 @@ https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 #EXTINF:-1,tvg-id="GMATV.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" group-title="General",GMA Life TV [TV-7.2]
 http://cord-cutter.net:8080/X5xRz0/944877/101825
 
-#EXTINF:-1 tvg-id="RPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/RPTV_%282024%29.svg" group=title="General",RPTV HD [TV-9]
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CNN_Philippines_Logo.svg" group-title="News",CNN Philippines [TV-9]
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/RPTV_%282024%29.svg" group-title="General",RPTV HD [TV-9]
 http://115.146.176.131:80/TimRizal/TimRizal/33.ts
 
 #EXTINF:-1 tvg-id="A2Z.ph" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="General;Religious",A2Z [TV-11]
@@ -69,7 +72,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/35.ts
 #EXTINF:-1 tvg-id="" tvg-name="UNTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/UNTV-Logo-2016.svg" group-title="News;General",UNTV [TV-37]
 http://115.146.176.131:80/TimRizal/TimRizal/38.ts
 
-#EXTINF:-1 tvg-id="OneSportsPH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg" group-title="Sports",One Sports [TV-41]
+#EXTINF:-1 tvg-id="OneSportsPH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/OneSportsPlus_logo.svg" group-title="Sports",One Sports+ [TV-41]
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/onesports_qp.m3u8
 
 #EXTINF:-1 tvg-id="OneSports.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg" group-title="Sports",One Sports SD [TV-41]
@@ -90,28 +93,34 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="BloombergTVAsia.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 
-#EXTINF:-1 tvg-id="CNSEA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group title="Cartoon",Cartoon Network SE-Asia
+#EXTINF:-1 tvg-id="CNSEA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Cartoon",Cartoon Network SE-Asia
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 
-#EXTINF:-1 tvg-id="Rakuten" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" group title="Movies",Rakuten TV
+#EXTINF:-1 tvg-id="Rakuten" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" group-title="Movies",Rakuten TV
 https://rakuten-family-1-eu.rakuten.wurl.tv/2000.m3u8
 
-#EXTINF:-1 tvg-id="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Sony_Movies_%2B1_logo_2019.png" group title="Movies",SONY Movies
+#EXTINF:-1 tvg-id="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Sony_Movies_%2B1_logo_2019.png" group-title="Movies",SONY Movies
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ASC" tvg-logo="https://m.media-amazon.com/images/I/516n7V4KybL.png" group title="Movies",Asian Crush
+#EXTINF:-1 tvg-id="ASC" tvg-logo="https://m.media-amazon.com/images/I/516n7V4KybL.png" group-title="Movies",Asian Crush
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/cb543d1b796c668c84cb3f62cef049a2f9421fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7756db80148e782a8eb3dc68306d390ec90c1fbcbf5ba0f8ff5e43ca78a3b51a4b902910e39f429d8118a681d50ec85e8f25f4118095a1d88017d38f9437f852b7061632571541527ee9ab6d9e98f15931957d21560e5ce8a6808c2156e466702c337b56dd1f9b32dd8024fb115f7bc49f3def019f6eb006a9a16da9b9a29d3529c64c6f381345f0b5dae6d63027af69bb8fe8d37a7098bc721223983c89737979f897ba896357ae21976ea5cdecad7a7b0867a5bdf8e8cea3844bd308cbc9fd943c789c026e16ab52b89361d728922de69e53696b444aa99542d7c6f76a70331fc8d005942412b78ddfd89f166d9e295b7bf870d55e3269ce1f6568aa78aacd723fdf6642ae1d09d67479c04ef5b329b580dee60d34fc9ee44aed60e2b04583a756e73d720c55e0a7620e1c153de3ef600c22708c10b78484b2217b75869dfaf7ce5737102a57035cf985c944dbdf90674d6c823940477b1f109a01ac19fc085b0f23cc5e9eec3e7d8b022e3af5e558795f7f9ddcbe918db59b12e767b2a90e151a88cffbf5d1232a4e5e745aa3/162/1280x720_3329040/index.m3u8?
 
 #EXTINF:-1 tvg-id="pbo.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Pinoy_Box_Office_logo.svg" group-title="Movies",Pinoy Box Office (Cignal)
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/pinoyboxoffice_qp.m3u8
 
-#EXTINF:-4 tvg-id="CMP" tvg-logo="https://www.celestialtiger.com/assets/img/logos/channel-list/cm-pinoy-lt.webp" group title="Movies",Celestial Movies Pinoy (Cignal)
+#EXTINF:-4 tvg-id="CMP" tvg-logo="https://www.celestialtiger.com/assets/img/logos/channel-list/cm-pinoy-lt.webp" group-title="Movies",Celestial Movies Pinoy (Cignal)
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/celestialmoviespinoy_qp.m3u8 
 
-#EXTINF:-1 tvg-id="BuKo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/BuKo_Buhay_Komedya_Logo.jpg" group title="General",BuKo (Cignal)
+#EXTINF:-1 tvg-id="BuKo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/BuKo_Buhay_Komedya_Logo.jpg" group-title="General",BuKo (Cignal)
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/buko_qp.m3u8
 
-#EXTINF:-1 tvg-id="Dreamstar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsb_m4Xq2k0sni9RIQQ-l3wohZ-2PK8G029w&s" group title="General;Radio",Dreamstar Radio
+#EXTINF:-1 tvg-id="TennisChnl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Tennis_Channel_logo.svg" group-title="General;Sport",Tennis Channel
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:1F:7F&stream=176713&extension=ts
+
+#EXTINF:-1 tvg-id="Discovery.ph" tvg-logo="" group-title="General",Discovery Channel
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:1F:7F&stream=176683&extension=ts
+
+#EXTINF:-1 tvg-id="Dreamstar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsb_m4Xq2k0sni9RIQQ-l3wohZ-2PK8G029w&s" group-title="Radio; General",Dreamstar Radio
 https://usa2.server2028.com/hls/dreamstar_teleradio_/live.m3u8
 
 #EXTINF:-1 tvg-id=NBATV.ph"" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/NBA_TV.svg" group-title="Sports",NBA TV
@@ -132,23 +141,32 @@ http://115.146.176.131:80/TimRizal/TimRizal/64.ts
 #EXTINF:-1 tvg-id="SMNI.ph" tvg-name="SMNI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg" group-title="General;Religious;Cult",SMNI
 http://115.146.176.131:80/TimRizal/TimRizal/19.ts
 
-#EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-name="KAPAMILYA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Kapamilya_Channel_Logo_2020.svg" group-title="General",Kapamilya Channel [Cable]
+#EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Kapamilya_Channel_Logo_2020.svg" group-title="General",Kapamilya Channel [Cable]
 http://115.146.176.131:80/TimRizal/TimRizal/89.ts
 
-#EXTINF:-1 tvg-id="Sari Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Sari-Sari_Channel_logo.png" group-title="General",SARI Channel
+#EXTINF:-1 tvg-id="Sari Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Sari-Sari_Channel_logo.png" group-title="General",SARI-SARI
 http://fortv.cc:8080/5ybSS2/616430/101824
 
-#EXTINF:-1 tvg-id="TFCGuam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/TFC2011_logo.svg/revision/latest/scale-to-width-down/1000?cb=20180511214636" group-title="General",The Filipino Channel
+#EXTINF:-1 tvg-id="Sari Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Sari-Sari_Channel_logo.png" group-title="General",SARI-SARI SD
+http://cord-cutter.net:8080/Danaunk1/ksGH6Tg3pY/101824
+
+#EXTINF:-1 tvg-id="TFCG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/TFC2011_logo.svg/revision/latest/scale-to-width-down/1000?cb=20180511214636" group-title="General",The Filipino Channel
 http://cord-cutter.net:8080/X5xRz0/944877/101823
 
 #EXTINF:-1tvg-id="GMAPinoyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png" group-title="General",GMA Pinoy TV
 http://tv14s.xyz:8080/A1Jay5/362586/101826
+
+#EXTINF:-1tvg-id="GMAPinoyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png" group-title="General",GMA Pinoy TV SD
+http://cord-cutter.net:8080/Danaunk1/ksGH6Tg3pY/101826
 
 #EXTINF:-1 tvg-id="Undefined" tvg-name="UNDEFINED" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Hallypop-GMA-Logo-alpha.jpg" group-title="Movies",UnknownChl001 [Hallypop]
 https://www.youtube.com/abscbnentertainment/live
 
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News",NBC News NOW
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
+
+#EXTINF:-1 tvg-id="CBSN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/CBS_logo.svg" group-title="News",CBS News
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:1F:7F&stream=176718&extension=ts
 
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
@@ -162,20 +180,20 @@ https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bb
 #EXTINF:-1 tvg-id="CBBC.uk" tvg-logo="https://i.imgur.com/tk8G4CU.png" group-title="Kids;General",CBBC HD
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd
 
-#EXTINF:-1 tvg-id="CBeebies.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png" group-title="General;Kids",CBeebies HD
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png" group-title="Kids;General",CBeebies HD
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd
 
-#EXTINF:-1 tvg-id="NickJr.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="General;Kids",Nick Jr.
+#EXTINF:-1 tvg-id="NickJr.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Kids'General",Nick Jr.
 https://d20opqftbkv2z0.cloudfront.net/live13/nickjr/bitrate1-clear.isml/live.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon UK
 https://d20opqftbkv2z0.cloudfront.net/live12/nickelodeon/bitrate1-clear.isml/live.m3u8
 
-#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="General;Kids",NickToons UK
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="Kids;General",NickToons UK
 https://d20opqftbkv2z0.cloudfront.net/live13/nicktoons/bitrate1-clear.isml/live.m3u8
 
-#EXTINF:-1 tvg-id="TBNUK.uk" tvg-logo="https://i.imgur.com/vFllwLd.png" group-title="General;Religious",TBN UK
+#EXTINF:-1 tvg-id="TBNUK.uk" tvg-logo="https://i.imgur.com/vFllwLd.png" group-title="Religious;General",TBN UK
 https://tbn-jw.cdn.vustreams.com/live/tbn-uk/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="TalkTV.uk" tvg-logo="https://i.imgur.com/KxHWpQB.png" group-title="Business;General;News",TalkTV 
+#EXTINF:-1 tvg-id="TalkTV.uk" tvg-logo="https://i.imgur.com/KxHWpQB.png" group-title="Business;News;General",TalkTV 
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
