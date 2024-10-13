@@ -4,7 +4,7 @@
 http://115.146.176.131:80/TimRizal/TimRizal/60.ts
 
 #EXTINF:-1 tvg-id="ABS-CBN.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ABS-CBN_%282013%29.svg/800px-ABS-CBN_%282013%29.svg.png" group-title="General",ABS-CBN TFC [TV-2]
-http://cord-cutter.net:8080/X5xRz0/944877/101823
+https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
 
 #EXTINF:-1 tvg-id="C1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Cinema_One_2013_logo.svg" group-title="Movies",CineOne [TV-2.1]
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
@@ -139,7 +139,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/89.ts
 http://fortv.cc:8080/5ybSS2/616430/101824
 
 #EXTINF:-1 tvg-id="TFCGuam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/TFC2011_logo.svg/revision/latest/scale-to-width-down/1000?cb=20180511214636" group-title="General",The Filipino Channel
-https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
+http://cord-cutter.net:8080/X5xRz0/944877/101823
 
 #EXTINF:-1tvg-id="GMAPinoyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png" group-title="General",GMA Pinoy TV
 http://tv14s.xyz:8080/A1Jay5/362586/101826
