@@ -33,7 +33,7 @@ https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
 #EXTINF:-1 tvg-id="DZBBDT1.ph" tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="Radio;News",Super Radyo DZBB [TV-7.1]
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 
-#EXTINF:-1,tvg-id="GMATV.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" group-title="General", GMA Life TV [TV-7.2]
+#EXTINF:-1,tvg-id="GMATV.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" group-title="General",GMA Life TV [TV-7.2]
 http://cord-cutter.net:8080/X5xRz0/944877/101825
 
 #EXTINF:-1 tvg-id="RPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/RPTV_%282024%29.svg" group=title="General",RPTV HD [TV-9]
@@ -75,7 +75,7 @@ https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/onesports_qp.m3u8
 #EXTINF:-1 tvg-id="OneSports.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg" group-title="Sports",One Sports SD [TV-41]
 http://iptvtree.net:8080/live/iptvromania2020/02eFiY8dip8UPQWaEuS9/299947.ts
 
-#EXTINF:-1 tvg-id="OneNews.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/One_News_%282020%29.svg/revision/latest?cb=20240621072547" group-title="News;General", One News HD [TV-42]
+#EXTINF:-1 tvg-id="OneNews.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/One_News_%282020%29.svg/revision/latest?cb=20240621072547" group-title="News;General",One News HD [TV-42]
 http://tv14s.xyz:8080/A1Jay5/362586/101774
 
 #EXTINF:-1 tvg-id="CCTN47.ph" tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="Religious",CCTN [TV-47]
