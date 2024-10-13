@@ -109,7 +109,7 @@ https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/buko_qp.m3u8
 https://usa2.server2028.com/hls/dreamstar_teleradio_/live.m3u8
 
 #EXTINF:-1 tvg-id=NBATV.ph"" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/NBA_TV.svg" group-title="Sports",NBA TV
-http://115.146.176.131:80/TimRizal/TimRizal/97.ts
+https://ln.run/Mikeph-nbatvfr-ts
 
 #EXTINF:-1 tvg-id="SolarSports.ph" tvg-name="SOLAR SPORTS" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/eb/Solar_Sports_Logo_2022.png/revision/latest?cb=20211226131005" group-title="Sports",Solar Sports
 http://115.146.176.131:80/TimRizal/TimRizal/80.ts
