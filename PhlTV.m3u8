@@ -33,7 +33,7 @@ https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
 #EXTINF:-1 tvg-id="DZBBDT1.ph" tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="Radio;News",Super Radyo DZBB [TV-7.1]
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 
-#EXTINF:-1,tvg-id="GMATV.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" group-title="General",GMA Life TV [TV-7.2]
+#EXTINF:-1 tvg-id="GMATV.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" group-title="General",GMA Life TV [TV-7.2]
 http://cord-cutter.net:8080/X5xRz0/944877/101825
 
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CNN_Philippines_Logo.svg" group-title="News",CNN Philippines [TV-9]
