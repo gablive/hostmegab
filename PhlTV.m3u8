@@ -117,7 +117,7 @@ https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/buko_qp.m3u8
 #EXTINF:-1 tvg-id="TennisChnl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Tennis_Channel_logo.svg" group-title="General;Sports",Tennis Channel
 http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:1F:7F&stream=176713&extension=ts
 
-#EXTINF:-1 tvg-id="Discovery.ph" tvg-logo="" group-title="General",Discovery Channel
+#EXTINF:-1 tvg-id="Discovery.ph" tvg-logo="https://cdn.worldvectorlogo.com/logos/discovery-channel-4.svg" group-title="General",Discovery Channel
 http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:1F:7F&stream=176683&extension=ts
 
 #EXTINF:-1 tvg-id="Dreamstar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsb_m4Xq2k0sni9RIQQ-l3wohZ-2PK8G029w&s" group-title="Radio;General",Dreamstar Radio
