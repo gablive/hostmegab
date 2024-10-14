@@ -51,7 +51,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/39.ts
 #EXTINF:-1 tvg-id="IBC13" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/IBC_13_Logo_2011.svg" group-title="General",IBC-13 [TV-13]
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/ibc13_qp.m3u8
 
-#EXTINF:-1 tv-id="DZRHNTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/DZRH_new_logo.svg" group-title="News;Radio",DZRH News TV [TV-18]
+#EXTINF:-1 tvg-id="DZRHNTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/DZRH_new_logo.svg" group-title="News;Radio",DZRH News TV [TV-18]
 https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
 
 #EXTINF:-1 tvg-id="HopeChannelPH" tvg-logo="https://static.wikia.nocookie.net/dxs/images/5/5e/Hope_Channel_Philippines_Logo_2010.png" group-title=Religious",Hope Channel [TV-20]
@@ -93,7 +93,7 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="BloombergTVAsia.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 
-#EXTINF:-1 tvg-id="CNSEA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Cartoon",Cartoon Network SE-Asia
+#EXTINF:-1 tvg-id="CNSEA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Kids",Cartoon Network SE-Asia
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 
 #EXTINF:-1 tvg-id="Rakuten" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" group-title="Movies",Rakuten TV
@@ -114,13 +114,13 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/celestialmoviespinoy_qp.m3u
 #EXTINF:-1 tvg-id="BuKo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/BuKo_Buhay_Komedya_Logo.jpg" group-title="General",BuKo (Cignal)
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/buko_qp.m3u8
 
-#EXTINF:-1 tvg-id="TennisChnl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Tennis_Channel_logo.svg" group-title="General;Sport",Tennis Channel
+#EXTINF:-1 tvg-id="TennisChnl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Tennis_Channel_logo.svg" group-title="General;Sports",Tennis Channel
 http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:1F:7F&stream=176713&extension=ts
 
 #EXTINF:-1 tvg-id="Discovery.ph" tvg-logo="" group-title="General",Discovery Channel
 http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:1F:7F&stream=176683&extension=ts
 
-#EXTINF:-1 tvg-id="Dreamstar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsb_m4Xq2k0sni9RIQQ-l3wohZ-2PK8G029w&s" group-title="Radio; General",Dreamstar Radio
+#EXTINF:-1 tvg-id="Dreamstar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsb_m4Xq2k0sni9RIQQ-l3wohZ-2PK8G029w&s" group-title="Radio;General",Dreamstar Radio
 https://usa2.server2028.com/hls/dreamstar_teleradio_/live.m3u8
 
 #EXTINF:-1 tvg-id=NBATV.ph"" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/NBA_TV.svg" group-title="Sports",NBA TV
@@ -183,7 +183,7 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/i
 #EXTINF:-1 tvg-id="CBeebies.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png" group-title="Kids;General",CBeebies HD
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd
 
-#EXTINF:-1 tvg-id="NickJr.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Kids'General",Nick Jr.
+#EXTINF:-1 tvg-id="NickJr.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Kids;General",Nick Jr.
 https://d20opqftbkv2z0.cloudfront.net/live13/nickjr/bitrate1-clear.isml/live.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon UK
