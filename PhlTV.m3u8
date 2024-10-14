@@ -54,7 +54,7 @@ https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/ibc13_qp.m3u8
 #EXTINF:-1 tvg-id="DZRHNTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/DZRH_new_logo.svg" group-title="News;Radio",DZRH News TV [TV-18]
 https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
 
-#EXTINF:-1 tvg-id="HopeChannelPH" tvg-logo="https://static.wikia.nocookie.net/dxs/images/5/5e/Hope_Channel_Philippines_Logo_2010.png" group-title=Religious",Hope Channel [TV-20]
+#EXTINF:-1 tvg-id="HopeChannelPH" tvg-logo="https://static.wikia.nocookie.net/dxs/images/5/5e/Hope_Channel_Philippines_Logo_2010.png" group-title="Religious",Hope Channel [TV-20]
 https://customer-x8zydurm357k8j9p.cloudflarestream.com/e9a0f1b659e4a6052fa798846914a4f7/manifest/video.m3u8
 
 #EXTINF:-1 tvg-id="GreatCommissionTV.ph" tvg-logo="https://i.imgur.com/8cvikOo.png" group-title="Religious",Great Commission TV [TV-21]
