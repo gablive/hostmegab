@@ -45,7 +45,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/33.ts
 #EXTINF:-1 tvg-id="A2Z.ph" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="General;Religious",A2Z [TV-11]
 http://115.146.176.131:80/TimRizal/TimRizal/68.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="LIGHT NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/ZOE_Broadcasting_Network_%28ZOE_TV%29_logo.png" group-title="General;Religious",LIGHT TV [TV-11.1]
+#EXTINF:-1 tvg-id="" tvg-name="ZOEChannel11.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/ZOE_Broadcasting_Network_%28ZOE_TV%29_logo.png" group-title="General;Religious",Light TV [TV-11.1]
 http://115.146.176.131:80/TimRizal/TimRizal/39.ts
 
 #EXTINF:-1 tvg-id="IBC13" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/IBC_13_Logo_2011.svg" group-title="General",IBC-13 [TV-13]
