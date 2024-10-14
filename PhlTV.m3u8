@@ -9,7 +9,7 @@ https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="C1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Cinema_One_2013_logo.svg" group-title="Movies",Cinema One [TV-2.1]
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 
-#EXTINF:-1tvg-id="CINEMO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="Movies",Cine Mo! [TV-2.2]
+#EXTINF:-1 tvg-id="CINEMO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="Movies",Cine Mo! [TV-2.2]
 https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-id="ANC.ph" tvg-logo="https://i.imgur.com/odwRbRk.png" group-title="News",ANC HD [TV-2.3]
@@ -66,10 +66,10 @@ https://ythls.armelin.one/channel/UCFRj7FPKTthzA_gfE2PsGJQ.m3u8
 #EXTINF:-1 tvg-id="NHKJPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/NHK_World.svg" group-title="News",NHK World Japan [TV-24]
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="GMA NEWS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/GTV_Philippines_Logo_Vector.svg" group-title="General",GTV [TV-27 Manila]
+#EXTINF:-1 tvg-id="GMANTV.ph" tvg-name="GMA NEWS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/GTV_Philippines_Logo_Vector.svg" group-title="General",GTV [TV-27 Manila]
 http://115.146.176.131:80/TimRizal/TimRizal/35.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="UNTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/UNTV-Logo-2016.svg" group-title="News;General",UNTV [TV-37]
+#EXTINF:-1 tvg-id="UNTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/UNTV-Logo-2016.svg" group-title="News;General",UNTV [TV-37]
 http://115.146.176.131:80/TimRizal/TimRizal/38.ts
 
 #EXTINF:-1 tvg-id="OneSportsPH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/OneSportsPlus_logo.svg" group-title="Sports",One Sports+ [TV-41]
@@ -123,7 +123,7 @@ http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:1F:7F&stream=176683&ext
 #EXTINF:-1 tvg-id="Dreamstar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsb_m4Xq2k0sni9RIQQ-l3wohZ-2PK8G029w&s" group-title="Radio;General",Dreamstar Radio
 https://usa2.server2028.com/hls/dreamstar_teleradio_/live.m3u8
 
-#EXTINF:-1 tvg-id=NBATV.ph"" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/NBA_TV.svg" group-title="Sports",NBA TV
+#EXTINF:-1 tvg-id="NBATV.ph" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/NBA_TV.svg" group-title="Sports",NBA TV
 https://ln.run/Mikeph-nbatvfr-ts
 
 #EXTINF:-1 tvg-id="SolarSports.ph" tvg-name="SOLAR SPORTS" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/eb/Solar_Sports_Logo_2022.png/revision/latest?cb=20211226131005" group-title="Sports",Solar Sports
