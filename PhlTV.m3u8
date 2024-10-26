@@ -22,7 +22,7 @@ https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
 #EXTINF:-1 tvg-id="PTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/PTV_4_Para_Sa_Bayan_Logo_June_2017.svg" group-title="General",PTV [TV-4]
-http://115.146.176.131:80/TimRizal/TimRizal/10.ts
+https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
 
 #EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/PYJhTiq.png" group-title="General",TV5 HD [TV-5]
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
@@ -40,10 +40,10 @@ http://cord-cutter.net:8080/X5xRz0/944877/101825
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/RPTV_%282024%29.svg" group-title="General",RPTV HD [TV-9]
-http://115.146.176.131:80/TimRizal/TimRizal/33.ts
+https://wag.ika.lat/stream/2043888238
 
 #EXTINF:-1 tvg-id="A2Z.ph" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="General;Religious",A2Z [TV-11]
-http://115.146.176.131:80/TimRizal/TimRizal/68.ts
+https://wag.ika.lat/stream/944313137​
 
 #EXTINF:-1 tvg-id="" tvg-name="ZOEChannel11.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/ZOE_Broadcasting_Network_%28ZOE_TV%29_logo.png" group-title="General;Religious",Light TV [TV-11.1]
 http://115.146.176.131:80/TimRizal/TimRizal/39.ts
@@ -63,11 +63,14 @@ http://45.32.115.103/live/livestream/index.m3u8
 #EXTINF:-1 tvg-id="AngDatingDaan.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Ang_Dating_Daan_New_Logo.png" group-title="Religious",Ang Dating Daan [TV-23]
 https://ythls.armelin.one/channel/UCFRj7FPKTthzA_gfE2PsGJQ.m3u8
 
-#EXTINF:-1 tvg-id="NHKJPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/NHK_World.svg" group-title="News",NHK World Japan [TV-24]
+#EXTINF:-1 tvg-id="NHK.jpn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/NHK_World.svg" group-title="News",NHK World Japan [TV-24]
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
-#EXTINF:-1 tvg-id="GMANTV.ph" tvg-name="GMA NEWS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/GTV_Philippines_Logo_Vector.svg" group-title="General",GTV [TV-27 Manila]
-http://115.146.176.131:80/TimRizal/TimRizal/35.ts
+#EXTINF:-1 tvg-id="GTV.ph" tvg-name="GTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/GTV_Philippines_Logo_Vector.svg" group-title="General",GTV [TV-27 Manila]
+https://wag.ika.lat/stream/872206966
+
+#EXTINF:-1 tvg-id="CLTV36.ph" tvg-name="CLTV.ph" tvg-logo="https://i.imgur.com/IUcTFQ2.png" group-title="General",CLTV [TV-36]
+https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
 
 #EXTINF:-1 tvg-id="UNTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/UNTV-Logo-2016.svg" group-title="News;General",UNTV [TV-37]
 http://115.146.176.131:80/TimRizal/TimRizal/38.ts
@@ -75,7 +78,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/38.ts
 #EXTINF:-1 tvg-id="OneSportsPH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/OneSportsPlus_logo.svg" group-title="Sports",One Sports+ [TV-41]
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/onesports_qp.m3u8
 
-#EXTINF:-1 tvg-id="OneSports.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg" group-title="Sports",One Sports SD [TV-41]
+#EXTINF:-1 tvg-id="OneSports.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg" group-title="Sports",One Sports [TV-41]
 http://iptvtree.net:8080/live/iptvromania2020/02eFiY8dip8UPQWaEuS9/299947.ts
 
 #EXTINF:-1 tvg-id="OneNews.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/One_News_%282020%29.svg/revision/latest?cb=20240621072547" group-title="News;General",One News HD [TV-42]
@@ -102,6 +105,9 @@ https://rakuten-family-1-eu.rakuten.wurl.tv/2000.m3u8
 #EXTINF:-1 tvg-id="SONY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Sony_Movies_%2B1_logo_2019.png" group-title="Movies",SONY Movies
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="LifeTVAsia.ph" tvg-logo="https://i.imgur.com/xUr7A4V.png" group-title="General",Life TV Asia
+https://ythls.armelin.one/channel/UCisr6Z2C8R2QF-Qh6NOH9cg.m3u8
+
 #EXTINF:-1 tvg-id="ASC" tvg-logo="https://m.media-amazon.com/images/I/516n7V4KybL.png" group-title="Movies",Asian Crush
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/cb543d1b796c668c84cb3f62cef049a2f9421fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7756db80148e782a8eb3dc68306d390ec90c1fbcbf5ba0f8ff5e43ca78a3b51a4b902910e39f429d8118a681d50ec85e8f25f4118095a1d88017d38f9437f852b7061632571541527ee9ab6d9e98f15931957d21560e5ce8a6808c2156e466702c337b56dd1f9b32dd8024fb115f7bc49f3def019f6eb006a9a16da9b9a29d3529c64c6f381345f0b5dae6d63027af69bb8fe8d37a7098bc721223983c89737979f897ba896357ae21976ea5cdecad7a7b0867a5bdf8e8cea3844bd308cbc9fd943c789c026e16ab52b89361d728922de69e53696b444aa99542d7c6f76a70331fc8d005942412b78ddfd89f166d9e295b7bf870d55e3269ce1f6568aa78aacd723fdf6642ae1d09d67479c04ef5b329b580dee60d34fc9ee44aed60e2b04583a756e73d720c55e0a7620e1c153de3ef600c22708c10b78484b2217b75869dfaf7ce5737102a57035cf985c944dbdf90674d6c823940477b1f109a01ac19fc085b0f23cc5e9eec3e7d8b022e3af5e558795f7f9ddcbe918db59b12e767b2a90e151a88cffbf5d1232a4e5e745aa3/162/1280x720_3329040/index.m3u8?
 
@@ -122,6 +128,9 @@ http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:1F:7F&stream=176683&ext
 
 #EXTINF:-1 tvg-id="Dreamstar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsb_m4Xq2k0sni9RIQQ-l3wohZ-2PK8G029w&s" group-title="Radio;General",Dreamstar Radio
 https://usa2.server2028.com/hls/dreamstar_teleradio_/live.m3u8
+
+#EXTINF:-1 tvg-id="AXN.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Southeast Asia
+https://wag.ika.lat/stream/2084767267
 
 #EXTINF:-1 tvg-id="NBATV.ph" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/NBA_TV.svg" group-title="Sports",NBA TV
 https://ln.run/Mikeph-nbatvfr-ts
