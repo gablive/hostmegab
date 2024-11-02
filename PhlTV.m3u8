@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ALLTV.ph" tvg-logo="https://imgur.com/L5bFXHR.png" group-title="General",ALLTV [TV-2 Manila]
+#EXTINF:-1 tvg-id="ALLTV.ph" tvg-logo="https://i.imgur.com/L5bFXHR.png" group-title="General",ALLTV [TV-2 Manila]
 http://115.146.176.131:80/TimRizal/TimRizal/60.ts
 
-#EXTINF:-1 tvg-id="ABS-CBN.ph" tvg-logo="https://imgur.com/D2wHkbL.png" group-title="General",ABS-CBN [TV-2]
+#EXTINF:-1 tvg-id="ABS-CBN.ph" tvg-logo="https://i.imgur.com/D2wHkbL.png" group-title="General",ABS-CBN [TV-2]
 https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
 
-#EXTINF:-1 tvg-id="C1" tvg-logo="https://imgur.com/w0ISwhs.png" group-title="Movies",Cinema One [TV-2.1]
+#EXTINF:-1 tvg-id="C1" tvg-logo="https://i.imgur.com/w0ISwhs.png" group-title="Movies",Cinema One [TV-2.1]
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 
 #EXTINF:-1 tvg-id="CINEMO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="Movies",Cine Mo! [TV-2.2]
@@ -21,13 +21,13 @@ https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MyxPhilippines.ph" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="Music",MYX Philippines [TV-2.5]
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
-#EXTINF:-1 tvg-id="PTV" tvg-logo="https://imgur.com/jqhtY2Z.png" group-title="General",PTV [TV-4]
+#EXTINF:-1 tvg-id="PTV" tvg-logo="https://i.imgur.com/jqhtY2Z.png" group-title="General",PTV [TV-4]
 https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
 
 #EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/PYJhTiq.png" group-title="General",TV5 HD [TV-5]
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 
-#EXTINF:-4 tvg-id="GMATV.ph" tvg-logo="https://imgur.com/tnVs2lm.png" group-title="General",GMA-7 [TV-7]
+#EXTINF:-4 tvg-id="GMATV.ph" tvg-logo="https://i.imgur.com/tnVs2lm.png" group-title="General",GMA-7 [TV-7]
 https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
 
 #EXTINF:-1 tvg-id="DZBBDT1.ph" tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="Radio;News",Super Radyo DZBB [TV-7.1]
@@ -36,22 +36,22 @@ https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="GMATV.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" group-title="General",GMA Life TV [TV-7.2]
 http://cord-cutter.net:8080/X5xRz0/944877/101825
 
-#EXTINF:-1 tvg-id="CNNInternational.us" tvg-logo="https://imgur.com/M62UScN.png" group-title="News",CNN Philippines [TV-9]
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-logo="https://i.imgur.com/M62UScN.png" group-title="News",CNN Philippines [TV-9]
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RPTV" tvg-logo="https://imgur.com/Pw5jNHq.png" group-title="General",RPTV HD [TV-9]
+#EXTINF:-1 tvg-id="RPTV" tvg-logo="https://i.imgur.com/Pw5jNHq.png" group-title="General",RPTV HD [TV-9]
 https://wag.ika.lat/stream/2043888238
 
 #EXTINF:-1 tvg-id="A2Z.ph" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="General;Religious",A2Z [TV-11]
 https://wag.ika.lat/stream/944313137​
 
-#EXTINF:-1 tvg-id="" tvg-name="ZOEChannel11.ph" tvg-logo="https://imgur.com/aX0vU3z.png" group-title="General;Religious",Light TV [TV-11.1]
+#EXTINF:-1 tvg-id="" tvg-name="ZOEChannel11.ph" tvg-logo="https://i.imgur.com/aX0vU3z.png" group-title="General;Religious",Light TV [TV-11.1]
 http://115.146.176.131:80/TimRizal/TimRizal/39.ts
 
-#EXTINF:-1 tvg-id="IBC13" tvg-logo="https://imgur.com/jmajJd5.png" group-title="General",IBC-13 [TV-13]
+#EXTINF:-1 tvg-id="IBC13" tvg-logo="https://i.imgur.com/jmajJd5.png" group-title="General",IBC-13 [TV-13]
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/ibc13_qp.m3u8
 
-#EXTINF:-1 tvg-id="DZRHNTV" tvg-logo="https://imgur.com/ltF02Le.png" group-title="News;Radio",DZRH News TV [TV-18]
+#EXTINF:-1 tvg-id="DZRHNTV" tvg-logo="https://i.imgur.com/ltF02Le.jpg" group-title="News;Radio",DZRH News TV [TV-18]
 https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
 
 #EXTINF:-1 tvg-id="HopeChannelPH" tvg-logo="https://static.wikia.nocookie.net/dxs/images/5/5e/Hope_Channel_Philippines_Logo_2010.png" group-title="Religious",Hope Channel [TV-20]
@@ -63,25 +63,25 @@ http://45.32.115.103/live/livestream/index.m3u8
 #EXTINF:-1 tvg-id="AngDatingDaan.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Ang_Dating_Daan_New_Logo.png" group-title="Religious",Ang Dating Daan [TV-23]
 https://ythls.armelin.one/channel/UCFRj7FPKTthzA_gfE2PsGJQ.m3u8
 
-#EXTINF:-1 tvg-id="NHK.jpn" tvg-logo="https://imgur.com/osY7HU0.png" group-title="News",NHK World Japan [TV-24]
+#EXTINF:-1 tvg-id="NHK.jpn" tvg-logo="https://i.imgur.com/osY7HU0.png" group-title="News",NHK World Japan [TV-24]
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
-#EXTINF:-1 tvg-id="GTV.ph" tvg-name="GTV.ph" tvg-logo="https://imgur.com/mx8EF2f.png" group-title="General",GTV [TV-27 Manila]
+#EXTINF:-1 tvg-id="GTV.ph" tvg-name="GTV.ph" tvg-logo="https://i.imgur.com/mx8EF2f.png" group-title="General",GTV [TV-27 Manila]
 https://wag.ika.lat/stream/872206966
 
 #EXTINF:-1 tvg-id="CLTV36.ph" tvg-name="CLTV.ph" tvg-logo="https://i.imgur.com/IUcTFQ2.png" group-title="General",CLTV [TV-36]
 https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
 
-#EXTINF:-1 tvg-id="UNTV.ph" tvg-logo="https://imgur.com/Nd2ichX.png" group-title="News;General",UNTV [TV-37]
+#EXTINF:-1 tvg-id="UNTV.ph" tvg-logo="https://i.imgur.com/Nd2ichX.png" group-title="News;General",UNTV [TV-37]
 http://115.146.176.131:80/TimRizal/TimRizal/38.ts
 
-#EXTINF:-1 tvg-id="OneSportsPH" tvg-logo="https://imgur.com/2sqjpex.png" group-title="Sports",One Sports+ [TV-41]
+#EXTINF:-1 tvg-id="OneSportsPH" tvg-logo="https://i.imgur.com/2sqjpex.png" group-title="Sports",One Sports+ [TV-41]
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/onesports_qp.m3u8
 
-#EXTINF:-1 tvg-id="OneSports.ph" tvg-logo="https://imgur.com/6adOXBY.png" group-title="Sports",One Sports [TV-41]
+#EXTINF:-1 tvg-id="OneSports.ph" tvg-logo="https://i.imgur.com/6adOXBY.png" group-title="Sports",One Sports [TV-41]
 http://iptvtree.net:8080/live/iptvromania2020/02eFiY8dip8UPQWaEuS9/299947.ts
 
-#EXTINF:-1 tvg-id="OneNews.ph" tvg-logo="https://imgur.com/ywgWrux.png" group-title="News;General",One News HD [TV-42]
+#EXTINF:-1 tvg-id="OneNews.ph" tvg-logo="https://i.imgur.com/ywgWrux.png" group-title="News;General",One News HD [TV-42]
 http://tv14s.xyz:8080/A1Jay5/362586/101774
 
 #EXTINF:-1 tvg-id="CCTN47.ph" tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="Religious",CCTN [TV-47]
@@ -96,13 +96,13 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-id="BloombergTVAsia.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 
-#EXTINF:-1 tvg-id="CNSEA" tvg-logo="https://imgur.com/c4xj3tn.png" group-title="Kids",Cartoon Network SE-Asia
+#EXTINF:-1 tvg-id="CNSEA" tvg-logo="https://i.imgur.com/c4xj3tn.png" group-title="Kids",Cartoon Network SE-Asia
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 
-#EXTINF:-1 tvg-id="Rakuten" tvg-logo="https://imgur.com/iCLYcop.png" group-title="Movies",Rakuten TV
+#EXTINF:-1 tvg-id="Rakuten" tvg-logo="https://i.imgur.com/iCLYcop.png" group-title="Movies",Rakuten TV
 https://rakuten-family-1-eu.rakuten.wurl.tv/2000.m3u8
 
-#EXTINF:-1 tvg-id="SONY" tvg-logo="https://imgur.com/zDVy6qo.png" group-title="Movies",SONY Movies
+#EXTINF:-1 tvg-id="SONY" tvg-logo="https://i.imgur.com/zDVy6qo.png" group-title="Movies",SONY Movies
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LifeTVAsia.ph" tvg-logo="https://i.imgur.com/xUr7A4V.png" group-title="General",Life TV Asia
@@ -111,7 +111,7 @@ https://ythls.armelin.one/channel/UCisr6Z2C8R2QF-Qh6NOH9cg.m3u8
 #EXTINF:-1 tvg-id="ASC" tvg-logo="https://m.media-amazon.com/images/I/516n7V4KybL.png" group-title="Movies",Asian Crush
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/cb543d1b796c668c84cb3f62cef049a2f9421fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7756db80148e782a8eb3dc68306d390ec90c1fbcbf5ba0f8ff5e43ca78a3b51a4b902910e39f429d8118a681d50ec85e8f25f4118095a1d88017d38f9437f852b7061632571541527ee9ab6d9e98f15931957d21560e5ce8a6808c2156e466702c337b56dd1f9b32dd8024fb115f7bc49f3def019f6eb006a9a16da9b9a29d3529c64c6f381345f0b5dae6d63027af69bb8fe8d37a7098bc721223983c89737979f897ba896357ae21976ea5cdecad7a7b0867a5bdf8e8cea3844bd308cbc9fd943c789c026e16ab52b89361d728922de69e53696b444aa99542d7c6f76a70331fc8d005942412b78ddfd89f166d9e295b7bf870d55e3269ce1f6568aa78aacd723fdf6642ae1d09d67479c04ef5b329b580dee60d34fc9ee44aed60e2b04583a756e73d720c55e0a7620e1c153de3ef600c22708c10b78484b2217b75869dfaf7ce5737102a57035cf985c944dbdf90674d6c823940477b1f109a01ac19fc085b0f23cc5e9eec3e7d8b022e3af5e558795f7f9ddcbe918db59b12e767b2a90e151a88cffbf5d1232a4e5e745aa3/162/1280x720_3329040/index.m3u8?
 
-#EXTINF:-1 tvg-id="pbo.ph" tvg-logo="https://imgur.com/piMzyOK.png" group-title="Movies",Pinoy Box Office (Cignal)
+#EXTINF:-1 tvg-id="pbo.ph" tvg-logo="https://i.imgur.com/piMzyOK.png" group-title="Movies",Pinoy Box Office (Cignal)
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/pinoyboxoffice_qp.m3u8
 
 #EXTINF:-4 tvg-id="CMP" tvg-logo="https://www.celestialtiger.com/assets/img/logos/channel-list/cm-pinoy-lt.webp" group-title="Movies",Celestial Movies Pinoy (Cignal)
@@ -120,19 +120,19 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/celestialmoviespinoy_qp.m3u
 #EXTINF:-1 tvg-id="BuKo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/BuKo_Buhay_Komedya_Logo.jpg" group-title="General",BuKo (Cignal)
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/buko_qp.m3u8
 
-#EXTINF:-1 tvg-id="TennisChnl" tvg-logo="https://imgur.com/YeWQSAt.png" group-title="General;Sports",Tennis Channel
+#EXTINF:-1 tvg-id="TennisChnl" tvg-logo="https://i.imgur.com/YeWQSAt.png" group-title="General;Sports",Tennis Channel
 http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:1F:7F&stream=176713&extension=ts
 
-#EXTINF:-1 tvg-id="Discovery.ph" tvg-logo="https://imgur.com/4p69i0M.png" group-title="General",Discovery Channel
+#EXTINF:-1 tvg-id="Discovery.ph" tvg-logo="https://i.imgur.com/4p69i0M.png" group-title="General",Discovery Channel
 http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:1F:7F&stream=176683&extension=ts
 
 #EXTINF:-1 tvg-id="Dreamstar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsb_m4Xq2k0sni9RIQQ-l3wohZ-2PK8G029w&s" group-title="Radio;General",Dreamstar Radio
 https://usa2.server2028.com/hls/dreamstar_teleradio_/live.m3u8
 
-#EXTINF:-1 tvg-id="AXN.ph" tvg-logo="https://imgur.com/VIKunEM.png" group-title="Movies",AXN Southeast Asia
+#EXTINF:-1 tvg-id="AXN.ph" tvg-logo="https://i.imgur.com/VIKunEM.png" group-title="Movies",AXN Southeast Asia
 https://wag.ika.lat/stream/2084767267
 
-#EXTINF:-1 tvg-id="NBATV.ph" tvg-name="NBA TV" tvg-logo="https://imgur.com/PZcNsYa.png" group-title="Sports",NBA TV
+#EXTINF:-1 tvg-id="NBATV.ph" tvg-name="NBA TV" tvg-logo="https://i.imgur.com/PZcNsYa.png" group-title="Sports",NBA TV
 https://ln.run/Mikeph-nbatvfr-ts
 
 #EXTINF:-1 tvg-id="SolarSports.ph" tvg-name="SOLAR SPORTS" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/eb/Solar_Sports_Logo_2022.png/revision/latest?cb=20211226131005" group-title="Sports",Solar Sports
@@ -144,13 +144,13 @@ http://115.146.176.131:80/TimRizal/TimRizal/70.ts
 #EXTINF:-1 tvg-id="PBARUSH.ph" tvg-name="PBA RUSH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="Sports",PBA Rush
 http://115.146.176.131:80/TimRizal/TimRizal/69.ts
 
-#EXTINF:-1 tvg-id="JeepneyTV.ph" tvg-name="JEEPNEY TV" tvg-logo="https://imgur.com/SXQY0zp.png" group-title="General",Jeepney TV
+#EXTINF:-1 tvg-id="JeepneyTV.ph" tvg-name="JEEPNEY TV" tvg-logo="https://i.imgur.com/SXQY0zp.png" group-title="General",Jeepney TV
 http://115.146.176.131:80/TimRizal/TimRizal/64.ts
 
 #EXTINF:-1 tvg-id="SMNI.ph" tvg-name="SMNI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg" group-title="General;Religious;Cult",SMNI
 http://115.146.176.131:80/TimRizal/TimRizal/19.ts
 
-#EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-logo="https://imgur.com/E80HORr.png" group-title="General",Kapamilya Channel [Cable]
+#EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-logo="https://i.imgur.com/E80HORr.pngg" group-title="General",Kapamilya Channel [Cable]
 http://115.146.176.131:80/TimRizal/TimRizal/89.ts
 
 #EXTINF:-1 tvg-id="Sari Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Sari-Sari_Channel_logo.png" group-title="General",SARI-SARI
@@ -174,7 +174,7 @@ https://www.youtube.com/abscbnentertainment/live
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News",NBC News NOW
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
 
-#EXTINF:-1 tvg-id="CBSN" tvg-logo="https://imgur.com/KiK7c5X.png" group-title="News",CBS News
+#EXTINF:-1 tvg-id="CBSN" tvg-logo="https://i.imgur.com/KiK7c5X.png" group-title="News",CBS News
 http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:1F:7F&stream=176718&extension=ts
 
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News
@@ -207,7 +207,7 @@ https://tbn-jw.cdn.vustreams.com/live/tbn-uk/live.isml/.m3u8
 #EXTINF:-1 tvg-id="TalkTV.uk" tvg-logo="https://i.imgur.com/KxHWpQB.png" group-title="Business;News;General",TalkTV 
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
 
-#EXTINF:-1 tvg-id="KHOUDT1.us" tvg-logo="https://imgur.com/yI1H0nP.png" group-title="General",CBS 11 Houston TX (KHOU)
+#EXTINF:-1 tvg-id="KHOUDT1.us" tvg-logo="https://i.imgur.com/yI1H0nP.png" group-title="General",CBS 11 Houston TX (KHOU)
 https://livevideo.tegnadigital.com/khou/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KHOU/elvs/live.m3u8
 
 #EXTINF:-1 tvg-id="WFAADT1.us" tvg-logo="https://i.imgur.com/3dK1ocU.png" group-title="General",ABC 8 Dallas TX (WFAA)
