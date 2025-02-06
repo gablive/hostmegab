@@ -25,7 +25,7 @@ https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
 
 #EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/PYJhTiq.png" group-title="General",TV5 HD [TV-5]
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+http://defaultgen.com:3050/live/ahweic/rfyMkmvwgM/558749.ts
 
 #EXTINF:-4 tvg-id="GMATV.ph" tvg-logo="https://i.imgur.com/tnVs2lm.png" group-title="General",GMA-7 [TV-7]
 https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
@@ -75,11 +75,14 @@ https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
 #EXTINF:-1 tvg-id="UNTV.ph" tvg-logo="https://i.imgur.com/Nd2ichX.png" group-title="News;General",UNTV [TV-37]
 http://115.146.176.131:80/TimRizal/TimRizal/38.ts
 
+#EXTINF:-1 tvg-id="OnePH.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/OnePHCignal.svg" group-title="General",OnePH [TV-42]
+http://tv14s.xyz:8080/A1Jay5/362586/101774
+
 #EXTINF:-1 tvg-id="OneSportsPH" tvg-logo="https://i.imgur.com/2sqjpex.png" group-title="Sports",One Sports+ [TV-41]
-https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/onesports_qp.m3u8
+http://defaultgen.com:3050/live/vsue295%40gmail.com/QtxtCKJ5vy/558758.ts
 
 #EXTINF:-1 tvg-id="OneSports.ph" tvg-logo="https://i.imgur.com/6adOXBY.png" group-title="Sports",One Sports [TV-41]
-http://iptvtree.net:8080/live/iptvromania2020/02eFiY8dip8UPQWaEuS9/299947.ts
+http://opplextv.cyou:8080/live/52882216/581881255/384009.ts
 
 #EXTINF:-1 tvg-id="OneNews.ph" tvg-logo="https://i.imgur.com/ywgWrux.png" group-title="News;General",One News HD [TV-42]
 http://tv14s.xyz:8080/A1Jay5/362586/101774
@@ -118,7 +121,7 @@ https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/pinoyboxoffice_qp.m3u8
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/celestialmoviespinoy_qp.m3u8 
 
 #EXTINF:-1 tvg-id="BuKo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/BuKo_Buhay_Komedya_Logo.jpg" group-title="General",BuKo (Cignal)
-https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/buko_qp.m3u8
+http://defaultgen.com:3050/live/ahweic/rfyMkmvwgM/558780.ts
 
 #EXTINF:-1 tvg-id="TennisChnl" tvg-logo="https://i.imgur.com/YeWQSAt.png" group-title="General;Sports",Tennis Channel
 http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:1F:7F&stream=176713&extension=ts
@@ -135,6 +138,9 @@ https://wag.ika.lat/stream/2084767267
 #EXTINF:-1 tvg-id="NBATV.ph" tvg-name="NBA TV" tvg-logo="https://i.imgur.com/PZcNsYa.png" group-title="Sports",NBA TV
 https://ln.run/Mikeph-nbatvfr-ts
 
+#EXTINF:-1 tvg-id="UAAP" tvg-logo="https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-6/340260248_230839929600585_6629848392408933616_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=ic_y3TWgppUQ7kNvgE1yDol&_nc_zt=23&_nc_ht=scontent-man2-1.xx&_nc_gid=Amx5bKjnn-B01UbZ44LH8Qr&oh=00_AYDyq_BrcFAsZIVHdDLS4KemDvzFFGrjMtYiyJhEmtjQXA&oe=67AAB068" group-title="Sports",UAAP VARSITY CH
+http://defaultgen.com:3050/live/ahweic/rfyMkmvwgM/558745.ts
+
 #EXTINF:-1 tvg-id="SolarSports.ph" tvg-name="SOLAR SPORTS" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/eb/Solar_Sports_Logo_2022.png/revision/latest?cb=20211226131005" group-title="Sports",Solar Sports
 http://115.146.176.131:80/TimRizal/TimRizal/80.ts
 
@@ -142,7 +148,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/80.ts
 http://115.146.176.131:80/TimRizal/TimRizal/70.ts
 
 #EXTINF:-1 tvg-id="PBARUSH.ph" tvg-name="PBA RUSH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="Sports",PBA Rush
-http://115.146.176.131:80/TimRizal/TimRizal/69.ts
+http://defaultgen.com:3050/live/ahweic/rfyMkmvwgM/558787.ts
 
 #EXTINF:-1 tvg-id="JeepneyTV.ph" tvg-name="JEEPNEY TV" tvg-logo="https://i.imgur.com/SXQY0zp.png" group-title="General",Jeepney TV
 http://115.146.176.131:80/TimRizal/TimRizal/64.ts
