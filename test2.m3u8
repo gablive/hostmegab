@@ -1,102 +1,147 @@
-#EXTM3U
+                           ===========================================
+                                ### xROMTv Free Playlist :) ###
+                           ===========================================
+
+### PHCORNER THREAD: https://phcorner.net/threads/free-converge-vision-and-cignal-tv-mpd-source.2206854/ ###
+
+                           ===========================================
+ 
+========================================= 🇵🇭 PH CABLE TV ===========================================
 
 
+#EXTM3U 
 
 ### LOCAL CHANNELS ###
 
-#EXTINF:-1 tvg-id="converge.ph" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="Kapamilya Network;Kapatid Network;Kapuso Network;PilipinasLive;Pay-Per-View;Government;TFC;Movies;Sports;News;Kids;Government;Cignal;Converge;Viva;HBO:Solar;TAP;UK;International;Local",Converge-Vision Info
+#EXTINF:-1 tvg-id="converge.ph" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="Kapamilya Network;Kapatid Network;Kapuso Network;PilipinasLive;Pay-Per-View;Government;TFC;Movies;Sports;News;Kids;Government;Cignal;Converge;Viva;HBO;Solar;TAP;UK;International;Local",Converge-Vision Info
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001339/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 
-
-#EXTINF:-1 tvg-id="Jeepney TV" tvg-logo="https://i.imgur.com/L5bFXHR.png" group-title="General; Kapamilya Network;Converge;Local",ALLTV 
-http://143.44.136.110:6910/001/2/ch00000090990000001179/manifest.mpd?virtualDomain=001.live_hls.zte.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="Jeepney TV" tvg-logo="https://i.imgur.com/L5bFXHR.png" group-title="General;Kapamilya Network;Converge;Local",ALLTV 
+http://143.44.136.110:6910/001/2/ch00000090990000001179/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="ABS-CBN.ph" tvg-logo="https://i.imgur.com/D2wHkbL.png" group-title="General;Kapamilya Network;Converge;Local",KAPAMILYA CHANNEL HD
+
+#EXTINF:-1 tvg-id="ABS-CBN.ph" tvg-logo="https://i.imgur.com/D2wHkbL.png" group-title="General;Kapamilya Network;Converge;Local",Kapamilya Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=457c50351e2a4c42a5c34cfb5c0b0682:03a2754079e082f7dec48ad362e3899e
-https://d123wz0csfw11u.cloudfront.net/out/v1/6e2906534002432984f73742ef2bcbfe/index.mpd
 
-#EXTINF:-1 tvg-id="ABS-CBN.ph" tvg-logo="https://i.imgur.com/D2wHkbL.png" group-title="General;Kapamilya Network;Converge;Local",KAPAMILYA CHANNEL
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="kapcha2" tvg-name="KAPAMILYA SD (CON)" tvg-logo="https://i.imgur.com/D2wHkbL.png" group-title="General;Kapamilya Network;Converge;Local",KAPAMILYA CHANNEL
 http://143.44.136.110:6910/001/2/ch00000090990000001248/manifest.mpd?virtualDomain=001.live_hls.zte.com
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=457c50351e2a4c42a5c34cfb5c0b0682:03a2754079e082f7dec48ad362e3899e
-https://d123wz0csfw11u.cloudfront.net/out/v1/6e2906534002432984f73742ef2bcbfe/index.mpd
 
-#EXTINF:-1 tvg-id="C1" tvg-logo="https://i.imgur.com/w0ISwhs.png" group-title="Movies;Kapamilya Network;Converge;Local",CINEMA ONE http://143.44.136.110:6910/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
+#EXTINF:-1 tvg-id="C1" tvg-logo="https://i.imgur.com/w0ISwhs.png" group-title="Movies;Kapamilya Network;Converge;Local",CINEMA ONE
+https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f
 #EXTINF:-1 tvg-id="CINEMO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="Movies;Kapamilya Network;Converge;Local",CINEMO!
-http://143.44.136.110:6910/001/2/ch00000090990000001254/manifest.mpd?virtualDomain=001.live_hls.zte.com
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
 
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae
 #EXTINF:-1 tvg-id="ANC.ph" tvg-logo="https://i.imgur.com/odwRbRk.png" group-title="News;Kapamilya Network";TFC;Local,ANC
 https://d3cjss68xc4sia.cloudfront.net/out/v1/89ea8db23cb24a91bfa5d0795f8d759e/index.mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae
 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="ANC.ph" tvg-logo="https://i.imgur.com/odwRbRk.png" group-title="News;Kapamilya Network;Converge;Local",ANC SD
 http://143.44.136.110:6910/001/2/ch00000090990000001274/manifest.mpd?virtualDomain=001.live_hls.zte.com
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="TeleRadyo.ph" tvg-logo="https://i.imgur.com/fTYOu5k.png" group-title="Radio;General;Kapamilya Network;Converge;Local",TeleRadyo Serbisyo
 http://143.44.136.110:6910/001/2/ch00000090990000001249/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-
 #EXTINF:-1 tvg-id="MyxPhilippines.ph" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="Music;Kapamilya Network;Converge;Local",MYX
 http://143.44.136.111:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com
+http://143.44.136.111:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-
 #EXTINF:-1 tvg-id="PTV" tvg-logo="https://i.imgur.com/jqhtY2Z.png" group-title="General;News;Government;Converge;Local",PTV
 http://143.44.136.113:6910/001/2/ch00000090990000001086/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-
 #EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/PYJhTiq.png" group-title="General;Kapatid Network;Converge;Local",TV5
 http://143.44.136.111:6910/001/2/ch00000090990000001088/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-
 #EXTINF:-4 tvg-id="GMATV.ph" tvg-logo="https://i.imgur.com/tnVs2lm.png" group-title="General;Kapuso Network;Converge;Local",GMA
 http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 
 #EXTINF:-1 tvg-id="DZBBDT1.ph" tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="Radio;News;Kapuso Network;;TFC;Local",Super Radyo DZBB 
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RPTV" tvg-logo="https://i.imgur.com/Pw5jNHq.png" group-title="General;Kapatid Network;Converge;Local",RPTV
-http://143.44.136.112:6910/001/2/ch00000090990000001094/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="RPTV" tvg-logo="https://i.imgur.com/Pw5jNHq.png" group-title="General;Kapatid Network;Converge;Local",RPTV
+http://143.44.136.112:6910/001/2/ch00000090990000001094/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="A2Z.ph" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="General;Religious;Kapamilya Network;Converge;Local",A2Z
 http://143.44.136.113:6910/001/2/ch00000090990000001087/manifest.mpd?virtualDomain=001.live_hls.zte.com
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aX0vU3z.png" group-title="General;Religious;Converge;Local",Light TV
 http://115.146.176.131:80/TimRizal/TimRizal/39.ts
 
-#EXTINF:-1 tvg-id="IBC13" tvg-logo="https://i.imgur.com/jmajJd5.png" group-title="General;News;Government;Converge;Local",IBC 13
-http://143.44.136.111:6910/001/2/ch00000090990000001089/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="IBC13" tvg-logo="https://i.imgur.com/jmajJd5.png" group-title="General;News;Government;Converge;Local",IBC 13
+http://143.44.136.111:6910/001/2/ch00000090990000001089/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=04e292bc99bd4ccba89e778651914254:ff0a62bdf8920ce453fe680330b563a5
 #EXTINF:-1 tvg-id="ibc2ph" tvg-logo="https://i.imgur.com/jmajJd5.png" group-title="General;News;Government;Cignal;Local",IBC13
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd.mpd
+
+
+
+
 
 #EXTINF:-1 tvg-id="DZRHNTV" tvg-logo="https://i.imgur.com/ltF02Le.jpg" group-title="News;Radio;Converge;Local",DZRH News TV
 http://143.44.136.110:6910/001/2/ch00000090990000001174/manifest.mpd?virtualDomain=001.live_hls.zte.com
@@ -262,7 +307,7 @@ https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/in
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="jeepney" tvg-logo="https://i.imgur.com/SXQY0zp.png" group-title="GeneralKapamilya Network;Local;Converge",Jeepney TV
+#EXTINF:-1 tvg-id="jeepney" tvg-logo="https://i.imgur.com/SXQY0zp.png" group-title="General;Kapamilya Network;Local;Converge",Jeepney TV
 http://143.44.136.113:6910/001/2/ch00000090990000001250/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 
@@ -463,6 +508,8 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/pl_sdi10.mpd
 
 ### VIVA EXTRAS ###
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="vivacinema1" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="Converge;Movies;Viva;Local",VIVA Cinema
 http://143.44.136.113:6910/001/2/ch00000090990000001079/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
@@ -566,7 +613,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001081/manifest.mpd?virtualDoma
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="solarflix" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="Converge;Movies;Solar;Local",SOLAR FLIX
+#EXTINF:-1 tvg-id="solarflix" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="Converge;Movies;Solar;Local",SOLARFLIX
 http://143.44.136.111:6910/001/2/ch00000090990000001243/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 
@@ -580,7 +627,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001305/manifest.mpd?virtualDoma
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
-#EXTINF:-1 tvg-id="tapactionflix2" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="Cignal;Movies;TAP;Local",Tapactionflix
+#EXTINF:-1 tvg-id="tapactionflix2" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="Cignal;Movies;TAP;Local",TAPACTIONFLIX
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -621,7 +668,7 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tapedge.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #EXTINF:-1 tvg-id="tapsports" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="Cignal;Sports;TAP;Local",TAP SPORTS
-fx1Y2Ehhttps://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 
 ### UK ###
