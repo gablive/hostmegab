@@ -72,7 +72,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001249/manifest.mpd?virtualDoma
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="MYX" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="Music;Kapamilya Network;Converge;Local",MYX
+#EXTINF:-1 tvg-id="MYX" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="Music;Kapamilya Network;Converge;Local",MYX Philippines
 http://143.44.136.111:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com
 http://143.44.136.111:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
@@ -320,7 +320,7 @@ https://du44jtt5g7upx.cloudfront.net/out/v1/a3b708325c1d43dc9549c262526a6945/ind
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:5ce1bc7f06b494c276252b4d13c90e51
-#EXTINF:-1 tvg-id="https://epg.pw/api/epg.xml?channel_id=429762" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="Music;Kapamilya Network;General;Cignal;International",MYX
+#EXTINF:-1 tvg-id="https://epg.pw/api/epg.xml?channel_id=429762" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="Music;Kapamilya Network;General;Cignal;International",MYX International
 https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/index.mpd
 
 
