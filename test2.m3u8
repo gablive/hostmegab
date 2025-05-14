@@ -269,7 +269,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001234/manifest.mpd?virtualDoma
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce
-#EXTINF:-1 tvg-id="Truefmtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TrueFM-logo.png" group-title="General;Radio;News;Cignal;Local",TrueFMTV
+#EXTINF:-1 tvg-id="Truefmtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TrueFM-logo.png" group-title="General;Radio;News;Cignal;Local",True FM TV
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
 
 
