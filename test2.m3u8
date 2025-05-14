@@ -239,13 +239,13 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/depedch_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="OneSports.ph" tvg-logo="https://i.imgur.com/6adOXBY.png" group-title="Sports;Kapatid Network;Converge;Local",ONE SPORTS
+#EXTINF:-1 tvg-id="ONE SPORTS" tvg-logo="https://i.imgur.com/6adOXBY.png" group-title="Sports;Kapatid Network;Converge;Local",ONE SPORTS
 http://143.44.136.111:6910/001/2/ch00000090990000001083/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
-#EXTINF:-1 tvg-id="OneSportsPH" tvg-logo="https://i.imgur.com/2sqjpex.png" group-title="Sports;Kapatid Network;Cignal;Local",ONE SPORTS PLUS HD
+#EXTINF:-1 tvg-id="Onesportsplus Hd" tvg-logo="https://i.imgur.com/2sqjpex.png" group-title="Sports;Kapatid Network;Cignal;Local",ONE SPORTS PLUS HD
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
