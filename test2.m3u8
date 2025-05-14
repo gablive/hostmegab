@@ -307,12 +307,12 @@ https://du44jtt5g7upx.cloudfront.net/out/v1/a3b708325c1d43dc9549c262526a6945/ind
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:5ce1bc7f06b494c276252b4d13c90e51
-#EXTINF:-1 tvg-id="myxtfc" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="Music;Kapamilya Network;General;Cignal;International",MYX
+#EXTINF:-1 tvg-id="https://epg.pw/api/epg.xml?channel_id=429762" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="Music;Kapamilya Network;General;Cignal;International",MYX
 https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/index.mpd
 
 
 
-#EXTINF:-1 tvg-id="KAPAMILYA CHANNEL HD" tvg-logo="https://i.imgur.com/E80HORr.pngg" group-title="General;Kapamilya Network;TFC;Local",KAPAMILYA CHANNEL
+#EXTINF:-1 tvg-id="Kapamilya Channel" tvg-logo="https://i.imgur.com/E80HORr.pngg" group-title="General;Kapamilya Network;TFC;Local",KAPAMILYA CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
@@ -331,7 +331,7 @@ https://abslive.akamaized.net/dash/live/2028025/mor/manifest.mpd|Referer=https:/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="METRO CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Metro_Channel_logo.png/320px-Metro_Channel_logo.png" group-title="General;Kapamilya Network;TFC;Local;Converge",METRO CHANNEL HD
+#EXTINF:-1 tvg-id="METRO CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Metro_Channel_logo.png/320px-Metro_Channel_logo.png" group-title="General;Kapamilya Network;TFC;Local;Converge",METRO CHANNEL HD
 http://143.44.136.110:6910/001/2/ch00000090990000001267/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 
