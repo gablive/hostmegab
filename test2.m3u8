@@ -25,7 +25,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001339/manifest.mpd?virtualDoma
 http://143.44.136.110:6910/001/2/ch00000090990000001179/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 
-#EXTINF:-1 tvg-id="ABS-CBN.ph" tvg-logo="https://i.imgur.com/D2wHkbL.png" group-title="General;Kapamilya Network;Converge;Local",KAPAMILYA CHANNEL HD
+#EXTINF:-1 tvg-id="KAPAMILYA CHANNEL HD" tvg-logo="https://i.imgur.com/D2wHkbL.png" group-title="General;Kapamilya Network;Converge;Local",ABS-CBN HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com
@@ -33,12 +33,12 @@ http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDoma
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="kapcha2" tvg-name="KAPAMILYA SD (CON)" tvg-logo="https://i.imgur.com/D2wHkbL.png" group-title="General;Kapamilya Network;Converge;Local",KAPAMILYA CHANNEL
+#EXTINF:-1 tvg-id="KAPAMILYA CHANNEL HD" tvg-name="KAPAMILYA SD (CON)" tvg-logo="https://i.imgur.com/D2wHkbL.png" group-title="General;Kapamilya Network;Converge;Local",ABS-CBN SD
 http://143.44.136.110:6910/001/2/ch00000090990000001248/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
-#EXTINF:-1 tvg-id="C1" tvg-logo="https://i.imgur.com/w0ISwhs.png" group-title="Movies;Kapamilya Network;Converge;Local",Cinema One
+#EXTINF:-1 tvg-id="Cinema One" tvg-logo="https://i.imgur.com/w0ISwhs.png" group-title="Movies;Kapamilya Network;Converge;Local",Cinema One
 https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -50,13 +50,13 @@ https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/in
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae
-#EXTINF:-1 tvg-id="ANC.ph" tvg-logo="https://i.imgur.com/odwRbRk.png" group-title="News;Kapamilya Network";TFC;Local,ANC
+#EXTINF:-1 tvg-id="ANC" tvg-logo="https://i.imgur.com/odwRbRk.png" group-title="News;Kapamilya Network";TFC;Local,ANC
 https://d3cjss68xc4sia.cloudfront.net/out/v1/89ea8db23cb24a91bfa5d0795f8d759e/index.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="ANC.ph" tvg-logo="https://i.imgur.com/odwRbRk.png" group-title="News;Kapamilya Network;Converge;Local",ANC SD
+#EXTINF:-1 tvg-id="ANC" tvg-logo="https://i.imgur.com/odwRbRk.png" group-title="News;Kapamilya Network;Converge;Local",ANC SD
 http://143.44.136.110:6910/001/2/ch00000090990000001274/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 
@@ -182,8 +182,14 @@ http://143.44.136.110:6910/001/2/ch00000090990000001159/manifest.mpd?virtualDoma
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="bilyocha1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BilyonaryoNewsChannel_Logo_-_Black_%282024%29.png/320px-BilyonaryoNewsChannel_Logo_-_Black_%282024%29.png" group-title="General;News;Converge;Local;Business",Bilyonaryoch
+#EXTINF:-1 tvg-id="Bilyonaryoch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BilyonaryoNewsChannel_Logo_-_Black_%282024%29.png/320px-BilyonaryoNewsChannel_Logo_-_Black_%282024%29.png" group-title="General;News;Converge;Local;Business",BILYONARYO (CONVERGE)
 http://143.44.136.110:6910/001/2/ch00000090990000001124/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
+#EXTINF:-1 tvg-id="bilyocha2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BilyonaryoNewsChannel_Logo_-_Black_%282024%29.png/320px-BilyonaryoNewsChannel_Logo_-_Black_%282024%29.png" group-title="General;News;Cignal;Local",BILYONARYO (CIGNAL)
+https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -200,15 +206,11 @@ http://143.44.136.111:6910/001/2/ch00000090990000001091/manifest.mpd?virtualDoma
 #EXTINF:-1 tvg-id="INCTV.ph" tvg-shift="0" tvg-logo="https://i.imgur.com/JGSLqA6.png" group-title="Religious;Local",INC TV
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
-#EXTINF:-1 tvg-id="bilyocha2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BilyonaryoNewsChannel_Logo_-_Black_%282024%29.png/320px-BilyonaryoNewsChannel_Logo_-_Black_%282024%29.png" group-title="General;News;Cignal;Local",Bilyonaryoch
-https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f853706412b11edb8780242ac120002:2157d6529d80a760f60a8b5350dbc4df
-#EXTINF:-1 tvg-id="depedtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Depedtvlogo.png" group-title="General;News;Government;Cignal;Local",Depedchannel
+#EXTINF:-1 tvg-id="Depedchannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Depedtvlogo.png" group-title="General;News;Government;Cignal;Local",DepEd TV
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/depedch_sd.mpd
 
 
@@ -239,7 +241,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001198/manifest.mpd?virtualDoma
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="OneNews.ph" tvg-logo="https://i.imgur.com/ywgWrux.png" group-title="News;General;Kapatid Network;Converge;Local",Onenews Hd
+#EXTINF:-1 tvg-id="Onenews Hd" tvg-logo="https://i.imgur.com/ywgWrux.png" group-title="News;General;Kapatid Network;Converge;Local",ONE NEWS
 http://143.44.136.110:6910/001/2/ch00000090990000001084/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 
@@ -252,7 +254,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001234/manifest.mpd?virtualDoma
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce
-#EXTINF:-1 tvg-id="truefmph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TrueFM-logo.png" group-title="General;Radio;News;Cignal;Local",TrueFMTV
+#EXTINF:-1 tvg-id="TrueFMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TrueFM-logo.png" group-title="General;Radio;News;Cignal;Local",TrueFMTV
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
 
 
@@ -278,12 +280,6 @@ https://abslive.akamaized.net/dash/live/2112806/pbbmain/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="tfcasia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/320px-The_Filipino_Channel_2011_logo.svg.png" group-title="General;Kapamilya Network;TFC;International",TFC (Asia Feed)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
-https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
-
-
 
 #EXTINF:-1 tvg-id="tfceurope" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/320px-The_Filipino_Channel_2011_logo.svg.png" group-title="General;Kapamilya Network;TFC;International",TFC (Europe Feed)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -292,7 +288,17 @@ https://d123wz0csfw11u.cloudfront.net/out/v1/6e2906534002432984f73742ef2bcbfe/in
 
 
 
-#EXTINF:-1 tvg-id="tfccanada" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/320px-The_Filipino_Channel_2011_logo.svg.png" group-title="General;Kapamilya Network;TFC;International",TFC (Canada Feed)
+#EXTINF:-1 tvg-id="TFC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/320px-The_Filipino_Channel_2011_logo.svg.png" group-title="General;Kapamilya Network;TFC;International",TFC (Asia Feed)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
+https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="TFC - The Filipino Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/320px-The_Filipino_Channel_2011_logo.svg.png" group-title="General;Kapamilya Network;TFC;International",TFC (Canada Feed)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c700e42ffc64d9b82d94cf57a2302fa:44d038e1fdcaefb3e75ffb4e42537279
 https://du44jtt5g7upx.cloudfront.net/out/v1/a3b708325c1d43dc9549c262526a6945/index.mpd
@@ -304,7 +310,7 @@ https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/in
 
 
 
-#EXTINF:-1 tvg-id="kapcha" tvg-logo="https://i.imgur.com/E80HORr.pngg" group-title="General;Kapamilya Network;TFC;Local",KAPAMILYA CHANNEL
+#EXTINF:-1 tvg-id="KAPAMILYA CHANNEL HD" tvg-logo="https://i.imgur.com/E80HORr.pngg" group-title="General;Kapamilya Network;TFC;Local",KAPAMILYA CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
@@ -323,7 +329,7 @@ https://abslive.akamaized.net/dash/live/2028025/mor/manifest.mpd|Referer=https:/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="metrotv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Metro_Channel_logo.png/320px-Metro_Channel_logo.png" group-title="General;Kapamilya Network;TFC;Local;Converge",METRO CHANNEL HD
+#EXTINF:-1 tvg-id="METRO CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Metro_Channel_logo.png/320px-Metro_Channel_logo.png" group-title="General;Kapamilya Network;TFC;Local;Converge",METRO CHANNEL HD
 http://143.44.136.110:6910/001/2/ch00000090990000001267/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 
@@ -344,12 +350,12 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/cg_tvnmovie.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
-#EXTINF:-1tvg-id="GMAPinoyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png" group-title="General;Kapuso Network;TFC;International",GMA Pinoy TV
+#EXTINF:-1tvg-id="GMA Pinoy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png" group-title="General;Kapuso Network;TFC;International",GMA Pinoy TV
 https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=369bcd591a7e42cea6a829879962ee77:7c0548d4ea14676297c0a36ea0e06301
-#EXTINF:-1 tvg-id="GMATV.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" group-title="General;Kapuso Network;TFC;International",GMA Life TV
+#EXTINF:-1 tvg-id="GMA Life TV.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/GMA_Life_TV_2024.png/revision/latest?cb=20240917045835" group-title="General;Kapuso Network;TFC;International",GMA Life TV
 https://absp-live.akamaized.net/dash/live/2099524/gmalf/manifest.mpd|Referer=https://www.iwanttfc.com/
 
 
@@ -378,13 +384,13 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
-#EXTINF:-1 tvg-id="bukotvph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/BuKo_Buhay_Komedya_Logo.jpg" group-title="General;Kapatid Network;Cignal;Local",Buko Cg
+#EXTINF:-1 tvg-id="Buko Cg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/BuKo_Buhay_Komedya_Logo.jpg" group-title="General;Kapatid Network;Cignal;Local",Buko
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
-#EXTINF:-1 tvg-id="pbarush" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="Cignal;Sports;Kapatid Network;Local;Cignal",Pbarush Hd
+#EXTINF:-1 tvg-id="Pbarush Hd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="Cignal;Sports;Kapatid Network;Local;Cignal", PBA Rush
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -394,7 +400,7 @@ http://143.44.136.111:6910/001/2/ch00000090990000001195/manifest.mpd?virtualDoma
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
-#EXTINF:-1 tvg-id="uaapvarsity" tvg-logo="https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-6/340260248_230839929600585_6629848392408933616_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=ic_y3TWgppUQ7kNvgE1yDol&_nc_zt=23&_nc_ht=scontent-man2-1.xx&_nc_gid=Amx5bKjnn-B01UbZ44LH8Qr&oh=00_AYDyq_BrcFAsZIVHdDLS4KemDvzFFGrjMtYiyJhEmtjQXA&oe=67AAB068" group-title="Cignal;Sports;Kapatid Network;Local;Cignal",Uaap Varsity
+#EXTINF:-1 tvg-id=",Uaap Varsity" tvg-logo="https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-6/340260248_230839929600585_6629848392408933616_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=ic_y3TWgppUQ7kNvgE1yDol&_nc_zt=23&_nc_ht=scontent-man2-1.xx&_nc_gid=Amx5bKjnn-B01UbZ44LH8Qr&oh=00_AYDyq_BrcFAsZIVHdDLS4KemDvzFFGrjMtYiyJhEmtjQXA&oe=67AAB068" group-title="Cignal;Sports;Kapatid Network;Local;Cignal",UAAP Varsity
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
 
 
