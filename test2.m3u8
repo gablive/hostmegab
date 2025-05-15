@@ -137,7 +137,6 @@ http://143.44.136.113:6910/001/2/ch00000090990000001087/manifest.mpd?virtualDoma
 #EXTINF:-1 tvg-id="A2Z" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="General;Religious;Kapamilya Network;Cignal;Local",A2Z (Cignal)
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aX0vU3z.png" group-title="General;Religious;Converge;Local",Light TV
 http://115.146.176.131:80/TimRizal/TimRizal/39.ts
 
