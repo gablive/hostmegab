@@ -405,7 +405,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
 #EXTINF:-1 tvg-id="Pbarush Hd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="Cignal;Sports;Kapatid Network;Local;Cignal", PBA Rush
-https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
@@ -414,7 +414,7 @@ http://143.44.136.111:6910/001/2/ch00000090990000001195/manifest.mpd?virtualDoma
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
-#EXTINF:-1 tvg-id="Uaap Varsity" tvg-logo="https://scontent-man2-1.xx.fbcdn.net/v/t39.30808-6/340260248_230839929600585_6629848392408933616_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=ic_y3TWgppUQ7kNvgE1yDol&_nc_zt=23&_nc_ht=scontent-man2-1.xx&_nc_gid=Amx5bKjnn-B01UbZ44LH8Qr&oh=00_AYDyq_BrcFAsZIVHdDLS4KemDvzFFGrjMtYiyJhEmtjQXA&oe=67AAB068" group-title="Cignal;Sports;Kapatid Network;Local;Cignal",UAAP Varsity
+#EXTINF:-1 tvg-id="Uaap Varsity" tvg-logo="https://i.imgur.com/F9s3hCC.png" group-title="Cignal;Sports;Kapatid Network;Local;Cignal",UAAP Varsity
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
 
 
