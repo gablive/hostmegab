@@ -19,7 +19,7 @@
 http://143.44.136.110:6910/001/2/ch00000090990000001339/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 
-#EXTINF:-1 ch-number="7" tvg-chno="7" group-title="General;Kapamilya Network;Converge;Local" tvg-id="alltv.ph" tvg-name="ALLTV" tvg-logo="https://i.pinimg.com/736x/e9/f6/00/e9f6002051d92fd06299a5f3e86f4780.jpg", ALLTV2
+#EXTINF:-1 group-title="General;Kapamilya Network;Converge;Local" tvg-id="" tvg-name="Jeepney TV" tvg-logo="https://i.pinimg.com/736x/e9/f6/00/e9f6002051d92fd06299a5f3e86f4780.jpg", ALLTV2
 #EXTVLCOPT:http-referrer=http://143.44.136.74:9443
 #EXTVLCOPT:http-origin=http://161.49.17.2:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -29,7 +29,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001339/manifest.mpd?virtualDoma
 http://161.49.17.2:6610/001/2/ch00000090990000001179/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 
-#EXTINF:-1 ch-number="5" tvg-chno="5" group-title="General;Kapamilya Network;Converge;Local" tvg-id="Kapamilya.Channel.ph" tvg-name="Kapamilya channel" tvg-logo="https://i.pinimg.com/736x/18/4c/34/184c34a3eed374f719ec47b77caafd5a.jpg", ABS-CBN HD
+#EXTINF:-1 group-title="General;Kapamilya Network;Converge;Local" tvg-id="Kapamilya Channel" tvg-name="Kapamilya channel" tvg-logo="https://i.pinimg.com/736x/18/4c/34/184c34a3eed374f719ec47b77caafd5a.jpg", ABS-CBN HD
 #EXTVLCOPT:http-referrer=http://143.44.136.74:9443
 #EXTVLCOPT:http-origin=http://161.49.17.2:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -71,14 +71,14 @@ http://143.44.136.110:6610/001/2/ch00000090990000001274/manifest.mpd?virtualDoma
 
 
 
-#EXTINF:-1 ch-number="44" tvg-chno="1" group-title="Radio;General;Kapamilya Network;Converge;Local" tvg-id="DZMM TELERADYO" tvg-name="DZMM Teleradyo" tvg-logo="https://i.pinimg.com/736x/b6/72/88/b67288465960673b23860f97176de5d3.jpg", DZMM Teleradyo
+#EXTINF:-1 group-title="Radio;General;Kapamilya Network;Converge;Local" tvg-id="DZMM Radyo Patrol  " tvg-name="DZMM Teleradyo" tvg-logo="https://i.pinimg.com/736x/b6/72/88/b67288465960673b23860f97176de5d3.jpg", DZMM Teleradyo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
 
-#EXTINF:-1 ch-number="14" tvg-chno="14" group-title="Music;Kapamilya Network;Converge;Local" tvg-id="MYX.ph" tvg-name="MYX" tvg-logo="https://i.pinimg.com/736x/aa/8b/ad/aa8bad7c4bc5fa60bd38f98f642ddd47.jpg", myx
+#EXTINF:-1 group-title="Music;Kapamilya Network;Converge;Local" tvg-id="MYX" tvg-name="MYX" tvg-logo="https://i.pinimg.com/736x/aa/8b/ad/aa8bad7c4bc5fa60bd38f98f642ddd47.jpg", myx
 #EXTVLCOPT:http-referrer=http://143.44.136.74:9443
 #EXTVLCOPT:http-origin=http://161.49.17.2:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -104,7 +104,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001252/manifest.mpd?JITPDRMType=Wi
 http://143.44.136.113:6610/001/2/ch00000090990000001086/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/23/66/c1/2366c1ec317116ed53f45d82e5322e5e.jpg" group-title="General;Kapatid Network;Cignal;Local",TV5
+#EXTINF:-1 tvg-id="TV5" tvg-logo="https://i.pinimg.com/736x/23/66/c1/2366c1ec317116ed53f45d82e5322e5e.jpg" group-title="General;Kapatid Network;Cignal;Local",TV5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -130,7 +130,7 @@ https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 
 
 
-#EXTINF:-1 ch-number="17" tvg-chno="17" group-title="General;Kapatid Network;Converge;Local" tvg-id="Rptv.ph" tvg-name="Rptv" tvg-logo="https://i.pinimg.com/736x/bc/5a/bf/bc5abf3ff6b955f0c9f0a1a6aee57be0.jpg", RPTV
+#EXTINF:-1 group-title="General;Kapatid Network;Converge;Local" tvg-id="RPTV" tvg-name="RPTV" tvg-logo="https://i.pinimg.com/736x/bc/5a/bf/bc5abf3ff6b955f0c9f0a1a6aee57be0.jpg", RPTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -139,7 +139,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/i
 
 
 
-#EXTINF:-1 ch-number="33" tvg-chno="2" group-title="General;Religious;Kapamilya Network;Converge;Local" tvg-logo="https://i.pinimg.com/736x/a8/f5/88/a8f58866824a293bb045eca5cdba0905.jpg", A2Z (Converge)
+#EXTINF:-1 group-title="General;Religious;Kapamilya Network;Cignal;Local" tvg-id="A2Z" tvg-logo="https://i.pinimg.com/736x/a8/f5/88/a8f58866824a293bb045eca5cdba0905.jpg", A2Z (Cignal)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -147,7 +147,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/i
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
 
 
-#EXTINF:-1 ch-number="6" group-title="General;Religious;Kapamilya Network;Cignal;Local" tvg-chno="6" tvg-id="a2z.Channel.11.ph" tvg-name="a2z Channel 11" tvg-logo="https://i.pinimg.com/736x/5b/8a/ac/5b8aac30d779ea7c240683bb561812c5.jpg", A2Z (Cignal)
+#EXTINF:-1 group-title="General;Religious;Kapamilya Network;Converge;Local" tvg-id="A2Z" tvg-logo="https://i.pinimg.com/736x/5b/8a/ac/5b8aac30d779ea7c240683bb561812c5.jpg", A2Z (Converge)
 #EXTVLCOPT:http-referrer=http://143.44.136.74:9443
 #EXTVLCOPT:http-origin=http://161.49.17.2:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -169,7 +169,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001087/manifest.mpd?JITPDRMType=Wi
 http://161.49.17.2:6610/001/2/ch00000090990000001103/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 
-#EXTINF:-1 ch-number="15" tvg-chno="15" group-title="General;News;Government;Converge;Local" tvg-id="IBC.TV.13.ph" tvg-name="IBC TV 13" tvg-logo="https://i.pinimg.com/736x/8a/90/7f/8a907f59b7ff7f4250e07a97e5493168.jpg", IBC TV 13
+#EXTINF:-1 group-title="General;News;Government;Converge;Local" tvg-id="Ibc13" tvg-name="IBC TV 13" tvg-logo="https://i.pinimg.com/736x/8a/90/7f/8a907f59b7ff7f4250e07a97e5493168.jpg", IBC-13
 #EXTVLCOPT:http-referrer=http://143.44.136.74:9443
 #EXTVLCOPT:http-origin=http://161.49.17.2:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -198,7 +198,7 @@ https://customer-x8zydurm357k8j9p.cloudflarestream.com/e9a0f1b659e4a6052fa798846
 http://45.32.115.103/live/livestream/index.m3u8
 
 
-#EXTINF:-1 ch-number="45" tvg-chno="2" group-title="General;Converge;Local" tvg-logo="https://i.pinimg.com/736x/66/02/a0/6602a0d70d9608b22b706159b8c90690.jpg", Aliw
+#EXTINF:-1 group-title="General;Converge;Local" tvg-logo="https://i.pinimg.com/736x/66/02/a0/6602a0d70d9608b22b706159b8c90690.jpg", Aliw
 #EXTVLCOPT:http-referrer=http://143.44.136.74:9443
 #EXTVLCOPT:http-origin=http://161.49.17.2:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -221,7 +221,7 @@ https://ythls.armelin.one/channel/UCFRj7FPKTthzA_gfE2PsGJQ.m3u8
 
 
 
-#EXTINF:-1 ch-number="25" tvg-chno="25" tvg-id="Net.25.ph" tvg-name="Net 25" tvg-logo="https://i.pinimg.com/736x/4d/a4/d3/4da4d305aabadab16d228b9f58d0b03e.jpg" group-title="General;News;Converge;Local", NET25
+#EXTINF:-1 tvg-id="Net.25.ph" tvg-name="Net 25" tvg-logo="https://i.pinimg.com/736x/4d/a4/d3/4da4d305aabadab16d228b9f58d0b03e.jpg" group-title="General;News;Converge;Local", NET25
 #EXTVLCOPT:http-referrer=http://143.44.136.74:9443
 #EXTVLCOPT:http-origin=http://161.49.17.2:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -231,7 +231,7 @@ https://ythls.armelin.one/channel/UCFRj7FPKTthzA_gfE2PsGJQ.m3u8
 http://161.49.17.2:6610/001/2/ch00000090990000001090/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 
-#EXTINF:-1 ch-number="4" tvg-chno="4" group-title="General;Kapuso Network;Converge;Local" tvg-id="GTV.ph" tvg-name="GTV" tvg-logo="https://i.pinimg.com/736x/3f/8e/13/3f8e1369e4053ea6955e179d69d6e1e7.jpg", GTV
+#EXTINF:-1 group-title="General;Kapuso Network;Converge;Local" tvg-id="GTV" tvg-name="GTV" tvg-logo="https://i.pinimg.com/736x/3f/8e/13/3f8e1369e4053ea6955e179d69d6e1e7.jpg", GTV
 #EXTVLCOPT:http-referrer=http://143.44.136.74:9443
 #EXTVLCOPT:http-origin=http://161.49.17.2:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -241,7 +241,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001090/manifest.mpd?JITPDRMType=Wi
 http://161.49.17.2:6610/001/2/ch00000090990000001143/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 
-#EXTINF:-1 ch-number="30" tvg-chno="30" group-title="General;Converge;Local" tvg-name="RJ TV" tvg-logo="https://i.pinimg.com/736x/58/69/0d/58690d9c3ca237417e6414c084aeaaff.jpg", RJ DigiTV
+#EXTINF:-1 group-title="General;Converge;Local" tvg-name="RJ TV" tvg-logo="https://i.pinimg.com/736x/58/69/0d/58690d9c3ca237417e6414c084aeaaff.jpg", RJ DigiTV
 #EXTVLCOPT:http-referrer=http://143.44.136.74:9443
 #EXTVLCOPT:http-origin=http://161.49.17.2:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -251,7 +251,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001143/manifest.mpd?JITPDRMType=Wi
 http://161.49.17.2:6610/001/2/ch00000090990000001159/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 
-#EXTINF:-1 ch-number="11" tvg-chno=11" group-title="General;News;Cignal;Local;Business" tvg-id="Beam TV" tvg-name="Bilyonaryoch" tvg-logo="https://i.pinimg.com/736x/f6/af/ce/f6afce96a34ff01b0b284b6f01d9ced0.jpg", BNC (CIGNAL)
+#EXTINF:-1 group-title="General;News;Cignal;Local;Business" tvg-id="Beam TV" tvg-name="Bilyonaryoch" tvg-logo="https://i.pinimg.com/736x/f6/af/ce/f6afce96a34ff01b0b284b6f01d9ced0.jpg", BNC (CIGNAL)
 #EXTVLCOPT:http-referrer=http://143.44.136.74:9443
 #EXTVLCOPT:http-origin=http://161.49.17.2:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -260,7 +260,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001159/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=31363232313037373837323837383130:5146434c3239617645344e7772343668
 http://161.49.17.2:6610/001/2/ch00000090990000001124/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 ch-number="40" tvg-chno="9" group-title="General;News;Cignal;Local" tvg-logo="https://i.pinimg.com/736x/d9/0a/af/d90aafda7eece85bbbbd407076dc0ab4.jpg", BNC (CONVERGE)
+#EXTINF:-1 group-title="General;News;Cignal;Local" tvg-logo="https://i.pinimg.com/736x/d9/0a/af/d90aafda7eece85bbbbd407076dc0ab4.jpg", BNC (CONVERGE)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -269,7 +269,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bilyonaryoch/default/index
 
 
 
-#EXTINF:-1  ch-number="20" tvg-chno="20" group-title="General;Converge;Local" tvg-name="CLTV" tvg-logo="https://i.pinimg.com/736x/91/a9/8f/91a98fd3f2712fcdf233bc167fac716c.jpg", Central Luzon Television Incorporated
+#EXTINF:-1 group-title="General;Converge;Local" tvg-name="CLTV" tvg-logo="https://i.pinimg.com/736x/91/a9/8f/91a98fd3f2712fcdf233bc167fac716c.jpg", Central Luzon Television Incorporated
 #EXTVLCOPT:http-referrer=http://143.44.136.74:9443
 #EXTVLCOPT:http-origin=http://161.49.17.2:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -280,7 +280,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001314/manifest.mpd?JITPDRMType=Wi
 
 
 
-#EXTINF:-1 ch-number="47" tvg-chno="4" group-title="News;General;Converge;Local" tvg-logo="https://i.pinimg.com/736x/9b/d8/ae/9bd8aee9f3afc74b1a1ca04d64c4e0c3.jpg", UNTV
+#EXTINF:-1 group-title="News;General;Converge;Local" tvg-logo="https://i.pinimg.com/736x/9b/d8/ae/9bd8aee9f3afc74b1a1ca04d64c4e0c3.jpg", UNTV
 #EXTVLCOPT:http-referrer=http://143.44.136.74:9443
 #EXTVLCOPT:http-origin=http://161.49.17.2:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -292,7 +292,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001091/manifest.mpd?JITPDRMType=Wi
 
 
 
-#EXTINF:-1 ch-number="50" tvg-chno="7" group-title="Religious;Local" tvg-id="LOCAL.PROGRAMMING.DUMMY.us" tvg-logo="https://i.pinimg.com/736x/17/d6/e1/17d6e15748d32d011a6728a7e5f30d06.jpg", INCTV
+#EXTINF:-1 group-title="Religious;Local" tvg-id="LOCAL.PROGRAMMING.DUMMY.us" tvg-logo="https://i.pinimg.com/736x/17/d6/e1/17d6e15748d32d011a6728a7e5f30d06.jpg", INCTV
 #EXTVLCOPT:http-referrer=http://143.44.136.74:9443
 #EXTVLCOPT:http-origin=http://161.49.17.2:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -317,7 +317,7 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/depedch_sd.mpd
 
 ### ONE CHANNELS ###
 
-#EXTINF:-1 ch-number="51" tvg-chno="8" group-title="Sports;Kapatid Network;Converge;Local" tvg-id="" tvg-logo="https://i.pinimg.com/736x/0b/5f/b3/0b5fb3bf281e5db2c7acdf1f10163da1.jpg", One Sports HD
+#EXTINF:-1 group-title="Sports;Kapatid Network;Converge;Local" tvg-id="ONE SPORTS" tvg-logo="https://i.pinimg.com/736x/0b/5f/b3/0b5fb3bf281e5db2c7acdf1f10163da1.jpg", One Sports HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -325,7 +325,7 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/depedch_sd.mpd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/D33wRIq.png" group-title="Sports;Kapatid Network;Cignal;Local", One Sports+
+#EXTINF:-1 tvg-id="Onesportsplus Hd" tvg-logo="https://i.imgur.com/D33wRIq.png" group-title="Sports;Kapatid Network;Cignal;Local", One Sports+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -333,7 +333,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/in
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gkluDe9.png" group-title="General;Kapatid Network;Converge;Local", One PH HD
+#EXTINF:-1 tvg-id="Oneph" tvg-logo="https://i.imgur.com/gkluDe9.png" group-title="General;Kapatid Network;Converge;Local", One PH HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -342,7 +342,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bpRiu54.png"group-title="News;General;Kapatid Network;Converge;Local",ONE NEWS
+#EXTINF:-1 tvg-id="Onenews Hd" tvg-logo="https://i.imgur.com/bpRiu54.png"group-title="News;General;Kapatid Network;Converge;Local",ONE NEWS
 #EXTVLCOPT:http-referrer=http://143.44.136.74:9443
 #EXTVLCOPT:http-origin=http://161.49.17.2:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -362,7 +362,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001084/manifest.mpd?JITPDRMType=Wi
 http://161.49.17.2:6610/001/2/ch00000090990000001234/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 
-#EXTINF:-1 ch-number="13" tvg-chno="13" group-title="General;Radio;News;Cignal;Local" tvg-id="Cignal TV" tvg-name="TRUE FM TV" tvg-logo="https://i.pinimg.com/736x/29/f0/da/29f0da03b4e49cba23f354df3a49bc40.jpg", TrueTV
+#EXTINF:-1 group-title="General;Radio;News;Cignal;Local" tvg-id="Cignal TV" tvg-name="TRUE FM TV" tvg-logo="https://i.pinimg.com/736x/29/f0/da/29f0da03b4e49cba23f354df3a49bc40.jpg", TrueTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -883,6 +883,7 @@ https://list.iptvcat.com/my_list/s/3fd627532f4d5cff88905047f247a8d9.m3u8
 
 #EXTINF:-1 tvg-id="Cable.Satellite.Public.Affairs.Network.(CSPAN).us" tvg-name="C SPAN 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/c-span-1-us.png?raw=true" group-title="News;USA" ,CSPAN
 https://list.iptvcat.com/my_list/s/93aa065dcadc96851b65b9d9c6b2be62.m3u8
+
 
 
 
