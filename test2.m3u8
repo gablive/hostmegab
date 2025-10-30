@@ -29,7 +29,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001339/manifest.mpd?virtualDoma
 http://161.49.17.2:6610/001/2/ch00000090990000001179/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 
-#EXTINF:-1 group-title="General;Kapamilya Network;Converge;Local" tvg-id="Kapamilya Channel" tvg-name="Kapamilya channel" tvg-logo="https://i.pinimg.com/736x/18/4c/34/184c34a3eed374f719ec47b77caafd5a.jpg", ABS-CBN HD
+#EXTINF:-1 group-title="General;Kapamilya Network;Converge;Local" tvg-id="KAPAMILYA CHANNEL HD" tvg-name="Kapamilya channel" tvg-logo="https://i.pinimg.com/736x/3e/b2/99/3eb299a4c9bb14a9ac41fe3bde5d024d.jpg",ABS-CBN HD
 #EXTVLCOPT:http-referrer=http://143.44.136.74:9443
 #EXTVLCOPT:http-origin=http://161.49.17.2:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -42,7 +42,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001286/manifest.mpd?JITPDRMType=Wi
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="Kapamilya Channel" tvg-name="KAPAMILYA SD (CON)" tvg-logo="https://i.imgur.com/D2wHkbL.png" group-title="General;Kapamilya Network;Converge;Local",ABS-CBN SD
+#EXTINF:-1 tvg-id="Kapamilya Channel" tvg-name="KAPAMILYA SD (CON)" tvg-logo="https://i.pinimg.com/736x/18/4c/34/184c34a3eed374f719ec47b77caafd5a.jpg" group-title="General;Kapamilya Network;Converge;Local",ABS-CBN SD
 http://143.44.136.110:6610/001/2/ch00000090990000001248/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -883,6 +883,7 @@ https://list.iptvcat.com/my_list/s/3fd627532f4d5cff88905047f247a8d9.m3u8
 
 #EXTINF:-1 tvg-id="Cable.Satellite.Public.Affairs.Network.(CSPAN).us" tvg-name="C SPAN 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/c-span-1-us.png?raw=true" group-title="News;USA" ,CSPAN
 https://list.iptvcat.com/my_list/s/93aa065dcadc96851b65b9d9c6b2be62.m3u8
+
 
 
 
