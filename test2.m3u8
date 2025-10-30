@@ -71,7 +71,7 @@ http://143.44.136.110:6610/001/2/ch00000090990000001274/manifest.mpd?virtualDoma
 
 
 
-#EXTINF:-1 group-title="Radio;General;Kapamilya Network;Converge;Local" tvg-id="DZMM Radyo Patrol  " tvg-name="DZMM Teleradyo" tvg-logo="https://i.pinimg.com/736x/b6/72/88/b67288465960673b23860f97176de5d3.jpg", DZMM Teleradyo
+#EXTINF:-1 tvg-id="DZMM Radyo Patrol" tvg-name="DZMM Teleradyo" group-title="Radio;General;Kapamilya Network;Converge;Local" tvg-logo="https://i.pinimg.com/736x/b6/72/88/b67288465960673b23860f97176de5d3.jpg", DZMM Teleradyo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -883,6 +883,7 @@ https://list.iptvcat.com/my_list/s/3fd627532f4d5cff88905047f247a8d9.m3u8
 
 #EXTINF:-1 tvg-id="Cable.Satellite.Public.Affairs.Network.(CSPAN).us" tvg-name="C SPAN 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/c-span-1-us.png?raw=true" group-title="News;USA" ,CSPAN
 https://list.iptvcat.com/my_list/s/93aa065dcadc96851b65b9d9c6b2be62.m3u8
+
 
 
 
