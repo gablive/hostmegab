@@ -120,11 +120,13 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
 
 
 #EXTINF:-1 ch-number="2" tvg-chno="2" group-title="General;Kapuso Network;Converge;Local" tvg-id="GMA ph" tvg-name="GMA" tvg-logo="https://i.pinimg.com/736x/31/9e/05/319e0530158f0647e3dd3b26c40503d3.jpg", GMA
+#EXTVLCOPT:http-referrer=https://mc-o0of718lw0.bunny.run/license
+#EXTVLCOPT:http-origin=http://136.239.158.30:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
-https://mc-nfwz0ez9k2.bunny.run/gma/dopamine/manifest.mpd
+https://mc-5fythpik4t.bunny.run/7/dopamine/manifest.mpd
 
 
 #EXTINF:-1 ch-number="2" tvg-chno="2" group-title="General;Kapuso Network;Converge;Local" tvg-id="GMA ph" tvg-name="GMA" tvg-logo="https://i.pinimg.com/736x/31/9e/05/319e0530158f0647e3dd3b26c40503d3.jpg", GMA OneSeg
@@ -920,6 +922,7 @@ https://list.iptvcat.com/my_list/s/3fd627532f4d5cff88905047f247a8d9.m3u8
 
 #EXTINF:-1 tvg-id="Cable.Satellite.Public.Affairs.Network.(CSPAN).us" tvg-name="C SPAN 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/c-span-1-us.png?raw=true" group-title="News;USA" ,CSPAN
 https://list.iptvcat.com/my_list/s/93aa065dcadc96851b65b9d9c6b2be62.m3u8
+
 
 
 
