@@ -36,7 +36,7 @@ https://mc-5fythpik4t.bunny.run/55/dopamine/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331363737343637333533323837:71347339457958556439543650426e74
-https://mc-5fythpik4t.bunny.run/15/dopamine/manifest.mpd
+http://161.49.17.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X%2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q%3D%3D&virtualDomain=001.live_hls.zte.com&usersessionid=180776581&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=HtdzdcdnUDFPjPD3ownfRamI7yg8eammkhvOJFfNC00%3D?JITPTrackType=23&JITPDRMType=Widevine&IASHttpSessionId=RR20447120251117171949775224&JITPMediaType=DASH&virtualDomain=001.live_hls.zte.com&ispcode=55&ztecid=ch00000090990000001286&m4s_min=1&usersessionid=340766663&NeedJITP=1&isjitp=0&startNumber=45936895&filedura=6
 
 
 
@@ -920,6 +920,7 @@ https://list.iptvcat.com/my_list/s/3fd627532f4d5cff88905047f247a8d9.m3u8
 
 #EXTINF:-1 tvg-id="Cable.Satellite.Public.Affairs.Network.(CSPAN).us" tvg-name="C SPAN 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/c-span-1-us.png?raw=true" group-title="News;USA" ,CSPAN
 https://list.iptvcat.com/my_list/s/93aa065dcadc96851b65b9d9c6b2be62.m3u8
+
 
 
 
