@@ -93,7 +93,7 @@ https://converse.nathcreqtives.com/1252/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="PTV" tvg-logo="https://i.imgur.com/jqhtY2Z.png" group-title="General;News;Government;Converge;Local",PTV
+#EXTINF:-1 tvg-id="PTV" tvg-logo="https://i.postimg.cc/wtGhvsC8/ptvphilippines-logo.jpg" group-title="General;News;Government;Converge;Local",PTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -325,7 +325,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/depedch_sd/default/index.m
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
 
 
-#EXTINF:-1 tvg-id="Onesportsplus Hd" tvg-logo="https://i.imgur.com/D33wRIq.png" group-title="Sports;Kapatid Network;Cignal;Local", One Sports+
+#EXTINF:-1 tvg-id="Onesportsplus Hd" tvg-logo="https://i.postimg.cc/jWwbppKy/download.png" group-title="Sports;Kapatid Network;Cignal;Local", One Sports+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -333,7 +333,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/in
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
 
 
-#EXTINF:-1 tvg-id="Oneph" tvg-logo="https://i.imgur.com/gkluDe9.png" group-title="General;Kapatid Network;Converge;Local", One PH HD
+#EXTINF:-1 tvg-id="Oneph" tvg-logo="https://i.postimg.cc/zywtVpjR/download-(1).png" group-title="General;Kapatid Network;Converge;Local", One PH HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -342,7 +342,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
 
 
 
-#EXTINF:-1 tvg-id="Onenews Hd" tvg-logo="https://i.imgur.com/bpRiu54.png"group-title="News;General;Kapatid Network;Converge;Local",ONE NEWS
+#EXTINF:-1 tvg-id="Onenews Hd" tvg-logo="https://i.postimg.cc/68KzJnXL/One-News-PH-logo-svg.png" group-title="News;General;Kapatid Network;Converge;Local",ONE NEWS
 #EXTVLCOPT:http-referrer=http://143.44.136.74:9443
 #EXTVLCOPT:http-origin=http://161.49.17.2:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -920,6 +920,7 @@ https://list.iptvcat.com/my_list/s/93aa065dcadc96851b65b9d9c6b2be62.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
+
 
 
 
