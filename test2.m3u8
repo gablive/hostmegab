@@ -864,10 +864,6 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 ### UK ###
 
-#EXTINF:-1 tvg-id="SkySportsF1" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kiEuPmeOVl-LKB42k9s2crSFOWaV8mLleSufLg1teuM20=s900-c-k-c0x00ffffff-no-rj" group-title="Sports;UK;International",Sky Sports F1
-http://cord-cutter.net:8080/hq3y4G/234247/53704?checkedby:alliptvlinks.com
-
-
 #EXTINF:-1 tvg-id="BBCOneSouthEast.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="General;UK;International",BBC One S East HD
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/pc_hd_abr_v2.mpd
 
@@ -932,7 +928,28 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/m
 
 
 
+#EXTINF:-1 tvg-id="SkySportsF1" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kiEuPmeOVl-LKB42k9s2crSFOWaV8mLleSufLg1teuM20=s900-c-k-c0x00ffffff-no-rj" group-title="F1;Sports;UK;International",Sky Sports F1 HD 0
+http://cord-cutter.net:8080/hq3y4G/234247/53704?checkedby:alliptvlinks.com
 
+#EXTINF:-1, tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kiEuPmeOVl-LKB42k9s2crSFOWaV8mLleSufLg1teuM20=s900-c-k-c0x00ffffff-no-rj" group-title="F1;Sports;UK;International",UK Sky Sports F1 FHD D Backup 1
+http://cord-cutter.net:8080/k4Svp2/645504/53704?checkedby:alliptvlinks.com
+
+
+#EXTINF:-1, tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kiEuPmeOVl-LKB42k9s2crSFOWaV8mLleSufLg1teuM20=s900-c-k-c0x00ffffff-no-rj" group-title="F1;Sports;UK;International",UK Sky Sports F1 FHD D Backup 2
+http://cord-cutter.net:8080/k4Svp2/645504/35244?checkedby:alliptvlinks.com
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="F1;Sports;US;International",BEIN SPORTS 1
+https://ww.dooballfree.vip/live/bein1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="F1;Sports;US;International",BEIN SPORTS 2
+https://ww.dooballfree.vip/live/bein2/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png" group-title="F1;Sports;US;International",US ESPN 1 (HD) Backup NO_3
+http://cord-cutter.net:8080/k4Svp2/645504/9802?checkedby:alliptvlinks.com
+
+#EXTINF:-1, tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png" group-title="F1;Sports;US;International",US ESPN 1 (HD) Backup NO_2
+http://cord-cutter.net:8080/k4Svp2/645504/14197?checkedby:alliptvlinks.com
 
 
 
