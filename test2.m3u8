@@ -32,6 +32,14 @@ https://converse.nathcreqtives.com/1179/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 https://converse.nathcreqtives.com/1286/manifest.mpd
 
+#EXTINF:-1 tvg-id="KAPAMILYA CHANNEL HD" tvg-name="Kapamilya channel" group-title="General;Kapamilya Network;Converge;Local" tvg-logo="https://i.pinimg.com/736x/3e/b2/99/3eb299a4c9bb14a9ac41fe3bde5d024d.jpg",KAPCHA TEST
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/eb757654-cffd-44d9-a6af-4a1f811e31cc/index.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
@@ -950,6 +958,7 @@ http://cord-cutter.net:8080/k4Svp2/645504/9802?checkedby:alliptvlinks.com
 
 #EXTINF:-1, tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png" group-title="F1;Sports;US;International",US ESPN 1 (HD) Backup NO_2
 http://cord-cutter.net:8080/k4Svp2/645504/14197?checkedby:alliptvlinks.com
+
 
 
 
