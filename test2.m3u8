@@ -385,10 +385,21 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/truefm_tv/default/index.mp
 
 
 #EXTINF:-1 tvg-id="kapcha1" tvg-logo="https://i.imgur.com/Niy6Xka.jpg" group-title="General;Kapuso Network;Kapamilya Network;TFC;Local;International",PBB All-Access
-#EXTVLCOPT:http-referrer=https://litestream-iptv.vercel.app/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8438e8495659425585a09749cd6bc39a:9d92b12db092fe6bdf2207ef7a2a9e65
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbnono/e772001d-d72e-4b61-921c-c80567540d71/index.mpd
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbnono/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MJJTEnx.png",PBB Dining Area
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b37bb823fe48452eba8cee62516f5da1:8b48cec6bce94917e4c39c381d607102
+https://abslive.akamaized.net/dash/live/2028025/pbb1/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MJJTEnx.png",PBB Pool Area
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9539027a7c42446a8648555af3bb3095:1cb94c88f68bef1e728cfa4677e1eeca
+https://abslive.akamaized.net/dash/live/2028025/pbb2/manifest.mpd
 
 
 
@@ -962,6 +973,7 @@ http://cord-cutter.net:8080/k4Svp2/645504/9802?checkedby:alliptvlinks.com
 
 #EXTINF:-1, tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png" group-title="F1;Sports;US;International",US ESPN 1 (HD) Backup NO_2
 http://cord-cutter.net:8080/k4Svp2/645504/14197?checkedby:alliptvlinks.com
+
 
 
 
