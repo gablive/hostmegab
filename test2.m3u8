@@ -291,6 +291,11 @@ https://converse.nathcreqtives.com/1314/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 https://converse.nathcreqtives.com/1091/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJnYWIiLCJleHAiOjE3NjYwMTQ1MTh9.HK-J2GJHP9-tGrBUpgvLdFBRXHNc0cJhyH2vZmZplMk
 
 
+#EXTINF:-1 group-title="Religious;Local,Cult" tvg-id="LOCAL.PROGRAMMING.DUMMY.us" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133929628.png",SMNI
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1155/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJnYWIiLCJleHAiOjE3NjYwMTQ1MTh9.HK-J2GJHP9-tGrBUpgvLdFBRXHNc0cJhyH2vZmZplMk
 
 
 #EXTINF:-1 group-title="Religious;Local" tvg-id="LOCAL.PROGRAMMING.DUMMY.us" tvg-logo="https://i.pinimg.com/736x/17/d6/e1/17d6e15748d32d011a6728a7e5f30d06.jpg", INCTV
@@ -380,11 +385,10 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/truefm_tv/default/index.mp
 
 
 #EXTINF:-1 tvg-id="kapcha1" tvg-logo="https://i.imgur.com/Niy6Xka.jpg" group-title="General;Kapuso Network;Kapamilya Network;TFC;Local;International",PBB All-Access
-#EXTVLCOPT:http-referrer=https://www.iwanttfc.com/
+#EXTVLCOPT:http-referrer=https://litestream-iptv.vercel.app/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8438e8495659425585a09749cd6bc39a:9d92b12db092fe6bdf2207ef7a2a9e65
-https://abslive.akamaized.net/dash/live/2112806/pbbmain/manifest.mpd
-
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbnono/e772001d-d72e-4b61-921c-c80567540d71/index.mpd
 
 
 
@@ -958,6 +962,7 @@ http://cord-cutter.net:8080/k4Svp2/645504/9802?checkedby:alliptvlinks.com
 
 #EXTINF:-1, tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png" group-title="F1;Sports;US;International",US ESPN 1 (HD) Backup NO_2
 http://cord-cutter.net:8080/k4Svp2/645504/14197?checkedby:alliptvlinks.com
+
 
 
 
