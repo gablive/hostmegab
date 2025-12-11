@@ -428,7 +428,7 @@ https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/in
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=90ea4079e02f418db7b170e8763e65f0:1bfe2d166e31d03eee86ee568bd6c272
-https://abslive.akamaized.net/dash/live/2028025/jeepneytv/manifest.mpd?app_bundle=&app_name=iwant&app_store_url=&channel_name=JeepneyTV&content_id=e92dc594-51f5-46eb-9ed1-da63fd1b6e1e&content_livestream=1&content_producer_name=ABS-CBN&coppa=0&did=475eacbd-ec19-5b7e-a307-52ca06da6efd&dnt=0&dur=0&gdpr=0&gdpr_consent=0&genre=Action%2CComedy%2CDrama%2CHorror%2CRomance&ifa_type=PPID&ip=2a06%3A5906%3A817%3A600%3A34c4%3A90a2%3A3d65&language=fil&lmt=0&network_name=ABS-CBN&pmxd=%7B%7BPOD_MAX_DUR_MILLIS%7D%7D&rating=13%2B&sid=7c6661d4-41d8-4ca7-be08-79fc3fc84335&title=JeepneyTV&ua=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F143.0.0.0+Safari%2F537.36&url=https%3A%2F%2Fwww.iwanttfc.com%2Fcontent%2Fe92dc594-51f5-46eb-9ed1-da63fd1b6e1e&us_privacy=1---
+https://abslive.akamaized.net/dash/live/2028025/jeepneytv/manifest.mpd
 
 
 #EXTINF:-1 ch-number="27" tvg-chno="27" tvg-id="JEEPNEY.TV.ph" tvg-name="JEEPNEY TV" tvg-logo="https://i.pinimg.com/736x/8d/f4/dd/8df4dda4aaff082dfcccf8a126c7156f.jpg" group-title="General;Kapamilya Network;Local;Converge", Jeepney TV (Converge)
@@ -958,6 +958,7 @@ http://cord-cutter.net:8080/k4Svp2/645504/9802?checkedby:alliptvlinks.com
 
 #EXTINF:-1, tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png" group-title="F1;Sports;US;International",US ESPN 1 (HD) Backup NO_2
 http://cord-cutter.net:8080/k4Svp2/645504/14197?checkedby:alliptvlinks.com
+
 
 
 
