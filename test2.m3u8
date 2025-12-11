@@ -28,10 +28,16 @@ https://converse.nathcreqtives.com/1179/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 https://converse.nathcreqtives.com/1286/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJnYWIiLCJleHAiOjE3NjYwMTQ1MTh9.HK-J2GJHP9-tGrBUpgvLdFBRXHNc0cJhyH2vZmZplMk
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="Kapamilya Channel" tvg-name="KAPAMILYA SD (CON)" tvg-logo="https://i.pinimg.com/736x/18/4c/34/184c34a3eed374f719ec47b77caafd5a.jpg" group-title="General;Kapamilya Network;Converge;Local",ABS-CBN SD
-http://143.44.136.110:6610/001/2/ch00000090990000001248/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTVLCOPT:http-referrer=https://mc-o0of718lw0.bunny.run/license
+#EXTVLCOPT:http-origin=https://mc-o0of718lw0.bunny.run/license
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363331363737343637333533323837:71347339457958556439543650426e74
+http://161.49.17.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X%2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q%3D%3D&virtualDomain=001.live_hls.zte.com&usersessionid=180776581&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=HtdzdcdnUDFPjPD3ownfRamI7yg8eammkhvOJFfNC00%3D?JITPTrackType=23&JITPDRMType=Widevine&IASHttpSessionId=RR20447120251117171949775224&JITPMediaType=DASH&virtualDomain=001.live_hls.zte.com&ispcode=55&ztecid=ch00000090990000001286&m4s_min=1&usersessionid=340766663&NeedJITP=1&isjitp=0&startNumber=45936895&filedura=6
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
@@ -975,6 +981,7 @@ http://cord-cutter.net:8080/k4Svp2/645504/9802?checkedby:alliptvlinks.com
 
 #EXTINF:-1, tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png" group-title="F1;Sports;US;International",US ESPN 1 (HD) Backup NO_2
 http://cord-cutter.net:8080/k4Svp2/645504/14197?checkedby:alliptvlinks.com
+
 
 
 
