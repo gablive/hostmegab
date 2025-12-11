@@ -13,11 +13,6 @@
 
 ### LOCAL CHANNELS ###
 
-#EXTINF:-1 tvg-id="converge.ph" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="Kapamilya Network;Kapatid Network;Kapuso Network;PilipinasLive;Pay-Per-View;Government;TFC;Movies;Sports;News;Kids;Government;Cignal;Converge;Viva;HBO;Solar;TAP;UK;USA;International;Local",Converge-Vision Info
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001339/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
 
 #EXTINF:-1 tvg-id="alltv.ph" tvg-name="ALLTV" group-title="General;Kapamilya Network;Converge;Local" tvg-logo="https://i.pinimg.com/736x/e9/f6/00/e9f6002051d92fd06299a5f3e86f4780.jpg",ALLTV2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -955,6 +950,7 @@ http://cord-cutter.net:8080/k4Svp2/645504/9802?checkedby:alliptvlinks.com
 
 #EXTINF:-1, tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png" group-title="F1;Sports;US;International",US ESPN 1 (HD) Backup NO_2
 http://cord-cutter.net:8080/k4Svp2/645504/14197?checkedby:alliptvlinks.com
+
 
 
 
