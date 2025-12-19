@@ -1074,7 +1074,80 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55
 
 
 
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1024px-ITV1_logo_%282022%29.svg.png" group-title="General;UK;International",ITV 1
+https://dttstream.zappr.stream/itv1.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ITV2_logo_2022.svg/1200px-ITV2_logo_2022.svg.png" group-title="General;UK;International",ITV 2
+https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/ITV3_logo_2022.svg/1200px-ITV3_logo_2022.svg.png" group-title="General;UK;International",ITV 3
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/1200px-ITV4_logo_%282022%29.svg.png" group-title="General;UK;International",ITV 4
+https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Film4_logo_2018.png" group-title="Movies;UK;International",Film4
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/More4_logo_2018.pngg" group-title="General;UK;International",More4
+https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/1/1053.1641667234.png" group-title="General;UK;International",Channel 5
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/1200px-Paramount_Global.svg.png" group-title="General;UK;International;Movies",Paramount
+https://viamotionhsi.netplus.ch/live/eds/paramount/browser-dash/paramount.mpd
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sports;UK;International",TNT Sports 1
+https://l.lioncdn.net/TNT-Sports-1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports;UK;International",TNT Sports 2
+https://l.lioncdn.net/TNT-Sports-2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports;UK;International",TNT Sports 3
+https://l.lioncdn.net/TNT-Sports-3/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports;UK;International",TNT Sports 4
+https://l.lioncdn.net/TNT-Sports-4/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 ### USA ###
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-Logo-1980.png" group-title="General;USA;International",CNN
+https://viamotionhsi.netplus.ch/live/eds/cnn/browser-dash/cnn.mpd
+
+
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_22/2874566/190528-nbc-news-now-logo-ac-1055p.jpg" group-title="News;USA",NBC News NOW
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
 
@@ -1126,52 +1199,6 @@ http://cord-cutter.net:8080/k4Svp2/645504/14197?checkedby:alliptvlinks.com
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/1200px-ITV4_logo_%282022%29.svg.png" group-title="General;UK;International",ITV 4
-https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/ITV3_logo_2022.svg/1200px-ITV3_logo_2022.svg.png" group-title="General;UK;International",ITV 3
-https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ITV2_logo_2022.svg/1200px-ITV2_logo_2022.svg.png" group-title="General;UK;International",ITV 2
-https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1024px-ITV1_logo_%282022%29.svg.png" group-title="General;UK;International",ITV 1
-https://viamotionhsi.netplus.ch/live/eds/itv1/browser-dash/itv1.mpd
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-Logo-1980.png" group-title="General;USA;International",CNN
-https://viamotionhsi.netplus.ch/live/eds/cnn/browser-dash/cnn.mpd
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Film4_logo_2018.png" group-title="Movies;UK;International",Film4
-https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/More4_logo_2018.pngg" group-title="General;UK;International",More4
-https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/1/1053.1641667234.png" group-title="General;UK;International",Channel 5
-https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/1200px-Paramount_Global.svg.png" group-title="General;UK;International;Movies",Paramount
-https://viamotionhsi.netplus.ch/live/eds/paramount/browser-dash/paramount.mpd
 
 
 
