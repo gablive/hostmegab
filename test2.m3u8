@@ -1072,10 +1072,6 @@ https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62c
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7&serverSideAds=false&checkedby:alliptvlinks.com
 
 
-#EXTINF:-1 ch-number="3" tvg-chno="3" group-title="General;Religious;UK;International" tvg-id="CBN" tvg-name="CBN" tvg-logo="https://images.seeklogo.com/logo-png/48/1/cbn-network-logo-png_seeklogo-489919.png",CBN
-https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8?checkedby:alliptvlinks.com
-
-
 
 
 ### USA ###
@@ -1127,6 +1123,7 @@ http://cord-cutter.net:8080/k4Svp2/645504/9802?checkedby:alliptvlinks.com
 
 #EXTINF:-1, tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png" group-title="F1;Sports;USA;International",US ESPN 1 (HD Backup)
 http://cord-cutter.net:8080/k4Svp2/645504/14197?checkedby:alliptvlinks.com
+
 
 
 
