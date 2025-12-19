@@ -675,70 +675,70 @@ https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/smart_sdi7.mpd
 ### PILIPINAS LIVE ###
 
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #01" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Sports;General;PilipinasLive;Local;Cignal",Pilipinas live #01
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #01" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Sports;General;PilipinasLive;Local;Cignal",Pilipinas Live #01
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=46ec14d0ed304b62936face336e7c7c1:08bcbe5deeddae47647337bccfff02d3
 https://qp-plive-vod-streaming-prod-amd.akamaized.net/content/pubcontent/vol/46EC14D0-ED30-4B62-936F-ACE336E7C7C1/1699455132195-output_cenc_dash.ism/index.mpd?pipeline=ttml_removal
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #02" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Sports;General;PilipinasLive;Local;Cignal",Pilipinas live #02
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #02" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Sports;General;PilipinasLive;Local;Cignal",Pilipinas Live #02
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash            
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabe029920c04d9390f05eb870c50646:e217051cdfd1c5ef82a863bb857461df
 https://qp-plive-vod-streaming-prod-amd.akamaized.net/content/pubcontent/vol/EABE0299-20C0-4D93-90F0-5EB870C50646/1699455135404-output_cenc_dash.ism/index.mpd?pipeline=ttml_removal
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #03" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Sports;General;PilipinasLive;Local;Cignal",Pilipinas live #03
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #03" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Sports;General;PilipinasLive;Local;Cignal",Pilipinas Live #03
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=782cc1508a1d4cc5bf4d49765a8f1f1d:9da3f3981285cb12d70a68daf8f6cdf6
 https://qp-plive-vod-streaming-prod-amd.akamaized.net/content/pubcontent/vol/782CC150-8A1D-4CC5-BF4D-49765A8F1F1D/1722684510764-output_cenc_dash.ism/index.mpd?pipeline=ttml_removal
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #04" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Sports;General;PilipinasLive;Local;Cignal",Pilipinas live #04
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #04" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Sports;General;PilipinasLive;Local;Cignal",Pilipinas Live #04
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3050cba95c945418efa3aedbc69cff7:988e7fade0828273472e24545d0cfa4c
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi4/default/index.mpd
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #05" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Sports;General;PilipinasLive;Local;Cignal",Pilipinas live #05
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #05" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Sports;General;PilipinasLive;Local;Cignal",Pilipinas Live #05
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eecc6d7ac3df439fb2b73fb38007cb82:826c341a6fef4518cefd27ec85e8b274
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi5/default/index.mpd
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #06" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Sports;General;PilipinasLive;Local;Cignal",Pilipinas live #06
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #06" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Sports;General;PilipinasLive;Local;Cignal",Pilipinas Live #06
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=02d5f086706e407e9343c040ac7fb5b8:9d7e088bf7fffc9297ab3a02f0ce9a72
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi6/default/index.mpd
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #07" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Sports;General;PilipinasLive;Local;Cignal",Pilipinas live #07
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #07" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Sports;General;PilipinasLive;Local;Cignal",Pilipinas Live #07
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40bed7f7948e4e5792982cf5b7ee4d78:1fbfd2e3be51aae857f2f24306e5fc41
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi7/default/index.mpd
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #08" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Sports;General;PilipinasLive;Local;Cignal",Pilipinas live #08
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #08" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Sports;General;PilipinasLive;Local;Cignal",Pilipinas Live #08
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a8dbf3b9c2c43079a40fb5d0068f9ef:1778ac6e22527ee2efd6886d8d509c2d
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi8/default/index.mpd
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #09" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Sports;General;PilipinasLive;Local;Cignal",Pilipinas live #09
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #09" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Sports;General;PilipinasLive;Local;Cignal",Pilipinas Live #09
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c7b9a2af9ad4076b155f06269b6adc2:ed6a8b11738cd27c0bee2d9e3fee178a
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi9/default/index.mpd
 
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #10" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Sports;General;PilipinasLive;Local;Cignal",Pilipinas live #10
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #10" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Sports;General;PilipinasLive;Local;Cignal",Pilipinas Live #10
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1047,37 +1047,34 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_
 #EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title="General;UK;International",BBC Four HD
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
 
-#EXTINF:-1 tvg-id="CBBC.uk" tvg-logo="https://i.imgur.com/tk8G4CU.png" group-title="Kids;General;UK;International",CBBC HD
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/CBBC_%282023%29.svg/1200px-CBBC_%282023%29.svg.png" group-title="Kids;General;UK;International",CBBC HD
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd
 
 #EXTINF:-1 tvg-id="CBeebies.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png" group-title="Kids;General;UK;International",CBeebies HD
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd
 
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News;UK;International",BBC NEWS HD
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://logos-world.net/wp-content/uploads/2024/12/BBC-News-Logo.png" group-title="News;UK;International",BBC NEWS HD
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 
-#EXTINF:-1 tvg-id="TalkTV.uk" tvg-logo="https://i.imgur.com/KxHWpQB.png" group-title="Business;News;General;UK",TalkTV 
+#EXTINF:-1 tvg-id="TalkTV.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/TalkTV_New_Logo.png" group-title="Business;News;General;UK",TalkTV 
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
 
 
 ### USA ###
-#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News;USA",NBC News NOW
+#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_22/2874566/190528-nbc-news-now-logo-ac-1055p.jpg" group-title="News;USA",NBC News NOW
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
 
-#EXTINF:-1 tvg-id="KHOUDT1.us" tvg-logo="https://i.imgur.com/yI1H0nP.png" group-title="General;USA",CBS 11 Houston TX (KHOU)
+#EXTINF:-1 tvg-id="KHOUDT1.us" tvg-logo="https://media.khou.com/assets/KHOU/images/599259183/599259183_750x422.jpg" group-title="General;USA",CBS 11 Houston TX (KHOU)
 https://livevideo.tegnadigital.com/khou/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KHOU/elvs/live.m3u8
 
-#EXTINF:-1 tvg-id="WFAADT1.us" tvg-logo="https://i.imgur.com/3dK1ocU.png" group-title="General;USA",ABC 8 Dallas TX (WFAA)
+#EXTINF:-1 tvg-id="WFAADT1.us" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/C5AC28A2-6E6A-48DF-A947-78219DF0FCEE/3-1x1.png" group-title="General;USA",ABC 8 Dallas TX (WFAA)
 https://livevideo.tegnadigital.com/wfaa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WFAA/elvs/live.m3u8
 
-#EXTINF:-1 tvg-id="KINGDT1.us" tvg-logo="https://i.imgur.com/fTRLwhP.png" group-title="General;USA",NBC 5 Seattle WA (KING-DT1)
+#EXTINF:-1 tvg-id="KINGDT1.us" tvg-logo="https://content.king5.com/photo/2017/11/24/KING_LOGO_1511563310845_11802420_ver1.0.png" group-title="General;USA",NBC 5 Seattle WA (KING-DT1)
 https://livevideo.tegnadigital.com/king/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KING/elvs/live.m3u8
 
-#EXTINF:-1 tvg-id="FOX.(WNYW).New.York.NY.us" tvg-name="FOX WNYW-5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/WFXT_Boston_25_logo_%282018%29.png" group-title="General;USA",FOX WNYW	 
-https://list.iptvcat.com/my_list/s/3fd627532f4d5cff88905047f247a8d9.m3u8
-
-#EXTINF:-1 tvg-id="Cable.Satellite.Public.Affairs.Network.(CSPAN).us" tvg-name="C SPAN 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/c-span-1-us.png?raw=true" group-title="News;USA" ,CSPAN
-https://list.iptvcat.com/my_list/s/93aa065dcadc96851b65b9d9c6b2be62.m3u8
+#EXTINF:-1 tvg-id="FOX.(WGMB).Baton.Rouge.la.us" tvg-name="FOX WGMB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/WGMB_Fox_44_%282025%29.svg/1200px-WGMB_Fox_44_%282025%29.svg.png" group-title="General;USA",FOX WGMB	 
+http://cord-cutter.net:8080/k4Svp2/645504/120699?checkedby:alliptvlinks.com
 
 
 
@@ -1099,28 +1096,20 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/m
 
 
 
-#EXTINF:-1 tvg-id="SkySportsF1" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kiEuPmeOVl-LKB42k9s2crSFOWaV8mLleSufLg1teuM20=s900-c-k-c0x00ffffff-no-rj" group-title="F1;Sports;UK;International",Sky Sports F1 HD 0
-http://cord-cutter.net:8080/hq3y4G/234247/53704?checkedby:alliptvlinks.com
-
-#EXTINF:-1, tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kiEuPmeOVl-LKB42k9s2crSFOWaV8mLleSufLg1teuM20=s900-c-k-c0x00ffffff-no-rj" group-title="F1;Sports;UK;International",UK Sky Sports F1 FHD D Backup 1
+#EXTINF:-1, tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kiEuPmeOVl-LKB42k9s2crSFOWaV8mLleSufLg1teuM20=s900-c-k-c0x00ffffff-no-rj" group-title="Sports;UK;International",Sky Sports (Main Event)
 http://cord-cutter.net:8080/k4Svp2/645504/53704?checkedby:alliptvlinks.com
 
 
-#EXTINF:-1, tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kiEuPmeOVl-LKB42k9s2crSFOWaV8mLleSufLg1teuM20=s900-c-k-c0x00ffffff-no-rj" group-title="F1;Sports;UK;International",UK Sky Sports F1 FHD D Backup 2
+#EXTINF:-1, tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kiEuPmeOVl-LKB42k9s2crSFOWaV8mLleSufLg1teuM20=s900-c-k-c0x00ffffff-no-rj" group-title="Sports;UK;International",Sky Sports (Main Event Backup)
 http://cord-cutter.net:8080/k4Svp2/645504/35244?checkedby:alliptvlinks.com
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="F1;Sports;USA;International",BEIN SPORTS 1
-https://ww.dooballfree.vip/live/bein1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="F1;Sports;USA;International",BEIN SPORTS 2
-https://ww.dooballfree.vip/live/bein2/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png" group-title="F1;Sports;USA;International",US ESPN 1 (HD) Backup NO_3
+#EXTINF:-1, tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png" group-title="F1;Sports;USA;International",US ESPN 1 (HD)
 http://cord-cutter.net:8080/k4Svp2/645504/9802?checkedby:alliptvlinks.com
 
-#EXTINF:-1, tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png" group-title="F1;Sports;USA;International",US ESPN 1 (HD) Backup NO_2
+#EXTINF:-1, tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png" group-title="F1;Sports;USA;International",US ESPN 1 (HD Backup)
 http://cord-cutter.net:8080/k4Svp2/645504/14197?checkedby:alliptvlinks.com
+
 
 
 
