@@ -1140,7 +1140,20 @@ http://cord-cutter.net:8080/k4Svp2/645504/14197?checkedby:alliptvlinks.com
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/1200px-ITV4_logo_%282022%29.svg.png" group-title="General;UK;International",ITV 4
+https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/ITV3_logo_2022.svg/1200px-ITV3_logo_2022.svg.png" group-title="General;UK;International",ITV 3
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ITV2_logo_2022.svg/1200px-ITV2_logo_2022.svg.png" group-title="General;UK;International",ITV 2
+https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1024px-ITV1_logo_%282022%29.svg.png" group-title="General;UK;International",ITV 1
+https://viamotionhsi.netplus.ch/live/eds/itv1/browser-dash/itv1.mpd
 
 
 
