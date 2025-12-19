@@ -1156,11 +1156,22 @@ https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
 https://viamotionhsi.netplus.ch/live/eds/itv1/browser-dash/itv1.mpd
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-Logo-1980.png" group-title="General;USA;International",CNN
+https://viamotionhsi.netplus.ch/live/eds/cnn/browser-dash/cnn.mpd
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Film4_logo_2018.png" group-title="Movies;UK;International",Film4
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/More4_logo_2018.pngg" group-title="General;UK;International",More4
+https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/1/1053.1641667234.png" group-title="General;UK;International",Channel 5
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/1200px-Paramount_Global.svg.png" group-title="General;UK;International;Movies",Paramount
+https://viamotionhsi.netplus.ch/live/eds/paramount/browser-dash/paramount.mpd
 
 
 
