@@ -491,7 +491,7 @@ https://converse.nathcreqtives.com/1340/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 ### TVN EXTRAS ###
 
 
-#EXTINF:-1 tvg-id="TVNMOVIESPINOY" tvg-logo="hhttps://static.wikia.nocookie.net/russel/images/4/49/TvN_Philippines_Logo_2009.png/revision/latest?cb=20200109024725" group-title="Movies;;Astro;TVN;Cignal;Local",tvN Movies Pinoy (Cignal)
+#EXTINF:-1 tvg-id="TVNMOVIESPINOY" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/49/TvN_Philippines_Logo_2009.png/revision/latest?cb=20200109024725" group-title="Movies;;Astro;TVN;Cignal;Local",tvN Movies Pinoy (Cignal)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
 https://converse.nathcreqtives.com/cignal-tvn-movies-pinoy/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJnYXkiLCJleHAiOjE3NjY1MTExNzYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjUxMTE3Nn0.vuZg2F6eCE-_FNXyg7DxsL5EbSdwaYgNwUuYAnNaSG4
@@ -591,7 +591,7 @@ http://143.44.136.111:6610/001/2/ch00000090990000001195/manifest.mpd?virtualDoma
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
-#EXTINF:-1 tvg-id="Uaap Varsity" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/6/6f/Uaapvarsitychannel.png" group-title="Cignal;Sports;Kapatid Network;Local;Cignal",UAAP Varsity
+#EXTINF:-1 tvg-id="Uaap Varsity" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Uaapvarsitychannel.png" group-title="Cignal;Sports;Kapatid Network;Local;Cignal",UAAP Varsity
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
 
 #EXTINF:-1 tvg-id="Uaap Varsity" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Uaapvarsitychannel.png" group-title="Cignal;Sports;Kapatid Network;Local;Cignal",UAAP Varsity
@@ -791,7 +791,7 @@ https://converse.nathcreqtives.com/cignal-tagalized-movie-channel/manifest.mpd?t
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363230383933303132303032303231:6b5058557254355845335a6e63737030
-#EXTINF:-1 tvg-id="celestialmovie" tvg-logo="hhttps://cmpinoy.com.ph/storage/images/c4ca4238a0b923820dcc509a6f75849b/c/logo-og_image.png" group-title="Converge;Movies;Viva;Local",Celestial Movies Pinoy (Converge)
+#EXTINF:-1 tvg-id="celestialmovie" tvg-logo="https://cmpinoy.com.ph/storage/images/c4ca4238a0b923820dcc509a6f75849b/c/logo-og_image.png" group-title="Converge;Movies;Viva;Local",Celestial Movies Pinoy (Converge)
 https://converse.nathcreqtives.com/1077/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJnYXkiLCJleHAiOjE3NjY1MTExNzYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjUxMTE3Nn0.vuZg2F6eCE-_FNXyg7DxsL5EbSdwaYgNwUuYAnNaSG4
 
 
@@ -922,7 +922,7 @@ https://converse.nathcreqtives.com/cignal-hits-movies/manifest.mpd?token=eyJhbGc
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231323336323430303533343333:6a53385957735a304f6a307056793475
-#EXTINF:-1 tvg-id="solarsports" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/5/57/Solar_Sports.png" group-title="Converge;Sports;Solar;Local",SOLAR SPORTS
+#EXTINF:-1 tvg-id="solarsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Solar_Sports.png" group-title="Converge;Sports;Solar;Local",SOLAR SPORTS
 https://converse.nathcreqtives.com/1081/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJnYXkiLCJleHAiOjE3NjY1MTExNzYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjUxMTE3Nn0.vuZg2F6eCE-_FNXyg7DxsL5EbSdwaYgNwUuYAnNaSG4
 
 
@@ -1121,6 +1121,7 @@ http://cord-cutter.net:8080/k4Svp2/645504/9802?checkedby:alliptvlinks.com
 
 #EXTINF:-1, tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png" group-title="F1;Sports;USA;International",US ESPN 1 (HD) Backup NO_2
 http://cord-cutter.net:8080/k4Svp2/645504/14197?checkedby:alliptvlinks.com
+
 
 
 
