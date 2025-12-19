@@ -254,7 +254,7 @@ https://converse.nathcreqtives.com/1159/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 
 
 
-#EXTINF:-1 group-title="General;News;Cignal;Local;Business" tvg-id="Beam TV" tvg-name="Bilyonaryoch" tvg-logo="https://i.pinimg.com/736x/f6/af/ce/f6afce96a34ff01b0b284b6f01d9ced0.jpg", BNC (CIGNAL)
+#EXTINF:-1 group-title="General;News;Cignal;Local;Business;BEAM" tvg-id="Beam TV" tvg-name="Bilyonaryoch" tvg-logo="https://i.pinimg.com/736x/f6/af/ce/f6afce96a34ff01b0b284b6f01d9ced0.jpg", BNC (CIGNAL)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -264,14 +264,22 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bilyonaryoch/default1/inde
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232313037373837323837383130:5146434c3239617645344e7772343668
-#EXTINF:-1 group-title="General;News;Converge;Local;Business" tvg-logo="https://i.pinimg.com/736x/d9/0a/af/d90aafda7eece85bbbbd407076dc0ab4.jpg", BNC (CONVERGE)
+#EXTINF:-1 group-title="General;News;Converge;Local;Business;BEAM" tvg-logo="https://i.pinimg.com/736x/d9/0a/af/d90aafda7eece85bbbbd407076dc0ab4.jpg", BNC (CONVERGE)
 https://converse.nathcreqtives.com/1124/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJnYXkiLCJleHAiOjE3NjY1MTExNzYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjUxMTE3Nn0.vuZg2F6eCE-_FNXyg7DxsL5EbSdwaYgNwUuYAnNaSG4
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232353336373333353433323038:41783735743962647251314a4a383947
+#EXTINF:-1 ch-number="3" tvg-chno="3" group-title="General;Religious;Converge;Local;BEAM" tvg-id="TBN" tvg-name="TBN Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Trinity_Broadcasting_Network_logo_%282015%29.svg/1200px-Trinity_Broadcasting_Network_logo_%282015%29.svg.png",TBN Asia
+https://converse.nathcreqtives.com/1147/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJnYXkiLCJleHAiOjE3NjY1MTExNzYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjUxMTE3Nn0.vuZg2F6eCE-_FNXyg7DxsL5EbSdwaYgNwUuYAnNaSG4
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231393132373735323234353438:33564d7a447073443333773974633739
 #EXTINF:-1 ch-number="3" tvg-chno="3" group-title="General;Religious;Converge;Local" tvg-id="Zoe TV" tvg-name="Light TV" tvg-logo="https://i.pinimg.com/736x/52/f5/6f/52f56f50c88fb582bc9ad9cdbbd0c0aa.jpg", Light TV
 https://converse.nathcreqtives.com/1103/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJnYXkiLCJleHAiOjE3NjY1MTExNzYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjUxMTE3Nn0.vuZg2F6eCE-_FNXyg7DxsL5EbSdwaYgNwUuYAnNaSG4
+
 
 
 
@@ -1035,6 +1043,13 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 ### UK ###
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1024px-ITV1_logo_%282022%29.svg.png" group-title="General;UK;International",ITV 1
+http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8?checkedby:alliptvlinks.com
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1024px-ITV1_logo_%282022%29.svg.png" group-title="General;UK;International",ITV 1 (Backup)
+https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8?checkedby:alliptvlinks.com
+
+
 #EXTINF:-1 tvg-id="BBCOneSouthEast.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="General;UK;International",BBC One S East HD
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/pc_hd_abr_v2.mpd
 
@@ -1058,6 +1073,16 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 
 #EXTINF:-1 tvg-id="TalkTV.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/TalkTV_New_Logo.png" group-title="Business;News;General;UK",TalkTV 
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
+
+
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Sky-News-Logo.png" group-title="Business;News;General;UK",Sky News 
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7&serverSideAds=false&checkedby:alliptvlinks.com
+
+
+#EXTINF:-1 ch-number="3" tvg-chno="3" group-title="General;Religious;UK;International" tvg-id="CBN" tvg-name="CBN" tvg-logo="https://images.seeklogo.com/logo-png/48/1/cbn-network-logo-png_seeklogo-489919.png",CBN
+https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8?checkedby:alliptvlinks.com
+
+
 
 
 ### USA ###
@@ -1109,6 +1134,7 @@ http://cord-cutter.net:8080/k4Svp2/645504/9802?checkedby:alliptvlinks.com
 
 #EXTINF:-1, tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png" group-title="F1;Sports;USA;International",US ESPN 1 (HD Backup)
 http://cord-cutter.net:8080/k4Svp2/645504/14197?checkedby:alliptvlinks.com
+
 
 
 
