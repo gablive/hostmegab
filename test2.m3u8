@@ -508,7 +508,7 @@ https://converse.nathcreqtives.com/1340/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
-#EXTINF:-1 tvg-id="TVNPREMIUM" tvg-logo="https://i.imgur.com/eE9IBhJ.png" group-title="Movies;TVN;Cignal;Local,tvN Premium
+#EXTINF:-1 tvg-id="TVNPREMIUM" tvg-logo="https://i.imgur.com/eE9IBhJ.png" group-title="Movies;TVN;Cignal;Local",tvN Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1032,6 +1032,7 @@ http://cord-cutter.net:8080/k4Svp2/645504/9802?checkedby:alliptvlinks.com
 
 #EXTINF:-1, tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png" group-title="F1;Sports;USA;International",US ESPN 1 (HD) Backup NO_2
 http://cord-cutter.net:8080/k4Svp2/645504/14197?checkedby:alliptvlinks.com
+
 
 
 
