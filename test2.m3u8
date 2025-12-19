@@ -120,7 +120,7 @@ https://converse.nathcreqtives.com/1088/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
-#EXTINF:-1 ch-number="2" tvg-chno="2" group-title="General;Kapuso Network;Converge;Local" tvg-id="GMA ph" tvg-name="GMA" tvg-logo="https://i.pinimg.com/736x/c7/bc/0c/c7bc0cdaa2c3e5b02ceb374fa2282cf2.jpg", GMA
+#EXTINF:-1 ch-number="2" tvg-chno="2" group-title="General;Kapuso Network;Converge;Local" tvg-id="GMA ph" tvg-name="GMA" tvg-logo="https://i.pinimg.com/736x/31/9e/05/319e0530158f0647e3dd3b26c40503d3.jpg", GMA
 https://converse.nathcreqtives.com/1093/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJnYXkiLCJleHAiOjE3NjY1MTExNzYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjUxMTE3Nn0.vuZg2F6eCE-_FNXyg7DxsL5EbSdwaYgNwUuYAnNaSG4
 
 
@@ -138,7 +138,7 @@ https://mc-5fythpik4t.bunny.run/7/dopamine/manifest.mpd
 #EXTINF:-1 ch-number="78" tvg-chno="35" tvg-id="DummyChannel" tvg-logo="https://i.pinimg.com/736x/b0/99/30/b09930e0329bb8444487393c62370e05.jpg" group-title="Movies;Kapuso Network;Converge;Local", Heart of Asia
 http://hls.nathcreqtives.com/playlist.m3u8?id=1&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJnYXkiLCJleHAiOjE3NjY1MTExNzYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjUxMTE3Nn0.vuZg2F6eCE-_FNXyg7DxsL5EbSdwaYgNwUuYAnNaSG4
 
-#EXTINF:-1 ch-number="78" tvg-chno="35" tvg-id="DummyChannel" tvg-logo="https://i.pinimg.com/736x/b0/99/30/b09930e0329bb8444487393c62370e05.jpg" group-title="Movies;Kapuso Network;Converge;Local", I Heart Movies
+#EXTINF:-1 ch-number="78" tvg-chno="35" tvg-id="DummyChannel" tvg-logo="https://i.pinimg.com/736x/0d/9e/96/0d9e9638b9208f5c060637f843573c62.jpg" group-title="Movies;Kapuso Network;Converge;Local", I Heart Movies
 http://hls.nathcreqtives.com/playlist.m3u8?id=2&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJnYXkiLCJleHAiOjE3NjY1MTExNzYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjUxMTE3Nn0.vuZg2F6eCE-_FNXyg7DxsL5EbSdwaYgNwUuYAnNaSG4
 
 
@@ -1044,6 +1044,7 @@ http://cord-cutter.net:8080/k4Svp2/645504/9802?checkedby:alliptvlinks.com
 
 #EXTINF:-1, tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png" group-title="F1;Sports;US;International",US ESPN 1 (HD) Backup NO_2
 http://cord-cutter.net:8080/k4Svp2/645504/14197?checkedby:alliptvlinks.com
+
 
 
 
