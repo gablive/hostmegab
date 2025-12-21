@@ -188,12 +188,12 @@ https://converse.nathcreqtives.com/1087/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 
 
 
-#EXTINF:-1 ch-number="3" tvg-chno="3" group-title="General;Religious;Converge;Local" tvg-id="Zoe TV" tvg-name="Light TV" tvg-logo="https://i.pinimg.com/736x/52/f5/6f/52f56f50c88fb582bc9ad9cdbbd0c0aa.jpg", Light TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1103/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJnYWIiLCJleHAiOjE3NjYwMTQ1MTh9.HK-J2GJHP9-tGrBUpgvLdFBRXHNc0cJhyH2vZmZplMk
-
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231393132373735323234353438:33564d7a447073443333773974633739
+#EXTINF:-1 ch-number="3" tvg-chno="3" group-title="General;Religious;Converge;Local" tvg-id="Zoe TV" tvg-name="Light TV" tvg-logo="https://i.pinimg.com/736x/52/f5/6f/52f56f50c88fb582bc9ad9cdbbd0c0aa.jpg", Light TV
+https://converse.nathcreqtives.com/1103/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJnYXkiLCJleHAiOjE3NjY1MTExNzYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjUxMTE3Nn0.vuZg2F6eCE-_FNXyg7DxsL5EbSdwaYgNwUuYAnNaSG4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 
 
 #EXTINF:-1 group-title="General;News;Government;Cignal;Local" tvg-id="Ibc13" tvg-name="IBC TV 13" tvg-logo="https://i.pinimg.com/736x/8a/90/7f/8a907f59b7ff7f4250e07a97e5493168.jpg", IBC-13 (Cignal)
@@ -1036,6 +1036,7 @@ http://cord-cutter.net:8080/k4Svp2/645504/9802?checkedby:alliptvlinks.com
 
 #EXTINF:-1, tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png" group-title="F1;Sports;US;International",US ESPN 1 (HD) Backup NO_2
 http://cord-cutter.net:8080/k4Svp2/645504/14197?checkedby:alliptvlinks.com
+
 
 
 
