@@ -28,14 +28,9 @@ https://converse.nathcreqtives.com/1286/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 
 
 #EXTINF:-1 tvg-id="Kapamilya Channel" tvg-name="KAPAMILYA SD (CON)" tvg-logo="https://i.pinimg.com/736x/18/4c/34/184c34a3eed374f719ec47b77caafd5a.jpg" group-title="General;Kapamilya Network;Converge;Local",ABS-CBN SD
-#EXTVLCOPT:http-referrer=https://mc-o0of718lw0.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-o0of718lw0.bunny.run/license
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363331363737343637333533323837:71347339457958556439543650426e74
-http://161.49.17.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X%2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q%3D%3D&virtualDomain=001.live_hls.zte.com&usersessionid=180776581&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=HtdzdcdnUDFPjPD3ownfRamI7yg8eammkhvOJFfNC00%3D?JITPTrackType=23&JITPDRMType=Widevine&IASHttpSessionId=RR20447120251117171949775224&JITPMediaType=DASH&virtualDomain=001.live_hls.zte.com&ispcode=55&ztecid=ch00000090990000001286&m4s_min=1&usersessionid=340766663&NeedJITP=1&isjitp=0&startNumber=45936895&filedura=6
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd 
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1169,6 +1164,7 @@ http://cord-cutter.net:8080/k4Svp2/645504/9802?checkedby:alliptvlinks.com
 
 #EXTINF:-1, tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png" group-title="F1;Sports;USA;International",US ESPN 1 (HD Backup)
 http://cord-cutter.net:8080/k4Svp2/645504/14197?checkedby:alliptvlinks.com
+
 
 
 
