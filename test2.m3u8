@@ -27,10 +27,11 @@ https://converse.nathcreqtives.com/1179/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 https://converse.nathcreqtives.com/1286/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
 
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363331363737343637333533323837:71347339457958556439543650426e74
 #EXTINF:-1 tvg-id="Kapamilya Channel" tvg-name="KAPAMILYA SD (CON)" tvg-logo="https://i.pinimg.com/736x/18/4c/34/184c34a3eed374f719ec47b77caafd5a.jpg" group-title="General;Kapamilya Network;Converge;Local",ABS-CBN SD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd 
+https://honortvph.dpdns.org/1286/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -113,9 +114,11 @@ https://converse.nathcreqtives.com/1093/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 
 
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
 #EXTINF:-1 ch-number="2" tvg-chno="2" group-title="General;Kapuso Network;Converge;Local" tvg-id="GMA ph" tvg-name="GMA" tvg-logo="https://i.pinimg.com/736x/c7/bc/0c/c7bc0cdaa2c3e5b02ceb374fa2282cf2.jpg", GMA OneSeg
-https://bisdaktv.fun/stream/nayswan.php?name=gma7
-
+https://honortvph.dpdns.org/1093/manifest.mpd
 
 
 #EXTINF:-1 ch-number="78" tvg-chno="35" tvg-id="DummyChannel" tvg-logo="https://i.pinimg.com/736x/b0/99/30/b09930e0329bb8444487393c62370e05.jpg" group-title="Movies;Kapuso Network;Converge;Local", Heart of Asia
@@ -314,7 +317,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/depedch_sd/default/index.m
 
 
 
-### ONE CHANNELS ###
+### Kapatid Extras ###
 
 #EXTINF:-1 group-title="Sports;Kapatid Network;Converge;Local" tvg-id="ONE SPORTS" tvg-logo="https://i.pinimg.com/736x/0b/5f/b3/0b5fb3bf281e5db2c7acdf1f10163da1.jpg", One Sports HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -365,8 +368,12 @@ https://converse.nathcreqtives.com/1234/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 #KODIPROP:inputstream.adaptive.license_key=0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/truefm_tv/default/index.mpd
 
-
-
+#EXTINF:-1 group-title="General;Radio;News;Cignal;International" tvg-id="Cignal TV" tvg-name="KAPATID CHANNEL" tvg-logo="https://data.phcorner.org/2025/12/12201918_download_1.webp",Kapatid Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbf670bed2ea4905a114557e90e7ffb6:616059bec8dfb27f3524b7e7c31b6cff
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pphd_sdi1/default/index.mpd
 
 
 
@@ -1164,6 +1171,7 @@ http://cord-cutter.net:8080/k4Svp2/645504/9802?checkedby:alliptvlinks.com
 
 #EXTINF:-1, tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png" group-title="F1;Sports;USA;International",US ESPN 1 (HD Backup)
 http://cord-cutter.net:8080/k4Svp2/645504/14197?checkedby:alliptvlinks.com
+
 
 
 
