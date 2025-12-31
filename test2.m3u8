@@ -688,19 +688,29 @@ https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/smart_sdi7.mpd
 #KODIPROP:inputstream.adaptive.license_key=46ec14d0ed304b62936face336e7c7c1:08bcbe5deeddae47647337bccfff02d3
 https://qp-plive-vod-streaming-prod-amd.akamaized.net/content/pubcontent/vol/46EC14D0-ED30-4B62-936F-ACE336E7C7C1/1699455132195-output_cenc_dash.ism/index.mpd?pipeline=ttml_removal
 
+
+
+
+
+
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #02" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Sports;General;PilipinasLive;Local;Cignal",Pilipinas Live #02
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash            
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eabe029920c04d9390f05eb870c50646:e217051cdfd1c5ef82a863bb857461df
-https://qp-plive-vod-streaming-prod-amd.akamaized.net/content/pubcontent/vol/EABE0299-20C0-4D93-90F0-5EB870C50646/1699455135404-output_cenc_dash.ism/index.mpd?pipeline=ttml_removal
+#KODIPROP:inputstream.adaptive.license_key=2f3056cac18d4e31a59de39767042b03:83728946b898141ae411572f9f5fce0d
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi2/default/index.mpd
+
+
+
+
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #03" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Sports;General;PilipinasLive;Local;Cignal",Pilipinas Live #03
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=782cc1508a1d4cc5bf4d49765a8f1f1d:9da3f3981285cb12d70a68daf8f6cdf6
-https://qp-plive-vod-streaming-prod-amd.akamaized.net/content/pubcontent/vol/782CC150-8A1D-4CC5-BF4D-49765A8F1F1D/1722684510764-output_cenc_dash.ism/index.mpd?pipeline=ttml_removal
+#KODIPROP:inputstream.adaptive.license_key=0c16d5962a22494db502b3453f891208:acaed175b981b34ae9b5cb0130506854
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi3/default/index.mpd
+
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #04" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Sports;General;PilipinasLive;Local;Cignal",Pilipinas Live #04
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -709,12 +719,17 @@ https://qp-plive-vod-streaming-prod-amd.akamaized.net/content/pubcontent/vol/782
 #KODIPROP:inputstream.adaptive.license_key=c3050cba95c945418efa3aedbc69cff7:988e7fade0828273472e24545d0cfa4c
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi4/default/index.mpd
 
+
+
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #05" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Sports;General;PilipinasLive;Local;Cignal",Pilipinas Live #05
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eecc6d7ac3df439fb2b73fb38007cb82:826c341a6fef4518cefd27ec85e8b274
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi5/default/index.mpd
+
+
+
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #06" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Sports;General;PilipinasLive;Local;Cignal",Pilipinas Live #06
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -723,12 +738,18 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi5/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=02d5f086706e407e9343c040ac7fb5b8:9d7e088bf7fffc9297ab3a02f0ce9a72
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi6/default/index.mpd
 
+
+
+
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #07" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Sports;General;PilipinasLive;Local;Cignal",Pilipinas Live #07
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40bed7f7948e4e5792982cf5b7ee4d78:1fbfd2e3be51aae857f2f24306e5fc41
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi7/default/index.mpd
+
+
+
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #08" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Sports;General;PilipinasLive;Local;Cignal",Pilipinas Live #08
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -737,12 +758,18 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi7/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=5a8dbf3b9c2c43079a40fb5d0068f9ef:1778ac6e22527ee2efd6886d8d509c2d
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi8/default/index.mpd
 
+
+
+
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #09" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Sports;General;PilipinasLive;Local;Cignal",Pilipinas Live #09
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c7b9a2af9ad4076b155f06269b6adc2:ed6a8b11738cd27c0bee2d9e3fee178a
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi9/default/index.mpd
+
+
+
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="PILIPINAS LIVE EVENT #10" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Sports;General;PilipinasLive;Local;Cignal",Pilipinas Live #10
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1178,6 +1205,7 @@ http://cord-cutter.net:8080/k4Svp2/645504/9802?checkedby:alliptvlinks.com
 
 #EXTINF:-1, tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png" group-title="F1;Sports;USA;International",US ESPN 1 (HD Backup)
 http://cord-cutter.net:8080/k4Svp2/645504/14197?checkedby:alliptvlinks.com
+
 
 
 
