@@ -1191,19 +1191,20 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/m
 
 
 
-#EXTINF:-1, tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kiEuPmeOVl-LKB42k9s2crSFOWaV8mLleSufLg1teuM20=s900-c-k-c0x00ffffff-no-rj" group-title="Sports;UK;International",Sky Sports (Main Event)
+#EXTINF:-1 group-title="Sports;UK;International" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kiEuPmeOVl-LKB42k9s2crSFOWaV8mLleSufLg1teuM20=s900-c-k-c0x00ffffff-no-rj" group-title="Sports;UK;International",Sky Sports (Main Event)
 http://cord-cutter.net:8080/k4Svp2/645504/53704?checkedby:alliptvlinks.com
 
 
-#EXTINF:-1, tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kiEuPmeOVl-LKB42k9s2crSFOWaV8mLleSufLg1teuM20=s900-c-k-c0x00ffffff-no-rj" group-title="Sports;UK;International",Sky Sports (Main Event Backup)
+#EXTINF:-1 group-title="Sports;UK;International" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kiEuPmeOVl-LKB42k9s2crSFOWaV8mLleSufLg1teuM20=s900-c-k-c0x00ffffff-no-rj",Sky Sports (Main Event Backup)
 http://cord-cutter.net:8080/k4Svp2/645504/35244?checkedby:alliptvlinks.com
 
 
-#EXTINF:-1, tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png" group-title="F1;Sports;USA;International",US ESPN 1 (HD)
+#EXTINF:-1 group-title="F1;Sports;USA;International" tvg-id="" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",ESPN 1 (HD)
 http://cord-cutter.net:8080/k4Svp2/645504/9802?checkedby:alliptvlinks.com
 
-#EXTINF:-1, tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png" group-title="F1;Sports;USA;International",US ESPN 1 (HD Backup)
+#EXTINF:-1 group-title="F1;Sports;USA;International" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",ESPN 1 (HD Backup)
 http://cord-cutter.net:8080/k4Svp2/645504/14197?checkedby:alliptvlinks.com
+
 
 
 
