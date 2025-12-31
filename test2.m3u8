@@ -556,7 +556,7 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_mptv.mpd
 http://161.49.17.2:6610/001/2/ch00000090990000001245/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 
-#EXTINF:-1 ch-number="73" tvg-chno="30" tvg-id="LOCAL.PROGRAMMING.DUMMY.us" tvg-logo="https://i.pinimg.com/736x/36/12/79/361279d48120709a668a7ac1c922a596.jpg" group-title="Cignal;Sports;Government;Local", EWTN
+#EXTINF:-1 ch-number="73" tvg-chno="30" tvg-id="LOCAL.PROGRAMMING.DUMMY.us" tvg-logo="https://i.pinimg.com/736x/36/12/79/361279d48120709a668a7ac1c922a596.jpg" group-title="Cignal;Religious;Government;Local;International", EWTN
 #EXTVLCOPT:http-referrer=http://143.44.136.74:9443
 #EXTVLCOPT:http-origin=http://161.49.17.2:6610
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1205,6 +1205,7 @@ http://cord-cutter.net:8080/k4Svp2/645504/9802?checkedby:alliptvlinks.com
 
 #EXTINF:-1, tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png" group-title="F1;Sports;USA;International",US ESPN 1 (HD Backup)
 http://cord-cutter.net:8080/k4Svp2/645504/14197?checkedby:alliptvlinks.com
+
 
 
 
