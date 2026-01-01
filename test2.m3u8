@@ -17,14 +17,14 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233323238353336303333363036:367662564c69425947353948374f4553
 #EXTINF:-1 tvg-id="alltv.ph" tvg-name="ALLTV" group-title="General;Kapamilya Network;Converge;Local" tvg-logo="https://i.pinimg.com/736x/e9/f6/00/e9f6002051d92fd06299a5f3e86f4780.jpg",ALLTV2
-https://converse.nathcreqtives.com/1179/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1179/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331363737343637333533323837:71347339457958556439543650426e74
 #EXTINF:-1 tvg-id="KAPAMILYA CHANNEL HD" tvg-name="Kapamilya channel" group-title="General;Kapamilya Network;Converge;Local" tvg-logo="https://i.pinimg.com/736x/3e/b2/99/3eb299a4c9bb14a9ac41fe3bde5d024d.jpg",ABS-CBN HD
-https://converse.nathcreqtives.com/1286/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1286/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -50,7 +50,7 @@ https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/in
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363234353837393638333931313738:335a493259306157495a557356494b44
 #EXTINF:-1 tvg-id="ABS-CBN News Channel" tvg-logo="https://i.pinimg.com/736x/57/39/24/5739243e2a337522820fabe3ef54a01f.jpg" group-title="News;Kapamilya Network";TFC;Local,ANC HD
-https://converse.nathcreqtives.com/1216/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1216/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
@@ -66,14 +66,14 @@ https://d3cjss68xc4sia.cloudfront.net/out/v1/89ea8db23cb24a91bfa5d0795f8d759e/in
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331363832363034333637353833:524349317875574c34386a32416c4633
 #EXTINF:-1 tvg-id="DZMM Radyo Patrol" tvg-name="DZMM Radyo Patrol" tvg-logo="https://i.pinimg.com/736x/b6/72/88/b67288465960673b23860f97176de5d3.jpg" group-title="Radio;General;Kapamilya Network;Converge;Local",DZMM Teleradyo
-https://converse.nathcreqtives.com/1249/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1249/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331363736333231333532323639:396c467233356c357355497565533536
 #EXTINF:-1 tvg-id="MYX" tvg-name="MYX" group-title="Music;Kapamilya Network;Converge;Local" tvg-logo="https://i.pinimg.com/736x/aa/8b/ad/aa8bad7c4bc5fa60bd38f98f642ddd47.jpg", MYX
-https://converse.nathcreqtives.com/1252/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1252/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
@@ -104,13 +104,13 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383438303333323033373730:375a684a31357647653565574b363076
 #EXTINF:-1 tvg-id="TV5" tvg-logo="https://i.pinimg.com/736x/23/66/c1/2366c1ec317116ed53f45d82e5322e5e.jpg" group-title="General;Kapatid Network;Cignal;Local",TV5 (Converge)
-https://converse.nathcreqtives.com/1088/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1088/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
 #EXTINF:-1 ch-number="2" tvg-chno="2" group-title="General;Kapuso Network;Converge;Local" tvg-id="GMA ph" tvg-name="GMA" tvg-logo="https://i.pinimg.com/736x/31/9e/05/319e0530158f0647e3dd3b26c40503d3.jpg", GMA
-https://converse.nathcreqtives.com/1093/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1093/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
@@ -122,17 +122,17 @@ https://honortvph.dpdns.org/1093/manifest.mpd
 
 
 #EXTINF:-1 ch-number="78" tvg-chno="35" tvg-id="DummyChannel" tvg-logo="https://i.pinimg.com/736x/b0/99/30/b09930e0329bb8444487393c62370e05.jpg" group-title="Movies;Kapuso Network;Converge;Local", Heart of Asia
-http://hls.nathcreqtives.com/playlist.m3u8?id=1&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+http://hls.nathcreqtives.com/playlist.m3u8?id=1&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 #EXTINF:-1 ch-number="78" tvg-chno="35" tvg-id="DummyChannel" tvg-logo="https://i.pinimg.com/736x/0d/9e/96/0d9e9638b9208f5c060637f843573c62.jpg" group-title="Movies;Kapuso Network;Converge;Local", I Heart Movies
-http://hls.nathcreqtives.com/playlist.m3u8?id=2&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+http://hls.nathcreqtives.com/playlist.m3u8?id=2&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233303437353134383939313936:686e36454a54544d3930343749713333
 #EXTINF:-1 tvg-id="LOCAL.PROGRAMMING.DUMMY.us" tvg-logo="https://i.pinimg.com/736x/2c/03/cd/2c03cd362d3bb4e94eeea4919bdb2f17.jpg" group-title="Movies;Kapuso Network;Converge;Local", Hallypop
-https://converse.nathcreqtives.com/1152/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1152/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
@@ -156,7 +156,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/i
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383439313133323034313530:78645370476a496d5756385231474332
 #EXTINF:-1 group-title="General;Kapatid Network;Converge;Local" tvg-id="RPTV" tvg-name="RPTV" tvg-logo="https://i.pinimg.com/736x/bc/5a/bf/bc5abf3ff6b955f0c9f0a1a6aee57be0.jpg", RPTV (Converge)
-https://converse.nathcreqtives.com/1094/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1094/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 #EXTINF:-1 group-title="General;Religious;Kapamilya Network;Cignal;Local" tvg-id="A2Z" tvg-logo="https://i.pinimg.com/736x/a8/f5/88/a8f58866824a293bb045eca5cdba0905.jpg", A2Z (Cignal)
@@ -171,7 +171,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383437383231323033353237:583130656f6d3267777a6d7235487858
 #EXTINF:-1 group-title="General;Religious;Kapamilya Network;Converge;Local" tvg-id="A2Z" tvg-logo="https://i.pinimg.com/736x/5b/8a/ac/5b8aac30d779ea7c240683bb561812c5.jpg", A2Z (Converge)
-https://converse.nathcreqtives.com/1087/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1087/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
@@ -189,14 +189,14 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/ibc13_sd_new/default1/inde
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383439333634323034333738:364a3849664b37386955623437364579
 #EXTINF:-1 group-title="General;News;Government;Converge;Local" tvg-id="Ibc13" tvg-name="IBC TV 13" tvg-logo="https://i.pinimg.com/736x/8a/90/7f/8a907f59b7ff7f4250e07a97e5493168.jpg", IBC-13 (Converge)
-https://converse.nathcreqtives.com/1089/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1089/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233323236373936303238393632:74576436426946764a6b4e5734456e37
 #EXTINF:-1 ch-number="48" tvg-chno="5" group-title="News;Radio;Converge;Local" tvg-logo="https://i.pinimg.com/736x/68/84/bf/6884bf9a4a0b63b1526b360d7ecf9565.jpg", DZRH TV
-https://converse.nathcreqtives.com/1174/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1174/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 #EXTINF:-1 tvg-id="HopeChannelPH" tvg-logo="https://static.wikia.nocookie.net/dxs/images/5/5e/Hope_Channel_Philippines_Logo_2010.png" group-title="Religious;Local",Hope Philippines
@@ -207,7 +207,7 @@ https://customer-x8zydurm357k8j9p.cloudflarestream.com/e9a0f1b659e4a6052fa798846
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232303137373937323535313836:3551344768323677674c32704a713249
 #EXTINF:-1 group-title="General;Converge;Local" tvg-logo="https://i.pinimg.com/736x/66/02/a0/6602a0d70d9608b22b706159b8c90690.jpg", Aliw
-https://converse.nathcreqtives.com/1109/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1109/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
@@ -215,20 +215,20 @@ https://converse.nathcreqtives.com/1109/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232353336313933353432383534:51313339385a5a446a454c3132646b63
 #EXTINF:-1 tvg-id="NHK WORLD JAPAN" tvg-logo="https://i.pinimg.com/736x/11/3a/13/113a13a03eb65ef158837de359650a05.jpg" group-title="News;International;Cignal",NHK WORLD JAPAN
-https://converse.nathcreqtives.com/1145/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1145/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231393131363337323232353030:56783536726130576e5a4171564c3741
 #EXTINF:-1 tvg-id="Net.25.ph" tvg-name="Net 25" tvg-logo="https://i.pinimg.com/736x/4d/a4/d3/4da4d305aabadab16d228b9f58d0b03e.jpg" group-title="General;News;Converge;Local", NET25
-https://converse.nathcreqtives.com/1090/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1090/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232353335323435353337353331:35416a68643065697575493337566135
 #EXTINF:-1 group-title="General;Kapuso Network;Converge;Local" tvg-id="GTV" tvg-name="GTV" tvg-logo="https://i.pinimg.com/736x/3f/8e/13/3f8e1369e4053ea6955e179d69d6e1e7.jpg", GTV
-https://converse.nathcreqtives.com/1143/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1143/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
@@ -236,7 +236,7 @@ https://converse.nathcreqtives.com/1143/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233323237323935303332363334:38346b5732353165303954347677476e
 #EXTINF:-1 group-title="General;Converge;Local" tvg-name="RJ TV" tvg-logo="https://i.pinimg.com/736x/58/69/0d/58690d9c3ca237417e6414c084aeaaff.jpg", RJ DigiTV
-https://converse.nathcreqtives.com/1159/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1159/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
@@ -252,20 +252,20 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bilyonaryoch/default1/inde
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232313037373837323837383130:5146434c3239617645344e7772343668
 #EXTINF:-1 group-title="General;News;Converge;Local;Business;BEAM" tvg-logo="https://i.pinimg.com/736x/d9/0a/af/d90aafda7eece85bbbbd407076dc0ab4.jpg", BNC (CONVERGE)
-https://converse.nathcreqtives.com/1124/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1124/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232353336373333353433323038:41783735743962647251314a4a383947
 #EXTINF:-1 ch-number="3" tvg-chno="3" group-title="General;Religious;Converge;Local;BEAM" tvg-id="TBN" tvg-name="TBN Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Trinity_Broadcasting_Network_logo_%282015%29.svg/1200px-Trinity_Broadcasting_Network_logo_%282015%29.svg.png",TBN Asia
-https://converse.nathcreqtives.com/1147/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1147/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231393132373735323234353438:33564d7a447073443333773974633739
 #EXTINF:-1 ch-number="3" tvg-chno="3" group-title="General;Religious;Converge;Local" tvg-id="Zoe TV" tvg-name="Light TV" tvg-logo="https://i.pinimg.com/736x/52/f5/6f/52f56f50c88fb582bc9ad9cdbbd0c0aa.jpg", Light TV
-https://converse.nathcreqtives.com/1103/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1103/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 
 
@@ -274,7 +274,7 @@ https://converse.nathcreqtives.com/1103/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363735303934383833333131363533:4b44557035556777346e4b3745613651
 #EXTINF:-1 group-title="General;Converge;Local" tvg-name="CLTV" tvg-logo="https://i.pinimg.com/736x/91/a9/8f/91a98fd3f2712fcdf233bc167fac716c.jpg", Central Luzon Television Incorporated
-https://converse.nathcreqtives.com/1314/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1314/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
@@ -282,21 +282,21 @@ https://converse.nathcreqtives.com/1314/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231393131383734323234313831:7a333137597652656743393372427153
 #EXTINF:-1 group-title="News;General;Converge;Local" tvg-logo="https://i.pinimg.com/736x/9b/d8/ae/9bd8aee9f3afc74b1a1ca04d64c4e0c3.jpg", UNTV
-https://converse.nathcreqtives.com/1091/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1091/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232373835303932373135373431:3250464a49584c376b53337579504f56
 #EXTINF:-1 group-title="Religious;Local;Cult" tvg-id="LOCAL.PROGRAMMING.DUMMY.us" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133929628.png", SMNI
-https://converse.nathcreqtives.com/1155/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1155/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231393132323937323234333139:74516e7a4f3472713651316233425841
 #EXTINF:-1 group-title="Religious;Local" tvg-id="LOCAL.PROGRAMMING.DUMMY.us" tvg-logo="https://i.pinimg.com/736x/17/d6/e1/17d6e15748d32d011a6728a7e5f30d06.jpg", INCTV
-https://converse.nathcreqtives.com/1092/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1092/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
@@ -358,7 +358,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/onenews_hd1/default/index.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363235373230343031373839383832:6f3367454f743663393778454d327338
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/GNN_Logo_2025.png" group-title="General;News;Converge;Local",One Media Naga (GNN-44)
-https://converse.nathcreqtives.com/1234/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1234/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 #EXTINF:-1 group-title="General;Radio;News;Cignal;Local" tvg-id="Cignal TV" tvg-name="TRUE FM TV" tvg-logo="https://i.pinimg.com/736x/29/f0/da/29f0da03b4e49cba23f354df3a49bc40.jpg", TrueTV
@@ -463,7 +463,7 @@ https://abslive.akamaized.net/dash/live/2028025/jeepneytv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331363735363832333531363036:723548436f6e34333961586150756649
 #EXTINF:-1 ch-number="27" tvg-chno="27" tvg-id="JEEPNEY.TV.ph" tvg-name="JEEPNEY TV" tvg-logo="https://i.pinimg.com/736x/8d/f4/dd/8df4dda4aaff082dfcccf8a126c7156f.jpg" group-title="General;Kapamilya Network;Local;Converge", Jeepney TV (Converge)
-https://converse.nathcreqtives.com/1250/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1250/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -476,7 +476,7 @@ https://abslive.akamaized.net/dash/live/2028025/mor3/manifest.mpd|Referer=https:
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363334313133373731323334343436:673478506852336979544a4f38475479
 #EXTINF:-1 ch-number="67" tvg-chno="24" tvg-logo="https://static.wikia.nocookie.net/russel/images/c/c4/Metro_Channel_White_Logo_2018.png/revision/latest?cb=20210301130321" group-title="General;Kapamilya Network;TFC;Local;Converge",METRO CHANNEL HD
-https://converse.nathcreqtives.com/1267/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1267/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 #EXTINF:-1 ch-number="10" tvg-chno=10" group-title="Kids;General;Kapamilya Network;TFC;Local" tvg-name="KNOWLEDGE CHANEL" tvg-logo="https://i.pinimg.com/736x/d6/f3/26/d6f3266124bfb528d0c805a22ee28ebc.jpg", Knowledge Channel
@@ -490,7 +490,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/knowledge_channel/default/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363735313534353138343339333732:3970705738596631374f54324c384f57
 #EXTINF:-1 ch-number="10" tvg-chno=10" group-title="Kids;General;Kapamilya Network;Converge;TFC;Local" tvg-name="KNOWLEDGE CHANEL" tvg-logo="https://i.pinimg.com/736x/d6/f3/26/d6f3266124bfb528d0c805a22ee28ebc.jpg", Knowledge Channel
-https://converse.nathcreqtives.com/1340/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1340/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
@@ -500,12 +500,12 @@ https://converse.nathcreqtives.com/1340/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 #EXTINF:-1 tvg-id="TVNMOVIESPINOY" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/49/TvN_Philippines_Logo_2009.png/revision/latest?cb=20200109024725" group-title="Movies;;Astro;TVN;Cignal;Local",tvN Movies Pinoy (Cignal)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
-https://converse.nathcreqtives.com/cignal-tvn-movies-pinoy/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/cignal-tvn-movies-pinoy/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
 #EXTINF:-1 tvg-id="TVNPREMIUM" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/49/TvN_Philippines_Logo_2009.png/revision/latest?cb=20200109024725" group-title="Movies;TVN;Cignal;Astro;Local",tvN Premium
-https://converse.nathcreqtives.com/astro/2406/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/astro/2406/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 ### GMA EXTRAS ###
@@ -603,7 +603,7 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
 #EXTINF:-1 tvg-id="Uaap Varsity" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Uaapvarsitychannel.png" group-title="Cignal;Sports;Kapatid Network;Local;Cignal",UAAP Varsity
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
-https://converse.nathcreqtives.com/cignal-uaap-varsity-channel/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/cignal-uaap-varsity-channel/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
@@ -643,7 +643,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 #EXTINF:-1 tvg-id="nbaph1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/NBA_TV_Philippines.png" group-title="General;Sports;Local;Converge",NBA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
-https://converse.nathcreqtives.com/cignal-nba-tv-philippines-cignal/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/cignal-nba-tv-philippines-cignal/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
@@ -786,13 +786,13 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi10/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363230393830353534303039353831:506e354374394938446439344b6f3741
 #EXTINF:-1 ch-number="59" tvg-chno="16" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png/revision/latest?cb=20210804092616" group-title="Converge;Movies;Viva;Local",Viva Cinema
-https://converse.nathcreqtives.com/1079/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1079/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363230393830323336303039323834:7676746b584436514331503256784654
 #EXTINF:-1 tvg-id="pbo1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png" group-title="Converge;Movies;Viva;Local",PBO (Converge)
-https://converse.nathcreqtives.com/1078/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1078/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
@@ -800,13 +800,13 @@ https://converse.nathcreqtives.com/1078/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 #EXTINF:-1 tvg-id="pbo2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png" group-title="Cignal;Movies;Viva;Local",PBO (Cignal)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
-https://converse.nathcreqtives.com/cignal-pbo/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/cignal-pbo/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363230393830373532303039383138:363354494336436b494a776f4a796634
 #EXTINF:-1 tvg-id="tagalogmovie1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/Tmc2021logo.png" group-title="Converge;Movies;Viva;Local",Tagalized Movie Channel (Converge)
-https://converse.nathcreqtives.com/1080/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1080/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
@@ -815,7 +815,7 @@ https://converse.nathcreqtives.com/1080/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 #EXTINF:-1 tvg-id="tagalogmovie2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/Tmc2021logo.png" group-title="Cignal;Movies;Viva;Local",Tagalized Movie Channel (Cignal)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96701d297d1241e492d41c397631d857:ca2931211c1a261f082a3a2c4fd9f91b
-https://converse.nathcreqtives.com/cignal-tagalized-movie-channel/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/cignal-tagalized-movie-channel/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
@@ -824,18 +824,18 @@ https://converse.nathcreqtives.com/cignal-tagalized-movie-channel/manifest.mpd?t
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363230383933303132303032303231:6b5058557254355845335a6e63737030
 #EXTINF:-1 tvg-id="celestialmovie" tvg-logo="https://cmpinoy.com.ph/storage/images/c4ca4238a0b923820dcc509a6f75849b/c/logo-og_image.png" group-title="Converge;Movies;Viva;Local",Celestial Movies Pinoy (Converge)
-https://converse.nathcreqtives.com/1077/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1077/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 #EXTINF:-1 tvg-id="celestialmovie" tvg-logo="https://cmpinoy.com.ph/storage/images/c4ca4238a0b923820dcc509a6f75849b/c/logo-og_image.png" group-title="Cignal;Movies;Viva;Local",Celestial Movies Pinoy (Cignal)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f8537d8412b11edb8780242ac120002:2ffd7230416150fd5196fd7ea71c36f3
-https://converse.nathcreqtives.com/cignal-celestial-movies-pinoy/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/cignal-celestial-movies-pinoy/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
 #EXTINF:-1 tvg-id="CelestialMovies" ch-number="309" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-title="Astro;Movies;Viva;Local",Celestial Movies (Astro)
-https://converse.nathcreqtives.com/astro/506/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/astro/506/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
@@ -849,13 +849,13 @@ https://converse.nathcreqtives.com/astro/506/manifest.mpd?token=eyJhbGciOiJIUzI1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363230383830323639303031323938:715a36614f62445635304852794b3676
 #EXTINF:-1 tvg-id="hbo1" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Emblem.png" group-title="Converge;Movies;HBO;Local",HBO HD (Converge)
-https://converse.nathcreqtives.com/1065/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1065/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 #EXTINF:-1 tvg-id="hbo2" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Emblem.png" group-title="Cignal;Movies;HBO;Local",HBO HD (Cignal)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
-https://converse.nathcreqtives.com/cignal-hbo/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/cignal-hbo/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
@@ -867,12 +867,12 @@ https://converse.nathcreqtives.com/cignal-hbo/manifest.mpd?token=eyJhbGciOiJIUzI
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
 #EXTINF:-1 tvg-id="hbohits1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Converge;Movies;HBO;Local;Astro",HBO HITS (Astro)
-https://converse.nathcreqtives.com/astro/5055/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/astro/5055/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 #EXTINF:-1 tvg-id="hbohits2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Cignal;Movies;HBO;Local",HBO HITS (Cignal)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
-https://converse.nathcreqtives.com/cignal-hbo-hits/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/cignal-hbo-hits/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
@@ -884,7 +884,7 @@ https://converse.nathcreqtives.com/cignal-hbo-hits/manifest.mpd?token=eyJhbGciOi
 #EXTINF:-1 tvg-id="hbosignature2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="Converge;Movies;HBO;Local",HBO SIGNATURE 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-https://converse.nathcreqtives.com/cignal-hbo-signature/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/cignal-hbo-signature/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
@@ -894,12 +894,12 @@ https://converse.nathcreqtives.com/cignal-hbo-signature/manifest.mpd?token=eyJhb
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
 #EXTINF:-1 tvg-id="hbofamily" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Astro;Converge;Movies;HBO;Local",HBO FAMILY
-https://converse.nathcreqtives.com/astro/5053/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/astro/5053/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 #EXTINF:-1 tvg-id="hbofamily" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Cignal;Movies;HBO;Local",HBO FAMILY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
-https://converse.nathcreqtives.com/cignal-hbo-family/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/cignal-hbo-family/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
@@ -908,13 +908,13 @@ https://converse.nathcreqtives.com/cignal-hbo-family/manifest.mpd?token=eyJhbGci
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1fe92685a75844dc54c9dac124802510:36cb2063bf5338d18d31657371b15817
 #EXTINF:-1 tvg-id="hitsph" tvg-logo="https://www.rewindnetworks.com/uploads/brand1-logo.png" group-title="Astro;Movies;HBO;Local",HITS (Converge)
-https://converse.nathcreqtives.com/astro/606/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/astro/606/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 #EXTINF:-1 tvg-id="hitsph" tvg-logo="https://www.rewindnetworks.com/uploads/brand1-logo.png" group-title="Cignal;Movies;HBO;Local",HITS (Cignal)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
-https://converse.nathcreqtives.com/cignal-hits-hd/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/cignal-hits-hd/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
@@ -928,12 +928,12 @@ https://converse.nathcreqtives.com/cignal-hits-hd/manifest.mpd?token=eyJhbGciOiJ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5110
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://converse.nathcreqtives.com/astro/5110/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/astro/5110/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 #EXTINF:-1 tvg-id="hitsnow" tvg-logo="https://www.hitstv.com/assets/hits-now-logo-color.png" group-title="Cignal;Movies;HBO;Local",HITS Now (Cig)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14439a1b7afc4527bb0ebc51cf11cbc1:92b0287c7042f271b266cc11ab7541f1
-https://converse.nathcreqtives.com/cignal-hits-now/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/cignal-hits-now/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
@@ -943,7 +943,7 @@ https://converse.nathcreqtives.com/cignal-hits-now/manifest.mpd?token=eyJhbGciOi
 #EXTINF:-1 tvg-id="hits-movies" tvg-logo="https://www.hitsnow.tv/assets/hits-movies-logo-white.png" group-title="Cignal",HITS Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f56b57b32d7e4b2cb21748c0b56761a7:3df06a89aa01b32655a77d93e09e266f
-https://converse.nathcreqtives.com/cignal-hits-movies/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/cignal-hits-movies/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
@@ -955,7 +955,7 @@ https://converse.nathcreqtives.com/cignal-hits-movies/manifest.mpd?token=eyJhbGc
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231323336323430303533343333:6a53385957735a304f6a307056793475
 #EXTINF:-1 tvg-id="solarsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Solar_Sports.png" group-title="Converge;Sports;Solar;Local",SOLAR SPORTS
-https://converse.nathcreqtives.com/1081/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1081/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
@@ -963,7 +963,7 @@ https://converse.nathcreqtives.com/1081/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331313738363633373739363234:5436395534576f7638744a43356d336e
 #EXTINF:-1 tvg-id="solarflix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/SolarFlix_%282022%29_logo.png" group-title="Converge;Movies;Solar;Local",SOLARFLIX
-https://converse.nathcreqtives.com/1243/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1243/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
@@ -976,14 +976,14 @@ https://converse.nathcreqtives.com/1243/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232353337313135353433363839:7573536e79344f796e746c324b695133
 #EXTINF:-1 tvg-id="tvtap1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TapTV-ph.png" group-title="Converge;Movies;TAP;Local;General",TAP TV
-https://converse.nathcreqtives.com/1149/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1149/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
 #EXTINF:-1 tvg-id="tvtap2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TapTV-ph.png" group-title="Cignal;Movies;TAP;Local",TAP TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6804251e90b4966889b7df94fdc621e:55c3c014f2bd12d6bd62349658f24566
-https://converse.nathcreqtives.com/cignal-tap-tv/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/cignal-tap-tv/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
@@ -994,14 +994,14 @@ https://converse.nathcreqtives.com/cignal-tap-tv/manifest.mpd?token=eyJhbGciOiJI
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363539343235333939333035383832:5446354a4a514956636567484b47317a
 #EXTINF:-1 tvg-id="tapactionflix1" tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1636945412_thumb-tap-action.png" group-title="Converge;Movies;TAP;Local",TAP Action Flix
-https://converse.nathcreqtives.com/1305/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1305/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
 #EXTINF:-1 tvg-id="tapactionflix2" tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1636945412_thumb-tap-action.png" group-title="Cignal;Movies;TAP;Local",TAP Action Flix
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
-https://converse.nathcreqtives.com/cignal-tap-action-flix-hd/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/cignal-tap-action-flix-hd/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
@@ -1012,14 +1012,14 @@ https://converse.nathcreqtives.com/cignal-tap-action-flix-hd/manifest.mpd?token=
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363539343235323739323938313334:6134384c356c5050327331636b544734
 #EXTINF:-1 tvg-id="tapmovies1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/TAP_Movies_logo.png/" group-title="Converge;Movies;TAP;Local",TAP Movies
-https://converse.nathcreqtives.com/1304/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1304/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 
 
 #EXTINF:-1 tvg-id="tapmovies2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/TAP_Movies_logo.png/" group-title="Cignal;Movies;TAP;Local",TAP Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
-https://converse.nathcreqtives.com/cignal-tap-movies-hd/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/cignal-tap-movies-hd/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 
@@ -1035,7 +1035,7 @@ https://converse.nathcreqtives.com/cignal-tap-movies-hd/manifest.mpd?token=eyJhb
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232353337323935353433383639:696d305237483130677335756d643933
 #EXTINF:-1 tvg-id="tapedge1" tvg-logo="https://static.wikia.nocookie.net/russel/images/5/57/TAP_Edge_Logo_November_2020.png" group-title="Converge;Movies;TAP;Local",TAP Edge
-https://converse.nathcreqtives.com/1150/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Njc5NTY2MiwiZXhwIjoxNzY3MjI2Nzk0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjcyMjY3OTR9.eCk_6qmreUgjqu44UlRkXV58kf-F0RdktzQAIxEs_cw
+https://converse.nathcreqtives.com/1150/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2NzI5MTUwNiwiZXhwIjoxNzY3NzIzNTA2LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Njc3MjM1MDZ9.IxlII57EceqzKSkGGKugEZNTmUMyC8d8lS05c78BU70
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1204,6 +1204,7 @@ http://cord-cutter.net:8080/k4Svp2/645504/9802?checkedby:alliptvlinks.com
 
 #EXTINF:-1 group-title="F1;Sports;USA;International" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",ESPN 1 (HD Backup)
 http://cord-cutter.net:8080/k4Svp2/645504/14197?checkedby:alliptvlinks.com
+
 
 
 
