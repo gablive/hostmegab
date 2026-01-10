@@ -16,7 +16,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233323238353336303333363036:367662564c69425947353948374f4553
-#EXTINF:-1 tvg-id="alltv.ph" tvg-name="ALLTV" group-title="General;Kapamilya Network;Converge;Local" tvg-logo="https://i.pinimg.com/736x/e9/f6/00/e9f6002051d92fd06299a5f3e86f4780.jpg",ALLTV2
+#EXTINF:-1 tvg-id="alltv.ph" tvg-name="ALLTV" group-title="General;Kapamilya Network;Converge;Local" tvg-logo="https://i.pinimg.com/736x/a7/ee/92/a7ee9282137a0490276558bb9309ca5c.jpg",ALLTV2
 https://converse.nathcreqtives.com/1179/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc2Nzg5MjU5MiwiZXhwIjoxNzY4MzI0NTkyLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NjgzMjQ1OTJ9.0vVOkI1XPIIomzVBgrfUdJH2Cx2_5UcijIWQRxu4svI
 
 
@@ -416,13 +416,13 @@ https://abslive.akamaized.net/dash/live/2028025/pbb2/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="TFC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/320px-The_Filipino_Channel_2011_logo.svg.png" group-title="General;Kapamilya Network;TFC;International",TFC (EMEA Feed)
+#EXTINF:-1 tvg-id="TFC" tvg-logo="https://i.pinimg.com/736x/cd/1d/b5/cd1db5b74fa41774032313bf5a5ef031.jpg" group-title="General;Kapamilya Network;TFC;International",TFC (EMEA Feed)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
 https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/320px-The_Filipino_Channel_2011_logo.svg.png" group-title="General;Kapamilya Network;TFC;International",TFC (Canada/US Feed)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/736x/ef/28/f2/ef28f209a71a0e2b9d98adf867fe72e8.jpg" group-title="General;Kapamilya Network;TFC;International",TFC (North America Feed)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c700e42ffc64d9b82d94cf57a2302fa:44d038e1fdcaefb3e75ffb4e42537279
 https://du44jtt5g7upx.cloudfront.net/out/v1/a3b708325c1d43dc9549c262526a6945/index.mpd
@@ -1238,6 +1238,7 @@ http://cord-cutter.net:8080/k4Svp2/645504/9802?checkedby:alliptvlinks.com
 
 #EXTINF:-1 group-title="F1;Sports;USA;International" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",ESPN 1 (HD Backup)
 http://cord-cutter.net:8080/k4Svp2/645504/14197?checkedby:alliptvlinks.com
+
 
 
 
