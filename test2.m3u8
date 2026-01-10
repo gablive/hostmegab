@@ -416,24 +416,13 @@ https://abslive.akamaized.net/dash/live/2028025/pbb2/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="TFC - The Filipino Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/320px-The_Filipino_Channel_2011_logo.svg.png" group-title="General;Kapamilya Network;TFC;International",TFC (Europe Feed)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=457c50351e2a4c42a5c34cfb5c0b0682:03a2754079e082f7dec48ad362e3899e
-https://d123wz0csfw11u.cloudfront.net/out/v1/6e2906534002432984f73742ef2bcbfe/index.mpd
-
-
-
-#EXTINF:-1 tvg-id="TFC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/320px-The_Filipino_Channel_2011_logo.svg.png" group-title="General;Kapamilya Network;TFC;International",TFC (Asia Feed)
+#EXTINF:-1 tvg-id="TFC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/320px-The_Filipino_Channel_2011_logo.svg.png" group-title="General;Kapamilya Network;TFC;International",TFC (EMEA Feed)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
 https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
 
 
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/320px-The_Filipino_Channel_2011_logo.svg.png" group-title="General;Kapamilya Network;TFC;International",TFC (Canada Feed)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/320px-The_Filipino_Channel_2011_logo.svg.png" group-title="General;Kapamilya Network;TFC;International",TFC (Canada/US Feed)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c700e42ffc64d9b82d94cf57a2302fa:44d038e1fdcaefb3e75ffb4e42537279
 https://du44jtt5g7upx.cloudfront.net/out/v1/a3b708325c1d43dc9549c262526a6945/index.mpd
@@ -1249,6 +1238,7 @@ http://cord-cutter.net:8080/k4Svp2/645504/9802?checkedby:alliptvlinks.com
 
 #EXTINF:-1 group-title="F1;Sports;USA;International" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",ESPN 1 (HD Backup)
 http://cord-cutter.net:8080/k4Svp2/645504/14197?checkedby:alliptvlinks.com
+
 
 
 
