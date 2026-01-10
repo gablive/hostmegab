@@ -520,6 +520,11 @@ https://absp-live.akamaized.net/dash/live/2099522/glife3/manifest.mpd|Referer=ht
 
 
 
+#EXTINF:-1 ch-number="2" tvg-chno="2" group-title="General;Kapuso Network;GSAT;Local" tvg-id="GMA ph" tvg-name="GMA" tvg-logo="https://i.pinimg.com/736x/c7/bc/0c/c7bc0cdaa2c3e5b02ceb374fa2282cf2.jpg", GMA OneSeg
+https://gsattv.akamaized.net/live/media0/gma7/Widevine/gma7.mpd
+
+#EXTINF:-1 ch-number="2" tvg-chno="2" group-title="General;Kapuso Network;GSAT;Local" tvg-id="GMA ph" tvg-name="GMA" tvg-logo="https://i.pinimg.com/736x/c7/bc/0c/c7bc0cdaa2c3e5b02ceb374fa2282cf2.jpg", GMA OneSeg
+https://gsattv.akamaized.net/live/media0/gma7/Fairplay/gma7.m3u8
 
 
 
@@ -1238,6 +1243,7 @@ http://cord-cutter.net:8080/k4Svp2/645504/9802?checkedby:alliptvlinks.com
 
 #EXTINF:-1 group-title="F1;Sports;USA;International" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",ESPN 1 (HD Backup)
 http://cord-cutter.net:8080/k4Svp2/645504/14197?checkedby:alliptvlinks.com
+
 
 
 
