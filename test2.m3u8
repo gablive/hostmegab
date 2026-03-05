@@ -40,7 +40,7 @@ https://honortvph.dpdns.org/1286/manifest.mpd
 #EXTINF:-1 tvg-id="Cinema One" tvg-logo="https://i.pinimg.com/736x/d9/f8/42/d9f842ee8aee1d24ac01bacd94dc4b43.jpg" group-title="Movies;Kapamilya Network;Converge;Local",Cinema One
 https://converse.nathcreqtives.com/1283/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc3MjY2OTcxMCwiZXhwIjoxNzczOTY0OTkyLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NzM5NjQ5OTJ9.LXVLJtL0rHWUtyyDroQFxFZpwu_CJ1vtZHgPhP2t4ZQ
 
-#EXTINF:-1 tvg-id="Cinema One" tvg-logo="https://i.pinimg.com/736x/d9/f8/42/d9f842ee8aee1d24ac01bacd94dc4b43.jpg" group-title="Movies;Kapamilya Network;TFC;International",Cinema One
+#EXTINF:-1 tvg-id="Cinema One" tvg-logo="https://i.pinimg.com/736x/d9/f8/42/d9f842ee8aee1d24ac01bacd94dc4b43.jpg" group-title="Movies;Kapamilya Network;TFC;International",C1 Global
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:c116c612201e178193693eced13d7319
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd
@@ -53,7 +53,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbn
 https://converse.nathcreqtives.com/1254/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc3MjY2OTcxMCwiZXhwIjoxNzczOTY0OTkyLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NzM5NjQ5OTJ9.LXVLJtL0rHWUtyyDroQFxFZpwu_CJ1vtZHgPhP2t4ZQ
 
 
-#EXTINF:-1 tvg-id="CINEMO!" tvg-logo="https://i.pinimg.com/736x/b4/20/8c/b4208cb6a4d441f816d8e8230a5255e8.jpg" group-title="Movies;Kapamilya Network;TFC;International",CineMo!
+#EXTINF:-1 tvg-id="CINEMO!" tvg-logo="https://i.pinimg.com/736x/b4/20/8c/b4208cb6a4d441f816d8e8230a5255e8.jpg" group-title="Movies;Kapamilya Network;TFC;International",CineMo! Global
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:f06b6031a3604cc6708c14d83f1a1b27
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd
@@ -1252,6 +1252,7 @@ http://cord-cutter.net:8080/k4Svp2/645504/9802?checkedby:alliptvlinks.com
 
 #EXTINF:-1 group-title="F1;Sports;USA;International" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",ESPN 1 (HD Backup)
 http://cord-cutter.net:8080/k4Svp2/645504/14197?checkedby:alliptvlinks.com
+
 
 
 
