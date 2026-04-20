@@ -215,16 +215,6 @@ https://jstre.am/live/jsl:7A1swL7Fhlh.m3u8
 https://converse.nathcreqtives.com/1109/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc3NTU5ODEyMCwiZXhwIjoxNzc2ODk0MTIwLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NzY4OTQxMjAsImFsbG93ZWRPcmlnaW5zIjpbXX0.N9iS1-ApWGLchXvFTSFa5fxBd9Yn2SupisV1nqcTz9A
 
 
-
-#EXTINF:-1 tvg-id="nhk_japan_dr" tvg-name="PH| NHK JAPAN_DR" tvg-logo="" group-title="Cignal - HLS",PH| NHK JAPAN_DR
-https://converse.nathcreqtives.com/cignal/nhk_japan_dr/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc3NjY4MTU0MiwiZXhwIjoxNzc2ODk0MTIwLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NzY4OTQxMjAsImFsbG93ZWRPcmlnaW5zIjpbXX0.0n8l-UDz0hZuoZoLA-wODpgbVK45fo4mRLONx-fOiVw
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd1e473b4fac4c13b6bd73014a14df4e:602617c77b787b240308567f1f04df20
-#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="" group-title="Unifi",NHK
-https://converse.nathcreqtives.com/unifi/NHK/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc3NjY4MTU0MiwiZXhwIjoxNzc2ODk0MTIwLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NzY4OTQxMjAsImFsbG93ZWRPcmlnaW5zIjpbXX0.0n8l-UDz0hZuoZoLA-wODpgbVK45fo4mRLONx-fOiVw
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233343133303337323335353239:327939373658545a37317536686b3146
@@ -238,11 +228,6 @@ https://converse.nathcreqtives.com/1214/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 #EXTINF:-1 tvg-id="NHK WORLD JAPAN" tvg-logo="https://i.pinimg.com/736x/11/3a/13/113a13a03eb65ef158837de359650a05.jpg" group-title="News;International;Cignal",NHK WORLD JAPAN
 https://converse.nathcreqtives.com/1145/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc3NTU5ODEyMCwiZXhwIjoxNzc2ODk0MTIwLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NzY4OTQxMjAsImFsbG93ZWRPcmlnaW5zIjpbXX0.N9iS1-ApWGLchXvFTSFa5fxBd9Yn2SupisV1nqcTz9A
 
-
-#EXTINF:-1 tvg-id="nhk-japan" tvg-logo="https://i.imgur.com/SHwfqzO.png" group-title="Cignal",NHK Japan
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d6e9d4de7d7449aadd846b7a684e564:0800fff80980f47f7ac6bc60b361b0cf
-https://converse.nathcreqtives.com/cignal-nhk-japan/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc3NjY4MTU0MiwiZXhwIjoxNzc2ODk0MTIwLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NzY4OTQxMjAsImFsbG93ZWRPcmlnaW5zIjpbXX0.0n8l-UDz0hZuoZoLA-wODpgbVK45fo4mRLONx-fOiVw
 
 #EXTINF:-1 tvg-ID="NHKWorldPremium" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/428_144.png",NHK World Premium
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
