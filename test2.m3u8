@@ -11,21 +11,6 @@
 
 #EXTM3U 
 
-# External Channels
-#EXTINF:-1 tvg-id="nba_256ad9c06f4c_s48473" tvg-logo="" group-title="NBA",Cleveland Cavaliers vs Atlanta Hawks: 1 hour from now
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://hls.nathcreqtives.com/playlist.m3u8?id=nba_256ad9c06f4c_s48473&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc3NTY4NDU1MCwiZXhwIjoxNzc2ODk0MTIwLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NzY4OTQxMjAsImFsbG93ZWRPcmlnaW5zIjpbXX0.EvlH97HYCIeV7gQOb0QboS0Syn5pKBoSQBDXVjWEx1Q
-#EXTINF:-1 tvg-id="mlb_feaff968b95d_s48516" tvg-logo="" group-title="MLB",Toronto Blue Jays vs Los Angeles Dodgers: In Progress (Server 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://hls.nathcreqtives.com/playlist.m3u8?id=mlb_feaff968b95d_s48516&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc3NTY4NDU1MCwiZXhwIjoxNzc2ODk0MTIwLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NzY4OTQxMjAsImFsbG93ZWRPcmlnaW5zIjpbXX0.EvlH97HYCIeV7gQOb0QboS0Syn5pKBoSQBDXVjWEx1Q
-#EXTINF:-1 tvg-id="mlb_feaff968b95d_s48517" tvg-logo="" group-title="MLB",Toronto Blue Jays vs Los Angeles Dodgers: In Progress (Server 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://hls.nathcreqtives.com/playlist.m3u8?id=mlb_feaff968b95d_s48517&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc3NTY4NDU1MCwiZXhwIjoxNzc2ODk0MTIwLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3NzY4OTQxMjAsImFsbG93ZWRPcmlnaW5zIjpbXX0.EvlH97HYCIeV7gQOb0QboS0Syn5pKBoSQBDXVjWEx1Q
-
-
 ### LOCAL CHANNELS ###
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
