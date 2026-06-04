@@ -403,11 +403,11 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 https://abslive.akamaized.net/dash/live/2027618/jeepneytv/manifest.mpd
 
 
+#EXTINF:-1 ch-number="27" tvg-chno="27" tvg-id="JEEPNEY.TV.ph" tvg-name="JEEPNEY TV" tvg-logo="https://i.pinimg.com/736x/8d/f4/dd/8df4dda4aaff082dfcccf8a126c7156f.jpg" group-title="General;Kapamilya Network;Local;Converge", Jeepney TV (Converge)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363331363735363832333531363036:723548436f6e34333961586150756649
-#EXTINF:-1 ch-number="27" tvg-chno="27" tvg-id="JEEPNEY.TV.ph" tvg-name="JEEPNEY TV" tvg-logo="https://i.pinimg.com/736x/8d/f4/dd/8df4dda4aaff082dfcccf8a126c7156f.jpg" group-title="General;Kapamilya Network;Local;Converge", Jeepney TV (Converge)
-https://converse.nathcreqtives.com/1250/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
+#KODIPROP:inputstream.adaptive.license_key=dc9fec234a5841bb8d06e92042c741ec:225676f32612dc803cb4d0f950d063d0
+https://converse.nathcreqtives.com/channels/jeepney-tv/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
