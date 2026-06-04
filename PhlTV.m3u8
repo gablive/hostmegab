@@ -13,29 +13,26 @@
 
 ### LOCAL CHANNELS ###
 
-
-#EXTINF:-1 tvg-id="alltv.ph" tvg-name="ALLTV" group-title="General;Kapamilya Network;Converge;Local" tvg-logo="https://i.pinimg.com/736x/e9/f6/00/e9f6002051d92fd06299a5f3e86f4780.jpg",ALLTV2
+#EXTINF:-1 tvg-id="gsat-alltv" tvg-name="ALLTV" group-title="General;Kapamilya Network;Converge;Local" tvg-logo="https://i.pinimg.com/736x/e9/f6/00/e9f6002051d92fd06299a5f3e86f4780.jpg",ALLTV2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1179/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
+#KODIPROP:inputstream.adaptive.license_key=https://converse.nathcreqtives.com/api/license/8U7IySxUYk6C9I2V-O4_6XSO?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
+https://converse.nathcreqtives.com/channels/gsat-alltv/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
 
 
-#EXTINF:-1 tvg-id="KAPAMILYA CHANNEL HD" tvg-name="Kapamilya channel" group-title="General;Kapamilya Network;Converge;Local" tvg-logo="https://i.pinimg.com/736x/3e/b2/99/3eb299a4c9bb14a9ac41fe3bde5d024d.jpg",ABS-CBN HD
+
+#EXTINF:-1 tvg-id="kapamilya-channel-hd" tvg-name="Kapamilya Channel HD" group-title="General;Kapamilya Network;Converge;Local" tvg-logo="https://i.pinimg.com/736x/3e/b2/99/3eb299a4c9bb14a9ac41fe3bde5d024d.jpg",ABS-CBN HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://converse.nathcreqtives.com/channels/kapamilya-channel-hd/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
+
+
+
+#EXTINF:-1 tvg-id="Kapamilya Channel" tvg-name="KAPAMILYA SD (CON)"
+#EXTINF:-1 tvg-id="gsat-kapamilya-channel" tvg-name="KAPAMILYA CHANNEL"  tvg-logo="https://i.pinimg.com/736x/18/4c/34/184c34a3eed374f719ec47b77caafd5a.jpg" group-title="General;Kapamilya Network;Converge;Local",ABS-CBN SD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1286/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
-
-
-#EXTINF:-1 tvg-id="Kapamilya Channel" tvg-name="KAPAMILYA SD (CON)" tvg-logo="https://i.pinimg.com/736x/18/4c/34/184c34a3eed374f719ec47b77caafd5a.jpg" group-title="General;Kapamilya Network;Converge;Local",ABS-CBN SD
-#EXTVLCOPT:http-referrer=https://mc-o0of718lw0.bunny.run/license
-#EXTVLCOPT:http-origin=https://mc-o0of718lw0.bunny.run/license
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363331363737343637333533323837:71347339457958556439543650426e74
-http://161.49.17.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=XGxWp4Rw7aXUEvQJLNyLw8ZIUMNsSOoqTzDJu4X%2FHsnBTk02zRFcIFIMNDnTJrvYT0DrbppFNBpQkxyd9Hy67Q%3D%3D&virtualDomain=001.live_hls.zte.com&usersessionid=180776581&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=HtdzdcdnUDFPjPD3ownfRamI7yg8eammkhvOJFfNC00%3D?JITPTrackType=23&JITPDRMType=Widevine&IASHttpSessionId=RR20447120251117171949775224&JITPMediaType=DASH&virtualDomain=001.live_hls.zte.com&ispcode=55&ztecid=ch00000090990000001286&m4s_min=1&usersessionid=340766663&NeedJITP=1&isjitp=0&startNumber=45936895&filedura=6
+#KODIPROP:inputstream.adaptive.license_key=https://converse.nathcreqtives.com/api/license/gPGA7JXGP4PYzpMnZ9YVvT5f?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
+https://converse.nathcreqtives.com/channels/gsat-kapamilya-channel/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
 
 
 
@@ -441,9 +438,10 @@ https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/in
 
 
 #EXTINF:-1 tvg-id="Kapamilya Channel" tvg-logo="https://i.imgur.com/E80HORr.pngg" group-title="General;Kapamilya Network;TFC;Local",KAPAMILYA CHANNEL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
-https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=292dee4236d04054910e9706ee22626b:b7c5d3220f6eb6e042a2bcb367b5c09b
+https://converse.nathcreqtives.com/channels/kapamilya-hd/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
 
 
 #EXTINF:-1 ch-number="27" tvg-chno="27" tvg-id="JEEPNEY.TV.ph" tvg-name="JEEPNEY TV" tvg-logo="https://i.pinimg.com/736x/8d/f4/dd/8df4dda4aaff082dfcccf8a126c7156f.jpg" group-title="General;Kapamilya Network;Local;Converge", Jeepney TV
