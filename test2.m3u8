@@ -15,25 +15,13 @@ tvg-url="https://epgshare01.online/epgshare01/epg_ripper_AL1.xml.gz, https://epg
 ### TEMP CHANNELS ###
 
 
-#EXTINF:-1 tvg-id="22533" tvg-name="Cleveland Guardians vs. New York Yankees @ LIVE (Server 1)" group-title="Baseball" tvg-logo="https://converse.nathcreqtives.com/api/logo/xa6zOYvrw34QoJr8ljOQylN-?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk",Cleveland Guardians vs. New York Yankees @ LIVE (Server 1)
-https://converse.nathcreqtives.com/api/playlist/1OF6wcSoJAhK2IGP1X_C33hj/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
-
-#EXTINF:-1 tvg-id="22534" tvg-name="San Francisco Giants vs. Milwaukee Brewers @ LIVE (Server 1)" group-title="Baseball" tvg-logo="https://converse.nathcreqtives.com/api/logo/lSPdf2jov8Md9Mdm_GcFZaro?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk",San Francisco Giants vs. Milwaukee Brewers @ LIVE (Server 1)
-https://converse.nathcreqtives.com/api/playlist/Rv4TZZ4ppbnh7Bp6hgRE_x1C/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
-
-#EXTINF:-1 tvg-id="22544" tvg-name="Spain vs. Iraq @ LIVE (Server 1)" group-title="Football" tvg-logo="https://converse.nathcreqtives.com/api/logo/3XndfQYI1oh4wPv_tBGwIug6?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk",Spain vs. Iraq @ LIVE (Server 1)
-https://converse.nathcreqtives.com/api/playlist/3eegbEAwThfWH5Hu9XEtxNLM/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
-
-
-
 ### LOCAL CHANNELS ###
 
 #EXTINF:-1 tvg-id="gsat-alltv" tvg-name="ALLTV" group-title="General;Kapamilya Network;Converge;Local" tvg-logo="https://i.pinimg.com/736x/e9/f6/00/e9f6002051d92fd06299a5f3e86f4780.jpg",ALLTV2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://converse.nathcreqtives.com/api/license/8U7IySxUYk6C9I2V-O4_6XSO?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
+#KODIPROP:inputstream.adaptive.license_key=https://converse.nathcreqtives.com/api/license/ObqdrMlbBN91Wckl3p6thUFs?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
 https://converse.nathcreqtives.com/channels/gsat-alltv/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
-
 
 #EXTINF:-1 tvg-id="kapamilya-channel-hd" tvg-name="Kapamilya Channel HD" group-title="General;Kapamilya Network;Converge;Local" tvg-logo="https://i.pinimg.com/736x/3e/b2/99/3eb299a4c9bb14a9ac41fe3bde5d024d.jpg",ABS-CBN HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
