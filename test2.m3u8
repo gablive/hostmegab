@@ -811,91 +811,39 @@ https://converse.nathcreqtives.com/channels/hbo-plus-hd/manifest.mpd?token=eyJhb
 #KODIPROP:inputstream.adaptive.license_key=726ba11e0d4da81ab665db59eb44bb52:b84ee5a54279203858314dcc04fc000b
 https://converse.nathcreqtives.com/channels/hbo-xtreme/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
 
+#EXTINF:-1 tvg-id="hbo-plus-hd" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Emblem.png" group-title="Cignal;Movies;HBO;Local",HBO Comedy
+https://converse.nathcreqtives.com/channels/stalker-20219-38dca9cd/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
+
+#EXTINF:-1 tvg-id="stalker-14122-45a3cd4d" tvg-name="HBO EAST" tvg-logo="https://converse.nathcreqtives.com/api/logo/XjS8wfX96Bfg0rRhDNvyrRGN?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk" group-title="Cignal;Movies;HBO;Local",HBO EAST
+https://converse.nathcreqtives.com/channels/stalker-14122-45a3cd4d/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
+
+#EXTINF:-1 tvg-id="stalker-14186-84e55f91" tvg-name="HBO SIGNATURE EAST" tvg-logo="https://converse.nathcreqtives.com/api/logo/IYazFwqG9gH2JKFxUSXf-aO_?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk" group-title="Cignal;Movies;HBO;Local",HBO SIGNATURE EAST
+https://converse.nathcreqtives.com/channels/stalker-14186-84e55f91/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
+
+#EXTINF:-1 tvg-id="stalker-14185-a0969ee9" tvg-name="HBO ZONE" tvg-logo="https://converse.nathcreqtives.com/api/logo/RuwxytLx1BBQ7mlKcqZmkkh1?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk" group-title="Cignal;Movies;HBO;Local",HBO ZONE
+https://converse.nathcreqtives.com/channels/stalker-14185-a0969ee9/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
 
 
 
-
-
+#EXTINF:-1 tvg-id="hitsph" group-title="Cignal" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="Cignal;Movies;HBO;Local",HITS Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
-#EXTINF:-1 tvg-id="hbohits1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Converge;Movies;HBO;Local;Astro",HBO HITS (Astro)
-https://converse.nathcreqtives.com/astro/5055/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
-
-#EXTINF:-1 tvg-id="hbohits2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Cignal;Movies;HBO;Local",HBO HITS (Cignal)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
-https://converse.nathcreqtives.com/cignal-hbo-hits/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
+#KODIPROP:inputstream.adaptive.license_key=f56b57b32d7e4b2cb21748c0b56761a7:3df06a89aa01b32655a77d93e09e266f
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hitsmovies/default/index.mpd
 
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="hbosignature2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="Converge;Movies;HBO;Local",HBO SIGNATURE 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-https://converse.nathcreqtives.com/cignal-hbo-signature/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
-
-
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
-#EXTINF:-1 tvg-id="hbofamily" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Astro;Converge;Movies;HBO;Local",HBO FAMILY
-https://converse.nathcreqtives.com/astro/5053/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
-
-#EXTINF:-1 tvg-id="hbofamily" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Cignal;Movies;HBO;Local",HBO FAMILY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
-https://converse.nathcreqtives.com/cignal-hbo-family/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
-
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1fe92685a75844dc54c9dac124802510:36cb2063bf5338d18d31657371b15817
-#EXTINF:-1 tvg-id="hitsph" tvg-logo="https://www.rewindnetworks.com/uploads/brand1-logo.png" group-title="Astro;Movies;HBO;Local",HITS (Converge)
-https://converse.nathcreqtives.com/astro/606/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
-
-
-#EXTINF:-1 tvg-id="hitsph" tvg-logo="https://www.rewindnetworks.com/uploads/brand1-logo.png" group-title="Cignal;Movies;HBO;Local",HITS (Cignal)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
-https://converse.nathcreqtives.com/cignal-hits-hd/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="hitsnow" tvg-logo="https://www.hitstv.com/assets/hits-now-logo-color.png" group-title="Astro;Converge;Movies;HBO;Local",HITS Now (Con)
+#EXTINF:-1 tvg-id="hitsnow" tvg-logo="https://www.hitstv.com/assets/hits-now-logo-color.png" group-title="Astro;Converge;Movies;HBO;Local",HITS Now
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5110
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://converse.nathcreqtives.com/astro/5110/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
-
-#EXTINF:-1 tvg-id="hitsnow" tvg-logo="https://www.hitstv.com/assets/hits-now-logo-color.png" group-title="Cignal;Movies;HBO;Local",HITS Now (Cig)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14439a1b7afc4527bb0ebc51cf11cbc1:92b0287c7042f271b266cc11ab7541f1
-https://converse.nathcreqtives.com/cignal-hits-now/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd
 
 
 
 
-
-
-#EXTINF:-1 tvg-id="hits-movies" tvg-logo="https://www.hitsnow.tv/assets/hits-movies-logo-white.png" group-title="Cignal",HITS Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f56b57b32d7e4b2cb21748c0b56761a7:3df06a89aa01b32655a77d93e09e266f
-https://converse.nathcreqtives.com/cignal-hits-movies/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
 
 
 
@@ -903,20 +851,15 @@ https://converse.nathcreqtives.com/cignal-hits-movies/manifest.mpd?token=eyJhbGc
 ### SOLAR EXTRAS ###
 
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363231323336323430303533343333:6a53385957735a304f6a307056793475
 #EXTINF:-1 tvg-id="solarsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Solar_Sports.png" group-title="Converge;Sports;Solar;Local",SOLAR SPORTS
-https://converse.nathcreqtives.com/1081/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
-
-
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363331313738363633373739363234:5436395534576f7638744a43356d336e
-#EXTINF:-1 tvg-id="solarflix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/SolarFlix_%282022%29_logo.png" group-title="Converge;Movies;Solar;Local",SOLARFLIX
-https://converse.nathcreqtives.com/1243/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
+https://converse.nathcreqtives.com/channels/solarsports/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
 
+
+
+#EXTINF:-1 tvg-id="solarflix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/SolarFlix_%282022%29_logo.png" group-title="Converge;Movies;Solar;Local",SOLARFLIX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://converse.nathcreqtives.com/channels/solarflix/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
 
 
 
@@ -924,92 +867,26 @@ https://converse.nathcreqtives.com/1243/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsI
 ### TAP EXTRAS ###
 
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232353337313135353433363839:7573536e79344f796e746c324b695133
 #EXTINF:-1 tvg-id="tvtap1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TapTV-ph.png" group-title="Converge;Movies;TAP;Local;General",TAP TV
-https://converse.nathcreqtives.com/1149/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
-
-
-
-#EXTINF:-1 tvg-id="tvtap2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TapTV-ph.png" group-title="Cignal;Movies;TAP;Local",TAP TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6804251e90b4966889b7df94fdc621e:55c3c014f2bd12d6bd62349658f24566
-https://converse.nathcreqtives.com/cignal-tap-tv/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
-
-
-
-
-
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363539343235333939333035383832:5446354a4a514956636567484b47317a
+https://converse.nathcreqtives.com/channels/tap-tv/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
+
 #EXTINF:-1 tvg-id="tapactionflix1" tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1636945412_thumb-tap-action.png" group-title="Converge;Movies;TAP;Local",TAP Action Flix
-https://converse.nathcreqtives.com/1305/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
-
-
-
-#EXTINF:-1 tvg-id="tapactionflix2" tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1636945412_thumb-tap-action.png" group-title="Cignal;Movies;TAP;Local",TAP Action Flix
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
-https://converse.nathcreqtives.com/cignal-tap-action-flix-hd/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
-
-
-
-
-
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363539343235323739323938313334:6134384c356c5050327331636b544734
+https://converse.nathcreqtives.com/channels/tap-action-flix/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
+
 #EXTINF:-1 tvg-id="tapmovies1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/TAP_Movies_logo.png/" group-title="Converge;Movies;TAP;Local",TAP Movies
-https://converse.nathcreqtives.com/1304/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://converse.nathcreqtives.com/channels/converge-tap-movies/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
 
-
-#EXTINF:-1 tvg-id="tapmovies2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/TAP_Movies_logo.png/" group-title="Cignal;Movies;TAP;Local",TAP Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
-https://converse.nathcreqtives.com/cignal-tap-movies-hd/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
-
-
-
-
-
-
-
-
-
-
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232353337323935353433383639:696d305237483130677335756d643933
 #EXTINF:-1 tvg-id="tapedge1" tvg-logo="https://static.wikia.nocookie.net/russel/images/5/57/TAP_Edge_Logo_November_2020.png" group-title="Converge;Movies;TAP;Local",TAP Edge
-https://converse.nathcreqtives.com/1150/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://converse.nathcreqtives.com/channels/tap-edge/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
 
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4553f7e8011f411fb625cefc39274300:98f2f1d153367e84b5d559dc9dfb9a35
-#EXTINF:-1 tvg-id="tapedge2" tvg-logo="https://static.wikia.nocookie.net/russel/images/5/57/TAP_Edge_Logo_November_2020.png" group-title="Cignal;Movies;TAP;Local",TAP Edge
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tapedge.mpd
-
-
-
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="tapsports1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="Converge;Sports;TAP;Local",TAP SPORTS
-http://143.44.136.110:6610/001/2/ch00000090990000001151/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://converse.nathcreqtives.com/channels/converge-tap-sports/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
-#EXTINF:-1 tvg-id="tapsports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="Cignal;Sports;TAP;Local",TAP SPORTS
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 
 
@@ -1023,7 +900,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/pc_hd_abr_v2.mpd
 
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png" group-title="General;UK;International",BBC Two HD
-http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C7:A2:74&stream=197561&extension=ts&checkedby:alliptvlinks.com
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/mobile_wifi_main_sd_abr_v2.m3u8
 
 #EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-name="BBC Three" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-three-uk.png" group-title="General;UK;International",BBC Three HD
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv10/b=1604032/main.m3u8
@@ -1041,11 +918,10 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 
 #EXTINF:-1 tvg-id="TalkTV.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/TalkTV_New_Logo.png" group-title="Business;News;General;UK",TalkTV 
-https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
-
+https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfVGFsa19ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Sky-News-Logo.png" group-title="Business;News;General;UK",Sky News 
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7&serverSideAds=false&checkedby:alliptvlinks.com
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://media.info/l/f/7/7421.1622063003.png" group-title="Business;News;General;UK",GB News 
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
@@ -1061,18 +937,18 @@ https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1024px-ITV1_logo_%282022%29.svg.png" group-title="General;UK;International",ITV 1
-https://dttstream.zappr.stream/itv1.m3u8 
+http://80.194.62.172:50002/stream/channelid/95929545
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ITV2_logo_2022.svg/1200px-ITV2_logo_2022.svg.png" group-title="General;UK;International",ITV 2
-https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
+http://80.194.62.172:50002/stream/channelid/404728797
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/ITV3_logo_2022.svg/1200px-ITV3_logo_2022.svg.png" group-title="General;UK;International",ITV 3
-https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/1200px-ITV4_logo_%282022%29.svg.png" group-title="General;UK;International",ITV 4
-https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
+https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 
 
 
@@ -1081,19 +957,79 @@ https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Film4_logo_2018.png" group-title="Movies;UK;International",Film4
-https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
+http://80.194.62.172:50002/stream/channelid/1764271106
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/More4_logo_2018.pngg" group-title="General;UK;International",More4
 https://viamotionhsi.netplus.ch/live/eds/more4/browser-dash/more4.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/1/1053.1641667234.png" group-title="General;UK;International",Channel 5
-https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
+https://x.canlitvapp.com/u-channel-5/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Paramount_Global.svg/1200px-Paramount_Global.svg.png" group-title="General;UK;International;Movies",Paramount
 https://viamotionhsi.netplus.ch/live/eds/paramount/browser-dash/paramount.mpd
 
+### SKY ###
 
 
+#EXTINF:-1 tvg-id="stalker-598-55a6f46a" tvg-name="SKY CINEMA ACTION" tvg-logo="https://converse.nathcreqtives.com/api/logo/4ui4AcUIvImgbMXTDaaG6aiY?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk" group-title="UK;International;General;Movies",SKY CINEMA ACTION
+https://converse.nathcreqtives.com/channels/stalker-598-55a6f46a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
+
+#EXTINF:-1 tvg-id="stalker-599-66b445fc" tvg-name="SKY CINEMA COMEDY" tvg-logo="https://converse.nathcreqtives.com/api/logo/HWhcXg_T53Nri0hw31UaRZKi?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk" group-title="UK;International;General;Movies",SKY CINEMA COMEDY
+https://converse.nathcreqtives.com/channels/stalker-599-66b445fc/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
+
+#EXTINF:-1 tvg-id="stalker-606-2eeefc0c" tvg-name="SKY CINEMA DRAMA" tvg-logo="https://converse.nathcreqtives.com/api/logo/5FVKXA_IsoNYn8qu7hg5srq8?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk" group-title="UK;International;General;Movies",SKY CINEMA DRAMA
+https://converse.nathcreqtives.com/channels/stalker-606-2eeefc0c/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
+
+#EXTINF:-1 tvg-id="stalker-602-707e736f" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://converse.nathcreqtives.com/api/logo/HvPqeslJI2ZFVIQwKbns2sq8?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk" group-title="UK;International;General;Movies",SKY CINEMA FAMILY
+https://converse.nathcreqtives.com/channels/stalker-602-707e736f/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
+
+#EXTINF:-1 tvg-id="stalker-18289-ab192ae1" tvg-name="SKY CINEMA HITS." tvg-logo="https://converse.nathcreqtives.com/api/logo/TKZtvW9HQKsztDW2iewIlhvS?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk" group-title="UK;International;General;Movies",SKY CINEMA HITS.
+https://converse.nathcreqtives.com/channels/stalker-18289-ab192ae1/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
+
+#EXTINF:-1 tvg-id="stalker-603-d3031f11" tvg-name="SKY CINEMA MODERN GREATS" tvg-logo="https://converse.nathcreqtives.com/api/logo/k7Zl-MLG954tiU4JM8owJrjB?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk" group-title="UK;International;General;Movies",SKY CINEMA MODERN GREATS
+https://converse.nathcreqtives.com/channels/stalker-603-d3031f11/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
+
+#EXTINF:-1 tvg-id="stalker-600-cbdec226" tvg-name="SKY CINEMA PREMIER" tvg-logo="https://converse.nathcreqtives.com/api/logo/G0vNmUCuYcE8HeznSEl2xpVs?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk" group-title="UK;International;General;Movies",SKY CINEMA PREMIER
+https://converse.nathcreqtives.com/channels/stalker-600-cbdec226/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
+
+#EXTINF:-1 tvg-id="stalker-604-ab5e267e" tvg-name="SKY CINEMA SCI FI" tvg-logo="https://converse.nathcreqtives.com/api/logo/Ql6pEtiIjg16MxTpEuv5FepH?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk" group-title="UK;International;General;Movies",SKY CINEMA SCI FI
+https://converse.nathcreqtives.com/channels/stalker-604-ab5e267e/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
+
+#EXTINF:-1 tvg-id="stalker-605-414a2239" tvg-name="SKY CINEMA THRILLER" tvg-logo="https://converse.nathcreqtives.com/api/logo/_TR9gW4x5YDSWiW3nLuVZ5Ze?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk" group-title="UK;International;General;Movies",SKY CINEMA THRILLER
+https://converse.nathcreqtives.com/channels/stalker-605-414a2239/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
+
+
+### SKY SPORTS UHD ###
+
+#EXTINF:-1 tvg-id="xtream-uhd-sky-sports-1-4k-126a92e4" tvg-name="Sky Sports 1" tvg-logo="https://converse.nathcreqtives.com/api/logo/DR1-Fxj5cb_s-U6G5s0kmRwM?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk" group-title="Sports;UK;International",Sky Sports 1
+https://converse.nathcreqtives.com/channels/xtream-uhd-sky-sports-1-4k-126a92e4/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
+
+#EXTINF:-1 tvg-id="xtream-uhd-sky-sports-2-4k-8c1fb485" tvg-name="Sky Sports 2" tvg-logo="https://converse.nathcreqtives.com/api/logo/fSc2ZenfQXWUtUr6YWInonDX?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk" group-title="Sports;UK;International",Sky Sports 2
+https://converse.nathcreqtives.com/channels/xtream-uhd-sky-sports-2-4k-8c1fb485/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
+
+#EXTINF:-1 tvg-id="xtream-uhd-sky-sports-f1-4k-b747b36d" tvg-name="Sky Sports F1" tvg-logo="https://converse.nathcreqtives.com/api/logo/kbTpHbdamDnOsFk7kvAv8zAQ?format=png&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk" group-title="Sports;UK;International",Sky Sports F1
+https://converse.nathcreqtives.com/channels/xtream-uhd-sky-sports-f1-4k-b747b36d/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
+
+
+### SKY SPORTS SD ###
+
+#EXTINF:-1 tvg-id="sky-sports" tvg-name="SKY SPORTS" tvg-logo="" group-title="Izzigo",SKY SPORTS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
+https://converse.nathcreqtives.com/channels/sky-sports/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
+
+#EXTINF:-1 tvg-id="ungrouped-sky-sports-2" tvg-name="SKY SPORTS" tvg-logo="" group-title="Izzigo",SKY SPORTS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=99909032389c6ee41c3d2f3ec829f804:41fbc575c8ef1cdac1dca990c9a0df9d
+https://converse.nathcreqtives.com/channels/ungrouped-sky-sports-2/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
+
+#EXTINF:-1 tvg-id="ungrouped-sky-sports-3" tvg-name="SKY SPORTS" tvg-logo="" group-title="Izzigo",SKY SPORTS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
+https://converse.nathcreqtives.com/channels/ungrouped-sky-sports-3/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
 
 
 ### USA ###
@@ -1152,68 +1088,6 @@ http://cord-cutter.net:8080/k4Svp2/645504/9802?checkedby:alliptvlinks.com
 
 #EXTINF:-1 group-title="F1;Sports;USA;International" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",ESPN 1 (HD Backup)
 http://cord-cutter.net:8080/k4Svp2/645504/14197?checkedby:alliptvlinks.com
-
-
-
-
-
-#EXTINF:-1,TNT Sports 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-https://netskrt.live.pv-cdn.net/OTT.../v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1,TNT Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
-https://netskrt.live.pv-cdn.net/OTT.../v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-#EXTINF:-1,TNT Sports 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
-https://netskrt.live.pv-cdn.net/OTT.../v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-#EXTINF:-1,TNT Sports 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-https://netskrt.live.pv-cdn.net/OTT.../v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
