@@ -934,3 +934,5 @@ https://converse.nathcreqtives.com/channels/espn-hd/manifest.mpd?token=eyJhbGciO
 https://converse.nathcreqtives.com/channels/espn-plus/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc4MDYwNTc3NCwiZXhwIjoxNzg4MzgxNzc0LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODgzODE3NzQsImFsbG93ZWRPcmlnaW5zIjpbXX0.2R65m9-gXDXd2uEfOAj4N7CBEjt31w4RvYzm1kKKahk
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo-0-1.png" group-title="Sports;UK;Event",FOX SPORTS
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
