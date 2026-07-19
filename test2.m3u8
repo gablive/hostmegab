@@ -936,3 +936,9 @@ https://converse.nathcreqtives.com/channels/espn-plus/manifest.mpd?token=eyJhbGc
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo-0-1.png" group-title="Sports;UK;Event",FOX SPORTS
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1, FOX FHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://otte.cache.aiv-cdn.net/bom-.../v1/b78800b9b2304879b15843f455836829/cenc.mpd
